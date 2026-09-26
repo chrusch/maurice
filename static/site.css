@@ -399,6 +399,9 @@ button { font: inherit; color: inherit; }
 .toc a { color: var(--ink); text-decoration: none; }
 .toc a:hover { color: var(--accent); }
 .toc-sub { color: var(--ink-3); font-size: .9em; font-style: italic; margin-left: .35em; }
+.toc-summary { margin: -.35rem 0 .6rem; color: var(--ink-2); font-size: .98rem; font-style: italic; line-height: 1.45; max-width: 44em; text-wrap: pretty; }
+.toc ol .toc-summary { margin: 0 0 .4rem; font-size: .93rem; }
+.toc-note { margin: -.4rem 0 1rem; color: var(--ink-3); font-size: .95rem; font-style: italic; }
 
 .panel { background: var(--paper-2); border: 1px solid var(--rule); border-radius: 10px; padding: 1.4rem 1.4rem 1.2rem; }
 .panel-title { font-size: 1.5rem; font-weight: 600; margin-bottom: .6rem; }
@@ -589,6 +592,7 @@ mark { background: var(--mark); color: inherit; padding: 0 .08em; border-radius:
 .chapter-head h1 { font-size: clamp(2rem, 5vw, 2.9rem); font-weight: 500; line-height: 1.12; text-wrap: balance; }
 .chapter-head h1.long { font-size: clamp(1.55rem, 3.4vw, 2.05rem); line-height: 1.2; }
 .chapter-head .orn { margin-top: 1.3rem; }
+.chapter-summary { max-width: 34em; margin: 1rem auto 0; color: var(--ink-2); font-size: 1.1rem; font-style: italic; line-height: 1.45; text-wrap: balance; }
 
 /* Links to the YouTube narration of a chapter */
 .listen { margin: .2rem 0 0; font-variant-caps: all-small-caps; letter-spacing: .08em; font-size: 1.05rem; }
