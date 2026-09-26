@@ -169,7 +169,7 @@ button { font: inherit; color: inherit; }
   --w: 2.4rem; --h: 92%;
   --band-top: 1.55rem; --band-bottom: 1.8rem;   /* the gilt rules near each end */
   flex: 0 1 var(--w); min-width: 1.3rem; height: var(--h);
-  container-type: inline-size;
+  container-type: size;              /* its height sizes the title: see .spine-title */
   position: relative; display: block;
   border-radius: 3px 3px 1px 1px;
   background:
@@ -193,7 +193,11 @@ button { font: inherit; color: inherit; }
   top: calc(var(--band-top) + .35rem); bottom: calc(var(--band-bottom) + .35rem);
   transform: translateX(-50%) rotate(180deg);
   writing-mode: vertical-rl; text-align: end;
-  font-family: var(--display); font-weight: 600; font-size: clamp(.62rem, 40cqi, .9rem); letter-spacing: .05em;
+  /* As large as fits: the space between the rules (the spine's height less
+     the rules and gaps) over the title's length (--len characters, at about
+     .62em each in these small capitals), capped by the spine's width. */
+  font-family: var(--display); font-weight: 600; letter-spacing: .05em;
+  font-size: clamp(.55rem, min(40cqw, (100cqh - 4.3rem) / (var(--len) * .62)), .9rem);
   font-variant-caps: small-caps;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   text-shadow: 0 1px 0 rgb(0 0 0 / .45);
@@ -215,7 +219,7 @@ button { font: inherit; color: inherit; }
   .hero { padding-top: 2.5rem; }
   .hero-grid { grid-template-columns: 1fr; gap: 2.5rem; }
   .shelf-books { height: 16.5rem; }
-  .spine-title { font-size: clamp(.58rem, 40cqi, .9rem); letter-spacing: .02em; }
+  .spine-title { letter-spacing: .02em; }
 }
 
 /* ---------------------------------------------------------------- home: quote */
@@ -236,6 +240,10 @@ button { font: inherit; color: inherit; }
 .quote cite a:hover { color: var(--accent); }
 .quote.is-changing blockquote, .quote.is-changing cite { opacity: 0; }
 .quote blockquote, .quote cite { transition: opacity .5s; }
+.quote-more { margin: .6rem 0 0; }
+.quote-more a { display: inline-flex; align-items: center; gap: .2rem; color: var(--ink-3); text-decoration: none; font-variant-caps: all-small-caps; letter-spacing: .1em; font-size: 1rem; }
+.quote-more a:hover { color: var(--accent); }
+.quote-more .i { width: .9em; height: .9em; }
 
 /* ---------------------------------------------------------------- home: library */
 
@@ -442,6 +450,25 @@ button { font: inherit; color: inherit; }
 .works-list { list-style: none; margin: 0; padding: 0; }
 .works-list li { display: grid; grid-template-columns: 3.5rem 1fr; gap: .8rem; padding: .35rem 0; border-top: 1px dotted var(--rule); }
 .w-year { color: var(--ink-3); font-variant-numeric: oldstyle-nums tabular-nums; }
+
+/* ---------------------------------------------------------------- Maurice in Brief */
+
+@media (max-width: 50rem) { .nav-brief { display: none; } }
+.brief-intro { font-size: 1.15rem; color: var(--ink-2); line-height: 1.6; }
+.brief-toc { text-align: center; font-variant-caps: all-small-caps; letter-spacing: .1em; font-size: 1.05rem; color: var(--ink-3); margin: 1.5rem 0 0; line-height: 1.8; }
+.brief-toc a { color: var(--ink-2); text-decoration: none; white-space: nowrap; }
+.brief-toc a:hover { color: var(--accent); }
+.brief-theme { margin-top: 4rem; text-align: center; }
+.brief-theme h2 { font-size: 2rem; font-weight: 500; }
+.brief { margin: 2.6rem 0 0; }
+.brief-line { font-family: var(--display); font-weight: 500; font-size: clamp(1.6rem, 3.6vw, 2.1rem); line-height: 1.2; margin: 0; text-wrap: balance; color: var(--ink); }
+.brief-quote { margin: .9rem auto 0; max-width: 34rem; }
+.brief-quote p { margin: 0; font-style: italic; color: var(--ink-2); font-size: 1.05rem; line-height: 1.55; text-wrap: pretty; }
+.brief-quote p::before { content: "“"; }
+.brief-quote p::after { content: "”"; }
+.brief figcaption { margin-top: .5rem; font-variant-caps: all-small-caps; letter-spacing: .08em; font-size: .98rem; }
+.brief figcaption a { color: var(--ink-3); text-decoration: none; }
+.brief figcaption a:hover { color: var(--accent); text-decoration: underline; }
 
 /* ---------------------------------------------------------------- contact */
 
