@@ -443,6 +443,27 @@ button { font: inherit; color: inherit; }
 .works-list li { display: grid; grid-template-columns: 3.5rem 1fr; gap: .8rem; padding: .35rem 0; border-top: 1px dotted var(--rule); }
 .w-year { color: var(--ink-3); font-variant-numeric: oldstyle-nums tabular-nums; }
 
+/* ---------------------------------------------------------------- contact */
+
+.contact-form { display: grid; gap: 1rem; margin-top: 1.5rem; }
+.contact-form label { display: grid; gap: .3rem; font-variant-caps: all-small-caps; letter-spacing: .08em; color: var(--ink-2); font-size: 1.05rem; }
+.contact-form label em { font-variant-caps: normal; letter-spacing: 0; color: var(--ink-3); font-size: .95rem; margin-left: .2rem; }
+.contact-form input[type=text], .contact-form input[type=email], .contact-form select, .contact-form textarea {
+  font: inherit; font-variant-caps: normal; letter-spacing: 0; font-size: 1.1rem; color: var(--ink);
+  background: var(--paper-2); border: 1px solid var(--rule); border-radius: 8px; padding: .55rem .75rem; width: 100%;
+}
+.contact-form textarea { resize: vertical; line-height: 1.5; }
+.contact-form :is(input, select, textarea):focus { outline: none; border-color: var(--accent); }
+.field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+@media (max-width: 36rem) { .field-row { grid-template-columns: 1fr; } }
+.contact-form .if-mistake { display: none; }
+.contact-form.is-mistake .if-mistake { display: grid; }
+.form-actions { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; margin: .3rem 0 0; }
+#contact-status { color: var(--ink-2); font-style: italic; }
+.form-note { margin: 0; color: var(--ink-3); font-size: .95rem; font-style: italic; }
+.sent-note { display: none; background: var(--paper-2); border: 1px solid var(--rule); border-left: 3px solid var(--accent); border-radius: 6px; padding: .9rem 1.1rem; }
+.sent-note:target, .sent-note.is-shown { display: block; }
+
 /* ---------------------------------------------------------------- search */
 
 .search-form { display: flex; gap: .6rem; flex-wrap: wrap; }

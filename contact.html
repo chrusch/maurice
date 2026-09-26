@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact · F. D. Maurice</title>
+<meta name="description" content="Send a question, suggestion or correction about the F. D. Maurice library.">
+<meta property="og:title" content="Contact">
+<meta property="og:description" content="Send a question, suggestion or correction about the F. D. Maurice library.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://fdmaurice.com/static/portrait-share.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Portrait of F. D. Maurice about 1865: an older man with long, swept-back grey hair, in a dark coat and white clerical neckcloth">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#f7f2e8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#16130f" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="https://fdmaurice.com/contact.html">
+<link rel="icon" href="static/favicon.svg" type="image/svg+xml">
+<link rel="preload" href="static/fonts/eb-garamond-normal-400-700-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="static/fonts.css?v=e79b1387ed">
+<link rel="stylesheet" href="static/site.css?v=e79b1387ed">
+<script>try{var d=document.documentElement,t=localStorage.getItem("fdm-theme"),s=localStorage.getItem("fdm-size");if(t)d.dataset.theme=t;if(s)d.dataset.size=s}catch(e){}</script>
+
+</head>
+<body class="contact-page">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="wordmark" href="index.html"><span class="wm-initials">F. D.</span> Maurice</a>
+    <nav class="site-nav" aria-label="Site">
+      <a href="index.html#library">Library</a>
+      <a href="life.html">His Life</a>
+      <a href="about.html">About</a>
+      <a class="nav-icon" href="search.html" aria-label="Search the books"><svg class="i" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10.5" cy="10.5" r="6"/><path d="m15 15 5 5"/></svg><span class="nav-icon-label">Search</span></a>
+      <button class="nav-icon" type="button" data-action="theme" aria-label="Switch light or dark"><svg class="i" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg></button>
+    </nav>
+  </div>
+</header>
+<main id="main" class="page contact">
+  <div class="wrap narrow">
+    <header class="page-head"><h1>Contact</h1><svg class="orn" viewBox="0 0 120 12" aria-hidden="true" focusable="false"><path d="M2 6h44M74 6h44" stroke="currentColor" stroke-width=".9"/><circle cx="50" cy="6" r="1.5" fill="currentColor"/><circle cx="70" cy="6" r="1.5" fill="currentColor"/><path d="M60 .8 65.2 6 60 11.2 54.8 6Z" fill="currentColor"/></svg></header>
+    <div class="prose">
+      <p>Questions, suggestions, and above all corrections are welcome. If you have found a mistake in one of the texts, the quickest way to report it is the <em>Report a mistake</em> link at the foot of each chapter, which fills in the page for you; select the faulty words first and they are included too.</p>
+    </div>
+    <p id="sent" class="sent-note">Thank you. Your message has been sent; if you gave an email address, any reply will come there.</p>
+    <form id="contact-form" class="contact-form" action="https://api.web3forms.com/submit" method="POST">
+      <input type="hidden" name="access_key" value="f88d88b7-7c71-4533-a617-04e8445059e6">
+      <input type="hidden" name="subject" value="fdmaurice.com: a message">
+      <input type="hidden" name="from_name" value="fdmaurice.com">
+      <input type="hidden" name="url" value="">
+      <input type="hidden" name="redirect" value="https://fdmaurice.com/contact.html#sent">
+      <input type="checkbox" name="botcheck" class="visually-hidden" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <div class="field-row">
+        <label><span>Your name <em>(optional)</em></span><input type="text" name="name" autocomplete="name"></label>
+        <label><span>Your email <em>(if you'd like a reply)</em></span><input type="email" name="email" autocomplete="email"></label>
+      </div>
+      <label>About
+        <select name="about">
+          <option value="mistake">A mistake in a text</option>
+          <option value="question" selected>A question or comment</option>
+          <option value="other">Something else</option>
+        </select>
+      </label>
+      <label class="if-mistake">Book and chapter<input type="text" name="page"></label>
+      <label class="if-mistake">The words as they appear on the site<textarea name="passage" rows="3"></textarea></label>
+      <label>Message<textarea name="message" rows="7" required></textarea></label>
+      <div class="h-captcha" data-captcha="true"></div>
+      <p class="form-actions"><button class="btn btn-primary" type="submit">Send message</button> <span id="contact-status" role="status"></span></p>
+      <p class="form-note">Messages are delivered by email through Web3Forms, and hCaptcha keeps out spam. Your address is used only to reply to you.</p>
+    </form>
+  </div>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <svg class="orn" viewBox="0 0 120 12" aria-hidden="true" focusable="false"><path d="M2 6h44M74 6h44" stroke="currentColor" stroke-width=".9"/><circle cx="50" cy="6" r="1.5" fill="currentColor"/><circle cx="70" cy="6" r="1.5" fill="currentColor"/><path d="M60 .8 65.2 6 60 11.2 54.8 6Z" fill="currentColor"/></svg>
+    <p class="footer-title"><a href="index.html">F. D. Maurice</a></p>
+    <p>The works of Frederick Denison Maurice, 1805⁠–⁠1872</p>
+    <p class="footer-links"><a href="index.html#library">Library</a> · <a href="life.html">His Life</a> · <a href="about.html">About these editions</a> · <a href="https://www.youtube.com/@fdmauricebooks" rel="noopener">Audiobooks on YouTube</a> · <a href="search.html">Search</a> · <a href="contact.html">Contact</a></p>
+    <p class="footer-note">The books are free to copy and share: Maurice's writings are in the public domain, and so are these editions. <a href="about.html#using-these-books">Details</a>.<br>Site design and writing © 2026 F. D. Maurice Books.</p>
+  </div>
+</footer>
+<script src="static/contact.js?v=e79b1387ed" defer></script>
+<script src="https://web3forms.com/client/script.js" async defer></script>
+<script src="static/site.js?v=e79b1387ed" defer></script>
+</body>
+</html>

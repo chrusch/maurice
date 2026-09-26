@@ -139,6 +139,22 @@
     if (link) location.href = link.href;
   });
 
+  /* ---- "Report a mistake": bring along the words the reader selected ---- */
+  var report = document.querySelector(".report-link");
+  if (report) {
+    report.addEventListener("click", function () {
+      var sel = window.getSelection();
+      var text = sel ? String(sel).trim().replace(/\s+/g, " ").slice(0, 600) : "";
+      if (!text) return;
+      var node = sel.anchorNode && (sel.anchorNode.nodeType === 1 ? sel.anchorNode : sel.anchorNode.parentElement);
+      var para = node && node.closest && node.closest(".text p[id], .text li[id]");
+      var url = new URL(report.href, location.href);
+      url.searchParams.set("quote", text);
+      if (para) url.searchParams.set("url", url.searchParams.get("url").split("#")[0] + "#" + para.id);
+      report.href = url.toString();
+    });
+  }
+
   /* ---- paragraph links (¶ in the margin) ---- */
   document.querySelectorAll(".text > p[id]").forEach(function (p) {
     var a = document.createElement("a");
