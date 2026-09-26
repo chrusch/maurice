@@ -55,10 +55,16 @@
       a.textContent = q.book;
       a.href = q.href;
     };
+    // Only change the quotation while it is on screen: quotations differ in
+    // length, and a change out of sight would shift the page under the reader.
+    var onScreen = function () {
+      var r = quote.getBoundingClientRect();
+      return r.bottom > 0 && r.top < window.innerHeight;
+    };
     if (quotes.length > 1) {
       showQuote(quotes[qi]);
       setInterval(function () {
-        if (document.hidden || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+        if (!onScreen() || document.hidden || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
         quote.classList.add("is-changing");
         setTimeout(function () {
           qi = (qi + 1) % quotes.length;
