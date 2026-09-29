@@ -4,9 +4,13 @@
 
 ## THE JUDGMENT DAY AN OBJECT OF INTENSE DESIRE
 
+::: {.center}
 Advent Sunday
+:::
 
+::: {.center}
 [November]{.smallcaps} 29, 1857
+:::
 
 > "*Arise, O God, and judge Thou the earth: for Thou shalt take all heathen to Thine inheritance*."—[Psalm]{.smallcaps} lxxxii. 8 (*Prayer-book Version*).
 
@@ -42,11 +46,17 @@ We will not be able to thrust the thought of a Judgment Day into a corner, reduc
 
 ## THE GOSPEL OF HOPE
 
+::: {.center}
 Second Sunday in Advent
+:::
 
+::: {.center}
 (NOT PREACHED)
+:::
 
+::: {.center}
 [December]{.smallcaps} 6, 1857
+:::
 
 > "*That we through patience and comfort of the Scriptures might have hope*."—[Romans]{.smallcaps} XV. 4.
 
@@ -96,9 +106,13 @@ But though this is not the door through which our Scriptures' hope can reach the
 
 ## TESTS OF THE DELIVERER
 
+::: {.center}
 Third Sunday in Advent
+:::
 
+::: {.center}
 [December]{.smallcaps} 13, 1857
+:::
 
 *The passage:* John, hearing in prison of the works of Christ, sent two of his disciples to ask Him, "Are you the one who is to come, or should we look for another?"
 
@@ -130,9 +144,13 @@ VI\. Arguments from Christ's miracles, treated as strange exceptions, have, I be
 
 ## THE CHRISTMAS GATHERING
 
+::: {.center}
 Fourth Sunday in Advent
+:::
 
+::: {.center}
 [December]{.smallcaps} 20, 1857
+:::
 
 > "*Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto Him*."—2 [Thessalonians]{.smallcaps} ii. 1.
 
@@ -174,11 +192,17 @@ If God, out of tender love for mankind, sent His Son not only to take our flesh 
 
 ## THE HUNGRY FILLED; THE RICH SENT AWAY EMPTY
 
+::: {.center}
 St. John's Day
+:::
 
+::: {.center}
 (SUNDAY AFTER CHRISTMAS)
+:::
 
+::: {.center}
 [December]{.smallcaps} 27, 1857
+:::
 
 > "*And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven. But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth*." —[Matthew]{.smallcaps} viii. 11, 12.
 
@@ -218,9 +242,13 @@ Brethren, may Christendom, may England, never so trifle with these powers of dar
 
 ## CHRISTMAS CHARITIES
 
+::: {.center}
 Sunday after Christmas
+:::
 
+::: {.center}
 (*Preached at Christ Church, Marylebone, for District Relief and Provident Societies*)
+:::
 
 > "*For ye know the grace of our Lord Jesus Christ, that, though He was rich, yet for your sakes He became poor, that ye through His poverty might be rich*."—2 [Corinthians]{.smallcaps} viii. 9.
 
@@ -260,9 +288,13 @@ Our poor people will not learn providence by copying the practice of the higher 
 
 ## GOD'S GOVERNMENT OF US; ITS GROUND AND ITS END
 
+::: {.center}
 First Sunday of the Year
+:::
 
+::: {.center}
 [January]{.smallcaps} 3, 1858
+:::
 
 > "*Or despisest thou the riches of His goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance*?"—[Romans]{.smallcaps} ii. 4.
 
@@ -310,9 +342,13 @@ The other is the Epiphany. If we grasp its meaning, we will believe that Christ'
 
 ## THE GLORY OF THE CHOSEN NATION REALIZED IN THE ILLUMINATION OF THE WORLD
 
+::: {.center}
 Sunday after the Epiphany
+:::
 
+::: {.center}
 [January]{.smallcaps} 10, 1858
+:::
 
 > "*A light to lighten the Gentiles, and the glory of Thy people Israel*." —[Luke]{.smallcaps} ii. 32.
 
@@ -346,9 +382,13 @@ But when the conscience receives the revelation of a reconciled and reconciling 
 
 ## THE THIRST OF HUMAN BEINGS IN ALL AGES
 
+::: {.center}
 Second Sunday after the Epiphany
+:::
 
+::: {.center}
 [January]{.smallcaps} 17, 1858
+:::
 
 > "*My soul is athirst for God, yea, even for the living God: when shall I come to appear before the presence of God*?"—Psalm xlii, 2 (*Prayer-book Version*).
 
@@ -394,9 +434,13 @@ Yes, it must come to that; and great will be the reward to the more easy and aff
 
 ## THE BIBLE THE BOOK OF FREEDOM, PERSONAL, NATIONAL, UNIVERSAL
 
+::: {.center}
 Third Sunday after the Epiphany
+:::
 
+::: {.center}
 [January]{.smallcaps} 24, 1858
+:::
 
 > "*For He brought them out of darkness, and out of the shadow of death: and brake their bonds in sunder*."—[Psalm]{.smallcaps} cvii. 14 (*Prayer-book Version*).
 
@@ -425,9 +469,13 @@ These reflections on Freedom are not unneeded now. When wild and wicked acts are
 
 ## THE CURSE OF CONCEALMENT; THE BLESSING OF DISCOVERY
 
+::: {.center}
 Septuagesima Sunday
+:::
 
+::: {.center}
 [January]{.smallcaps} 31, 1858
+:::
 
 > "*But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light. Wherefore he saith, Awake, thou that sleepest, and arise from the dead, and Christ shall give thee light*."—[Ephesians]{.smallcaps} V. 13, 14.
 
@@ -459,9 +507,13 @@ And, brethren, if these words are not as true for the nineteenth century as the 
 
 ## THE GOADING OF AN ADVERSARY THE IMPULSE TO PRAYER
 
+::: {.center}
 Sexagesima Sunday
+:::
 
+::: {.center}
 [February]{.smallcaps} 6, 1858
+:::
 
 > "*And He spake a parable unto them to this end, that men ought always to pray, and not to faint; saying, There was in a city a judge, which feared not God, neither regarded man: and there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary. And he would not for awhile: but afterward he said within himself, Though I fear not God, nor regard man; yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me. And the Lord said, Hear what the unjust judge saith. And shall not God avenge His own elect, which cry day and night unto Him, though He bear long with them? I tell you that He will avenge them speedily*."—[Luke]{.smallcaps} xviii. 1-8.
 
@@ -487,9 +539,13 @@ No! I dare not tell any man he may not pray to the God of Life to oppose Death i
 
 ## ST. PAUL AN ENEMY NOT OF SEEMING EVIL BUT OF ACTUAL EVIL
 
+::: {.center}
 Quinquagesima Sunday
+:::
 
+::: {.center}
 [February]{.smallcaps} 14, 1858
+:::
 
 > "*Prove all things; hold fast that which is good. Abstain from all appearance of evil*."—1 Thessalonians v. 21, 22.
 
@@ -517,9 +573,13 @@ But the danger of being conquered by evil in some of its many forms is, I think,
 
 ## HOW SELF-EXAMINATION IS POSSIBLE
 
+::: {.center}
 First Sunday in Lent
+:::
 
+::: {.center}
 [February]{.smallcaps} 21, 1858
+:::
 
 > "*Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates*?"—2 [Corinthians]{.smallcaps} xiii. 5.
 
@@ -561,9 +621,13 @@ If others can teach us some belief that will help us live, we may consider it �
 
 ## ST. PAUL'S THOUGHTS AND ACTS NOT DETERMINED BY HIS OWN LOVE BUT BY CHRIST'S
 
+::: {.center}
 Second Sunday in Lent
+:::
 
+::: {.center}
 [February]{.smallcaps} 28, 1858
+:::
 
 > "*For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead: and that He died for all, that they which live should not henceforth live unto themselves, but unto Him which died for them, and rose again*."—2 [Corinthians]{.smallcaps} v. 14, 15.
 
@@ -601,9 +665,13 @@ Let us not forget that this same love, constraining all the dwellers on earth wh
 
 ## STILLNESS IN THE CONFIDENCE OF GOD'S TRIUMPH
 
+::: {.center}
 Third Sunday in Lent
+:::
 
+::: {.center}
 [March]{.smallcaps} 7, 1858
+:::
 
 > "*Be still, and know that I am God; I will be exalted among the heathen, I will be exalted in the earth*."—[Psalm]{.smallcaps} xlvi. 10.
 
@@ -645,9 +713,13 @@ And if you say, "This is for the preacher — but can the statesman, the soldier
 
 ## THE LAW OF CHRIST THE LAW OF HUMANITY
 
+::: {.center}
 Fourth Sunday in Lent
+:::
 
+::: {.center}
 [March]{.smallcaps} 14, 1858
+:::
 
 > "*Bear ye one another's burdens, and so fulfil the law of Christ*."—[Galatians]{.smallcaps} vi. 2
 
@@ -677,9 +749,13 @@ I have granted that we have no right to reproach merchants, shopkeepers, or lawy
 
 ## CHRIST'S BAPTISM OF FIRE
 
+::: {.center}
 Fifth Sunday in Lent
+:::
 
+::: {.center}
 [March]{.smallcaps} 21, 1858
+:::
 
 > "*Whose fan is in His hand, and He will throughly purge His floor, and gather His wheat into the garner; but He will burn up the chaff with unquenchable fire*."—[Matthew]{.smallcaps} iii. 12.
 
@@ -721,9 +797,13 @@ That the chaff in God's Universal Church, and in every part of it, may be thorou
 
 ## THE GREAT SACRIFICE AND THE FEAST OF DELIVERANCE
 
+::: {.center}
 Sunday before Easter
+:::
 
+::: {.center}
 [March]{.smallcaps} 28, 1858
+:::
 
 > "*For even Christ our passover is sacrificed for us: therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth*."—I [Corinthians]{.smallcaps} v. 7, 8.
 
@@ -761,9 +841,13 @@ This malice and wickedness God desires to purge from His Church and from His chi
 
 ## CHRIST THE LORD OF LIFE AND THE CONQUEROR OF DEATH FOR ALL TIMES
 
+::: {.center}
 First Sunday after Easter
+:::
 
+::: {.center}
 [April]{.smallcaps} 11, 1858
+:::
 
 > "*Thanks be to God, which giveth us the victory through our Lord Jesus Christ*,"—1 [Corinthians]{.smallcaps} xv. 57.
 

@@ -4,7 +4,9 @@
 
 ## Advent Sunday
 
+::: {.center}
 [November]{.smallcaps} 30, 1856
+:::
 
 > "*Be ye therefore ready also: for the Son of Man cometh at an hour when ye think not*." —[Luke]{.smallcaps} xii. 40.
 
@@ -50,7 +52,9 @@ And if we come to the Eucharist with these desires, it may be a blessing rather 
 
 ## Second Sunday in Advent
 
+::: {.center}
 [December]{.smallcaps} 7, 1856
+:::
 
 > "*Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.*" —1 [Corinthians]{.smallcaps} x. 11.
 
@@ -94,7 +98,9 @@ There are still other difficulties about the Eucharist concerning sacrifice, whi
 
 ## Third Sunday in Advent
 
+::: {.center}
 [December]{.smallcaps} 14, 1856
+:::
 
 > "*And all things are of God, who hath reconciled us to Himself by Jesus Christ, and hath given to us the ministry of reconciliation*." —2 [Corinthians]{.smallcaps} v. 18.
 
@@ -134,7 +140,9 @@ In modern times, people weary of the oppressions of a body calling itself the Un
 
 ## Fourth Sunday in Advent
 
+::: {.center}
 [December]{.smallcaps} 21, 1856
+:::
 
 > "*Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, looking unto Jesus the Author and Finisher of our faith; Who for the joy that was set before Him endured the cross, despising the shame, and is set down at the right hand of the throne of God*."—[Hebrews]{.smallcaps} xii. 1, 2.
 
@@ -180,7 +188,9 @@ And now we may begin to grasp the force of the words, "Take, eat, this is My bod
 
 (INNOCENTS' DAY)
 
+::: {.center}
 [December]{.smallcaps} 28, 1856
+:::
 
 > "*And Jesus called a little child unto Him, and set him in the midst of them, and said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven*."—[Matthew]{.smallcaps} xviii. 2, 3.
 
@@ -226,7 +236,9 @@ I offer this as a thought for the close of the year — may it ripen and bear fr
 
 ## First Sunday in the Year
 
+::: {.center}
 [January]{.smallcaps} 4, 1857
+:::
 
 > "*This is the will of God, even your sanctification*." —1 [Thess]{.smallcaps}. iv. 3.
 
@@ -262,7 +274,9 @@ There is another lesson in this Circumcision Festival that should stay with us t
 
 ## First Sunday after Epiphany
 
+::: {.center}
 [January]{.smallcaps} 11, 1857
+:::
 
 > "*But if our Gospel be hid, it is hid to them that are lost: in whom the God of this world hath blinded the minds of them which believe not, lest the light of the glorious Gospel of Christ, Who is the Image of God, should shine unto them.*" —2 [Corinthians]{.smallcaps} iv. 3, 4.
 
@@ -296,7 +310,9 @@ To this plausible argument, the answer seems clear. If we believe what the New T
 
 ## Second Sunday after Epiphany
 
+::: {.center}
 [January]{.smallcaps} 18, 1857
+:::
 
 > "*For to make in Himself of twain one new man, so making peace*." —[Ephesians]{.smallcaps} ii. 15.
 
@@ -336,7 +352,9 @@ Where does this end? We have tried every remedy — persecution, accommodation, 
 
 THIRD SUNDAY AFTER EPIPHANY
 
+::: {.center}
 [January]{.smallcaps} 25, 1857
+:::
 
 > "*Whereupon, O King Agrippa, I was not disobedient unto the heavenly vision; but shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance*."—[Acts]{.smallcaps} xxvi. 19, 20.
 
@@ -370,7 +388,9 @@ We see, then, how little suddenness or excitement has to do with the true nature
 
 ## Fourth Sunday after Epiphany
 
+::: {.center}
 [February]{.smallcaps} 1, 1857
+:::
 
 > "*And the glory of the Lord shall be revealed, and all flesh shall see it together: for the mouth of the Lord hath spoken it*."—[Isaiah]{.smallcaps} xl. 5.
 
@@ -408,7 +428,9 @@ This test will prove decisive at last, deciding who are and who are not content 
 
 ## Septuagesima Sunday
 
+::: {.center}
 [February]{.smallcaps} 8, 1857
+:::
 
 > "*For many are called, but few are chosen*."—[Matthew]{.smallcaps} xxii. 14.
 
@@ -444,7 +466,9 @@ The King's call to His Son's marriage feast may be welcomed as a pledge that He 
 
 ## Sexagesima Sunday
 
+::: {.center}
 [February]{.smallcaps} 15, 1857
+:::
 
 > "*A sower went out to sow his seed*."—[Luke]{.smallcaps} viii. 5.
 
@@ -478,7 +502,9 @@ And lastly, to those who say it is impossible to address the multitude without d
 
 ## Quinquagesima Sunday
 
+::: {.center}
 [February]{.smallcaps} 22, 1857
+:::
 
 > "*And now abideth faith, hope, charity, these three; but the greatest of these is charity*."—1 [Corinthians]{.smallcaps} xiii. 13.
 
@@ -512,9 +538,11 @@ This is our teaching for the Sunday before Lent. What then should be the subject
 
 ## First Sunday in Lent
 
+::: {.center}
 [March]{.smallcaps} 1, 1857
 
 (MORNING)
+:::
 
 > "*For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: who shall change our vile body, that it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself.*"—1 [Philippians]{.smallcaps} iii. 20, 21.
 
@@ -544,9 +572,11 @@ It was natural for Paul, having rebuked the earthly-minded by telling them of th
 
 ## First Sunday in Lent
 
+::: {.center}
 [March]{.smallcaps} 1, 1857
 
 (AFTERNOON)
+:::
 
 > "*Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you*."—[St. Matthew]{.smallcaps} vii. 6.
 
@@ -590,7 +620,9 @@ Holding this faith, we shall avoid casting the holy thing before dogs and Christ
 
 ## Second Sunday in Lent
 
+::: {.center}
 [March]{.smallcaps} 8, 1857
+:::
 
 > "*I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh, for the flesh lusteth against the Spirit, and the Spirit against the flesh: so that ye cannot do the things that ye would*."—[Galatians]{.smallcaps} v. 16, 17.
 
@@ -634,7 +666,9 @@ And so, when I call this lesson about the flesh and the spirit especially a Lent
 
 ## Third Sunday in Lent
 
+::: {.center}
 [March]{.smallcaps} 15, 1857
+:::
 
 > "*Who gave Himself for our sins, that He might deliver us from this present evil world, according to the will of God and our Father*."—[Galatians]{.smallcaps} i. 4.
 
@@ -684,7 +718,9 @@ If we hold that conviction, we may overcome the great danger of our age — that
 
 ## Fourth Sunday in Lent
 
+::: {.center}
 [March]{.smallcaps} 22, 1857
+:::
 
 > "*Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: whom resist steadfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world*."—1 [Peter]{.smallcaps} v. 8, 9.
 
@@ -718,7 +754,9 @@ But I care much more that we not shrink, from shame of an old and vulgar opinion
 
 ## Fifth Sunday in Lent
 
+::: {.center}
 [March]{.smallcaps} 29, 1857
+:::
 
 > "*Blessed be the Lord my strength, which teacheth my hands to war, and my fingers to fight.*"—[Psalm]{.smallcaps} cxliv. 1.
 
@@ -748,7 +786,9 @@ But we are not sentenced to this death. "Out of the eater came forth meat, and o
 
 ## Sunday before Easter
 
+::: {.center}
 [April]{.smallcaps} 5, 1857
+:::
 
 > "*Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind*."—1 [Peter]{.smallcaps} iv. 1.
 

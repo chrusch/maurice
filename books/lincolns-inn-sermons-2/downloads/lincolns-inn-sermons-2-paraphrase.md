@@ -4,7 +4,9 @@
 
 ## First Sunday after Easter
 
+::: {.center}
 [April]{.smallcaps} 19, 1857
+:::
 
 > "*Therefore being justified by faith, we have peace with God through our Lord Jesus Christ*."—[Romans]{.smallcaps} v. 1.
 
@@ -36,7 +38,9 @@ I have a right to say this, for we have not exhausted the Gospel of Christ merel
 
 ## Second Sunday after Easter
 
+::: {.center}
 [April]{.smallcaps} 26, 1857
+:::
 
 > "*And let the peace of God rule in your hearts, to the which also ye are called in one body*."—[Colossians]{.smallcaps} iii. 15.
 
@@ -82,7 +86,9 @@ I have gone through the main claims commonly made about a Church, and admitted t
 
 ## Third Sunday after Easter
 
+::: {.center}
 [May]{.smallcaps} 3, 1857
+:::
 
 > "*Remember therefore how thou hast received and heard, and hold fast, and repent*." [Revelation]{.smallcaps} iii. 3.
 
@@ -118,7 +124,9 @@ Nor should I forget that Christ's warnings of sin and coming judgment were addre
 
 ## Fourth Sunday after Easter
 
+::: {.center}
 [May]{.smallcaps} 10, 1857
+:::
 
 > "*I prayed therefore unto the Lord, and said, O Lord God, destroy not Thy people and Thine inheritance, which Thou hast redeemed through Thy greatness, which Thou hast brought forth out of Egypt with a mighty hand. Remember Thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin: lest the land whence Thou broughtest us out say, Because the Lord was not able to bring them into the land which He promised them, and because He hated them, He hath brought them out to slay them in the wilderness. Yet they are Thy people, and Thine inheritance, which Thou broughtest out by Thy mighty power, and by Thy stretched out arm*."—[Deuteronomy]{.smallcaps} ix. 26-29.
 
@@ -160,7 +168,9 @@ This, then, is the ground of what I mean by national repentance — not a fantas
 
 ## Rogation Sunday
 
+::: {.center}
 [May]{.smallcaps} 17, 1857
+:::
 
 > "*Lord, who shall dwell in Thy tabernacle: or who shall rest upon Thy holy hill? Even he that leadeth an uncorrupt life: and doeth the thing which is right, and speaketh the truth from his heart. He that hath used no deceit in his tongue, nor done evil to his neighbour; and hath not slandered his neighbour. He that setteth not by himself, but is lowly in his own eyes: and maketh much of them that fear the Lord. He that sweareth unto his neighbour, and disappointeth him not: though it were to his own hindrance. He that hath not given his money upon usury: nor taken reward against the innocent. Whoso doeth these things shall never fall*,"—[Psalm]{.smallcaps} xv. (*Prayer-book Version*).
 
@@ -200,7 +210,9 @@ But on the other hand, I maintain that a holy Catholic Church, in its truest and
 
 ## Sunday after Ascension Day
 
+::: {.center}
 [May]{.smallcaps} 24, 1857
+:::
 
 > "*And what is the exceeding greatness of His power to us-ward who believe, according to the working of His mighty power, which He wrought in Christ, when He raised Him from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come: and hath put all things under His feet, and gave Him to be the head over all things to the church, which is His body, the fulness of Him that filleth all in all*,"— [Ephesians]{.smallcaps} i. 19-23.
 
@@ -238,7 +250,9 @@ What is our duty, then, brethren? For the sake of the many in our own land who c
 
 ## Whit-Sunday
 
+::: {.center}
 [May]{.smallcaps} 31, 1857
+:::
 
 > "*Wherefore He saith, When He ascended up on high, He led captivity captive, and gave gifts unto men*."—[Ephesians]{.smallcaps} iv. 8.
 
@@ -276,7 +290,9 @@ To proclaim the Spirit of Truth against these lying spirits — to declare that 
 
 ## Trinity Sunday
 
+::: {.center}
 [June]{.smallcaps} 7, 1857
+:::
 
 > "*And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect will of God*."—[Romans]{.smallcaps} xii. 2.
 
@@ -302,7 +318,9 @@ V\. That was last Sunday's lesson—the Pentecostal gift. Today we go a step fur
 
 ## First Sunday after Trinity
 
+::: {.center}
 [June]{.smallcaps} 14, 1857
+:::
 
 > "*Lord, I am not high-minded; I have no proud looks. I do not exercise myself in great matters, which are too high for me. But I refrain my soul, and keep it low, like as a child that is weaned from its mother; yea, my soul is even as a weaned child. O Israel, trust in the Lord, from this time forth for evermore*."—[Psalm]{.smallcaps} cxxxi. (*Prayer-book Version*).
 
@@ -348,7 +366,9 @@ So, because they are no longer high-minded or proud, because their souls have be
 
 ## Second Sunday after Trinity
 
+::: {.center}
 [June]{.smallcaps} 21, 1857
+:::
 
 > "*Endeavouring to keep the unity of the Spirit in the bond of peace*." —[Ephesians]{.smallcaps} iv. 3.
 
@@ -386,7 +406,9 @@ Therefore no one shall persuade us, for Unity's sake, to give up this Name, expl
 
 ## Third Sunday after Trinity
 
+::: {.center}
 [June]{.smallcaps} 28, 1857
+:::
 
 > "*Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble*."—[1 Peter]{.smallcaps} v. 5.
 
@@ -428,7 +450,9 @@ We boast that our Church rests on no merely human foundation, that we do not mak
 
 ## Fourth Sunday after Trinity
 
+::: {.center}
 [July]{.smallcaps} 5, 1857
+:::
 
 > "*This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief*."—1 [Timothy]{.smallcaps} i. 15.
 
@@ -464,7 +488,9 @@ So the plain words hold the most and the most personal meaning together — we h
 
 ## Fifth Sunday after Trinity
 
+::: {.center}
 [July]{.smallcaps} 12, 1857
+:::
 
 > "*For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world*,"—1 [Corinthians]{.smallcaps} xi. 31, 32.
 
@@ -512,7 +538,9 @@ There are national chastisements, brethren, more terrible in the eyes of God and
 
 ## Sixth Sunday after Trinity
 
+::: {.center}
 [July]{.smallcaps} 19, 1857
+:::
 
 > "*For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection*." [Romans]{.smallcaps} vi. 5.
 
@@ -532,7 +560,9 @@ II\. So the Eucharist joins, as Paul's words join, Death and Resurrection insepa
 
 ## Seventh Sunday after Trinity
 
+::: {.center}
 [July]{.smallcaps} 26, 1857
+:::
 
 > "*For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord*."—[Romans]{.smallcaps} vi. 23.
 
@@ -556,7 +586,9 @@ I am persuaded this is the Gospel St. Paul proclaimed everywhere—to Jews, Gent
 
 ## Day of Humiliation
 
+::: {.center}
 [October]{.smallcaps} 7, 1857
+:::
 
 > "*I will arise, and go to my father, and will say unto him, Father, I have sinned against Heaven, and before thee, and am no more worthy to be called thy son*."—[Luke]{.smallcaps} xv. 18.
 
@@ -600,7 +632,9 @@ And oh, brethren, if these dire calamities should indeed establish us in this fa
 
 ## Eighteenth Sunday after Trinity
 
+::: {.center}
 [October]{.smallcaps} 11, 1857
+:::
 
 > "*While the Pharisees were gathered together, Jesus asked them, saying, What think ye of Christ? Whose Son is He*?"—[Matt.]{.smallcaps} xxii. 41, 42.
 
@@ -642,9 +676,13 @@ I do not think he is telling us to devise some new scheme of education to prove 
 
 ## St. Luke's Day
 
+::: {.center}
 (NINETEENTH SUNDAY AFTER TRINITY)
+:::
 
+::: {.center}
 [October]{.smallcaps} 18, 1857
+:::
 
 > "*Luke, the beloved physician*."—[Colossians]{.smallcaps} iv. 14.
 
@@ -680,7 +718,9 @@ But when we truly and warmly accept this faith, and keep it alive by doing the w
 
 ## Twentieth Sunday after Trinity
 
+::: {.center}
 [October]{.smallcaps} 25, 1857
+:::
 
 > "*Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it*." —[Matt.]{.smallcaps} vii. 13, 14.
 
@@ -728,9 +768,13 @@ Or take the doctrine attributed to the more warlike faith — a sensual Paradise
 
 ## All Saints' Day
 
+::: {.center}
 (TWENTY-FIRST SUNDAY AFTER TRINITY)
+:::
 
+::: {.center}
 [November]{.smallcaps} 1, 1857
+:::
 
 > "*After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands; and cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb*."—[Revelation]{.smallcaps} vii. 9, 10.
 
@@ -789,7 +833,9 @@ But we can reclaim the day, free of its dangerous associations. We can remember 
 
 ## Twenty-second Sunday after Trinity
 
+::: {.center}
 [November]{.smallcaps} 8, 1857
+:::
 
 > "*Be ye therefore perfect, even as your Father which is in heaven is perfect*."—[Matthew]{.smallcaps} v. 48.
 
@@ -837,7 +883,9 @@ I will not anticipate what I hope to say next Sunday about the conflict between 
 
 ## Twenty-third Sunday after Trinity
 
+::: {.center}
 [November]{.smallcaps} 15, 1857
+:::
 
 > "*It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement: but I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery*." —[Matthew]{.smallcaps} v. 31, 32.
 
@@ -881,7 +929,9 @@ Our experience with that measure should make us cautious about assuming that the
 
 ## Twenty-fourth Sunday after Trinity
 
+::: {.center}
 [November]{.smallcaps} 22, 1857
+:::
 
 > "*Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: but I say unto you, That ye resist not evil; but whosoever shall smite thee on thy right cheek, turn to him the other also. And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also. And whosoever shall compel thee to go a mile, go with him twain. Give to him that asketh thee, and from him that would borrow of thee turn not thou away. Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy: but I say unto you, love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; that ye may be the children of your Father which is in heaven: for He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust*."—[Matthew]{.smallcaps} v. 38-45.
 
