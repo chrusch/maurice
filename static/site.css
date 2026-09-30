@@ -160,6 +160,13 @@ button { font: inherit; color: inherit; }
 .hero-dates { font-family: var(--display); font-size: 1.5rem; color: var(--ink-3); margin: .6rem 0 0; letter-spacing: .08em; }
 .lede { font-size: 1.3rem; line-height: 1.5; color: var(--ink-2); margin: 1.3rem 0 0; max-width: 34rem; }
 
+/* "Don't know where to start?": one chapter suggested to a newcomer */
+.start-here { margin: 1.1rem 0 0; color: var(--ink-3); font-size: 1.08rem; font-style: italic; }
+.start-here a { color: var(--accent); text-decoration: none; font-style: normal; white-space: nowrap; }
+.start-here a:hover { text-decoration: underline; text-underline-offset: .18em; }
+.start-here cite { font-style: italic; }
+.start-here .i { display: inline-block; width: .8em; height: .8em; vertical-align: -.05em; margin-left: .15em; }
+
 .hero-shelf { display: flex; flex-direction: column; min-width: 0; }
 .shelf-books {
   display: flex; align-items: flex-end; justify-content: center; gap: 2px;
