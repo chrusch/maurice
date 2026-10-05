@@ -843,7 +843,7 @@ But now I come to the second point. Is there then no darkness? Do not I really f
 
 If He was not light, if He did not send His light in me, I should not perceive the darkness; it could not torment me as it does. Christ, who is the perfect image of God, the true light of the world, is making me understand what a dark creature I am without Him, what I should become and what the world would become if He withdrew His light.
 
-But though there is much in this, St. John would still have been very ill content if he had been obliged to stop there. He goes on: "If we confess our sins, He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+3\. But though there is much in this, St. John would still have been very ill content if he had been obliged to stop there. He goes on: "If we confess our sins, He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
 
 That is to say, no doubt the light is here, and the darkness is here, but which is stronger? Which can drive out the other? I will try that. I will arise, and go to Him who is light, and tell Him of my darkness. I will ask Him if He cannot raise me out of it; and I find that He can. I tell Him of the sin that is in me, and He forgives it; He lifts me out of it; He owns me as His child. He not only puts away the sins that I have committed, but He cleanses me from all unrighteousness. So I know for myself that He is light, and that there is no darkness in Him, and that He means to scatter all darkness.
 
