@@ -43,7 +43,7 @@ AND NEW YORK
 ## LIST OF THE SERMONS
 
 ::: {.center}
-First Sunday after Easter.—April 19, 1857.
+First Sunday after Easter.—[April]{.smallcaps} 19, 1857.
 :::
 
 - [The Faith of Protestants]{.smallcaps} · p. 1
@@ -51,7 +51,7 @@ First Sunday after Easter.—April 19, 1857.
   "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ."—Romans v. 1.
 
 ::: {.center}
-Second Sunday after Easter.—April 26, 1857.
+Second Sunday after Easter.—[April]{.smallcaps} 26, 1857.
 :::
 
 - [The Faith of Catholics]{.smallcaps} · p. 16
@@ -59,7 +59,7 @@ Second Sunday after Easter.—April 26, 1857.
   "And let the peace of God rule in your hearts, to the which also ye are called in one body."—Colossians iii. 15.
 
 ::: {.center}
-Third Sunday after Easter.—May 3, 1857.
+Third Sunday after Easter.—[May]{.smallcaps} 3, 1857.
 :::
 
 - [The Faith of Englishmen]{.smallcaps} · p. 30
@@ -67,7 +67,7 @@ Third Sunday after Easter.—May 3, 1857.
   "Remember therefore how thou hast received and heard, and hold fast, and repent."—Revelation iii. 3.
 
 ::: {.center}
-Fourth Sunday after Easter.—May 10, 1857.
+Fourth Sunday after Easter.—[May]{.smallcaps} 10, 1857.
 :::
 
 - [National Holiness]{.smallcaps} · p. 46
@@ -75,7 +75,7 @@ Fourth Sunday after Easter.—May 10, 1857.
   "I prayed therefore unto the Lord, and said, O Lord God, destroy not Thy people and Thine inheritance, which Thou hast redeemed through Thy greatness, which Thou hast brought forth out of Egypt with a mighty hand. Remember Thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin: lest the land whence Thou broughtest us out say, Because the Lord was not able to bring them into the land which He promised them, and because He hated them, He hath brought them out to slay them in the wilderness. Yet they are Thy people, and Thine inheritance, which Thou broughtest out by Thy mighty power, and by Thy stretched out arm."—Deuteronomy ix. 26-29.
 
 ::: {.center}
-Rogation Sunday.—May 17, 1857.
+Rogation Sunday.—[May]{.smallcaps} 17, 1857.
 :::
 
 - [The Sacredness of Common Morality]{.smallcaps} · p. 60
@@ -83,7 +83,7 @@ Rogation Sunday.—May 17, 1857.
   "Lord, who shall dwell in Thy tabernacle: or who shall rest upon Thy holy hill? Even he that leadeth an uncorrupt life: and doeth the thing which is right, and speaketh the truth from his heart. He that hath used no deceit in his tongue, nor done evil to his neighbour; and hath not slandered his neighbour. He that setteth not by himself, but is lowly in his own eyes: and maketh much of them that fear the Lord. He that sweareth unto his neighbour, and disappointeth him not: though it were to his own hindrance. He that hath not given his money upon usury: nor taken reward against the innocent. Whoso doeth these things shall never fall."—Psalm xv. (*Prayer-book Version*).
 
 ::: {.center}
-Sunday after Ascension Day.—May 24, 1857.
+Sunday after Ascension Day.—[May]{.smallcaps} 24, 1857.
 :::
 
 - [The Ascension of Christ]{.smallcaps} · p. 73
@@ -91,7 +91,7 @@ Sunday after Ascension Day.—May 24, 1857.
   "And what is the exceeding greatness of His power to us-ward who believe, according to the working of His mighty power, which He wrought in Christ, when He raised Him from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come: and hath put all things under His feet, and gave Him to be head over all things to the church, which is His body, the fulness of Him that filleth all in all."—Ephesians i. 19-23.
 
 ::: {.center}
-Whit-Sunday.—May 31, 1857.
+Whit-Sunday.—[May]{.smallcaps} 31, 1857.
 :::
 
 - [Universality of the Whitsuntide Message]{.smallcaps} · p. 88
@@ -99,7 +99,7 @@ Whit-Sunday.—May 31, 1857.
   "Wherefore He saith, When He ascended up on high, He led captivity captive, and gave gifts unto men."—Ephesians iv. 8.
 
 ::: {.center}
-Trinity Sunday.—June 7, 1857.
+Trinity Sunday.—[June]{.smallcaps} 7, 1857.
 :::
 
 - [Conformity to the Mind of God]{.smallcaps} · p. 105
@@ -107,7 +107,7 @@ Trinity Sunday.—June 7, 1857.
   "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."—Romans xii. 2.
 
 ::: {.center}
-First Sunday after Trinity.—June 14, 1857.
+First Sunday after Trinity.—[June]{.smallcaps} 14, 1857.
 :::
 
 - [Steps to Faith in the Holy Trinity]{.smallcaps} · p. 116
@@ -115,7 +115,7 @@ First Sunday after Trinity.—June 14, 1857.
   "Lord, I am not high-minded; I have no proud looks. I do not exercise myself in great matters, which are too high for me. But I refrain my soul, and keep it low, like as a child that is weaned from its mother; yea, my soul is even as a weaned child. O Israel, trust in the Lord, from this time forth for evermore."—Psalm cxxxi., *Prayer-book Version*.
 
 ::: {.center}
-Second Sunday after Trinity.—June 21, 1857.
+Second Sunday after Trinity.—[June]{.smallcaps} 21, 1857.
 :::
 
 - [The Bond of Peace]{.smallcaps} · p. 133
@@ -123,7 +123,7 @@ Second Sunday after Trinity.—June 21, 1857.
   "Endeavouring to keep the unity of the Spirit in the bond of peace."—Ephesians iv. 3.
 
 ::: {.center}
-Third Sunday after Trinity.—June 28, 1857.
+Third Sunday after Trinity.—[June]{.smallcaps} 28, 1857.
 :::
 
 - [Christian Reverence and Subjection]{.smallcaps} · p. 147
@@ -131,7 +131,7 @@ Third Sunday after Trinity.—June 28, 1857.
   "Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble."—1 Peter v. 5.
 
 ::: {.center}
-Fourth Sunday after Trinity.—July 5, 1857.
+Fourth Sunday after Trinity.—[July]{.smallcaps} 5, 1857.
 :::
 
 - [The Apostle the chief of Sinners]{.smallcaps} · p. 160
@@ -139,7 +139,7 @@ Fourth Sunday after Trinity.—July 5, 1857.
   "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief."—1 Timothy i. 15.
 
 ::: {.center}
-Fifth Sunday after Trinity.—July 12, 1857.
+Fifth Sunday after Trinity.—[July]{.smallcaps} 12, 1857.
 :::
 
 - [God’s Judgment and Our Judgment]{.smallcaps} · p. 171
@@ -147,7 +147,7 @@ Fifth Sunday after Trinity.—July 12, 1857.
   "For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world."—1 Corinthians xi. 31, 32.
 
 ::: {.center}
-Sixth Sunday after Trinity.—July 19, 1857.
+Sixth Sunday after Trinity.—[July]{.smallcaps} 19, 1857.
 :::
 
 - [Christ’s Death and Resurrection the Archetypes of ours]{.smallcaps} · p. 185
@@ -155,7 +155,7 @@ Sixth Sunday after Trinity.—July 19, 1857.
   "For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection."—Romans vi. 5.
 
 ::: {.center}
-Seventh Sunday after Trinity.—July 26, 1857.
+Seventh Sunday after Trinity.—[July]{.smallcaps} 26, 1857.
 :::
 
 - [How Sin pays, and how God gives]{.smallcaps} · p. 194
@@ -167,7 +167,7 @@ THE INDIAN CRISIS
 :::
 
 ::: {.center}
-Day of Humiliation.—October 7, 1857.
+Day of Humiliation.—[October]{.smallcaps} 7, 1857.
 :::
 
 - [The Fatherly Character of God the only Ground of Repentance, Consolation, Hope]{.smallcaps} · p. 204
@@ -175,7 +175,7 @@ Day of Humiliation.—October 7, 1857.
   "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, and am no more worthy to be called thy son."—Luke xv. 18, 19.
 
 ::: {.center}
-Eighteenth Sunday after Trinity.—October 11, 1857.
+Eighteenth Sunday after Trinity.—[October]{.smallcaps} 11, 1857.
 :::
 
 - [Christ, not Christianity, the Deliverance of Mankind]{.smallcaps} · p. 220
@@ -183,7 +183,7 @@ Eighteenth Sunday after Trinity.—October 11, 1857.
   "While the Pharisees were gathered together, Jesus asked them, saying, What think ye of Christ? whose Son is He?"—Matthew xxii. 41, 42.
 
 ::: {.center}
-St. Luke's Day (Nineteenth Sunday after Trinity).—October 18, 1857.
+St. Luke's Day (Nineteenth Sunday after Trinity).—[October]{.smallcaps} 18, 1857.
 :::
 
 - [Faith and Science united in the Work of the Missionary]{.smallcaps} · p. 235
@@ -191,7 +191,7 @@ St. Luke's Day (Nineteenth Sunday after Trinity).—October 18, 1857.
   "Luke, the beloved physician."—Colossians iv. 14.
 
 ::: {.center}
-Twentieth Sunday after Trinity.—October 25, 1857.
+Twentieth Sunday after Trinity.—[October]{.smallcaps} 25, 1857.
 :::
 
 - [A Straitened Faith and a Narrow Gospel not the Strait Gate and the Narrow Way of Christ]{.smallcaps} · p. 250
@@ -199,7 +199,7 @@ Twentieth Sunday after Trinity.—October 25, 1857.
   "Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it."—Matthew vii. 13, 14.
 
 ::: {.center}
-All Saints' Day (Twenty-first Sunday after Trinity).—November 1, 1857.
+All Saints' Day (Twenty-first Sunday after Trinity).—[November]{.smallcaps} 1, 1857.
 :::
 
 - [The Sealed Nation and the Universal Family]{.smallcaps} · p. 267
@@ -211,7 +211,7 @@ THE SERMON ON THE MOUNT
 :::
 
 ::: {.center}
-Twenty-second Sunday after Trinity.—November 8, 1857.
+Twenty-second Sunday after Trinity.—[November]{.smallcaps} 8, 1857.
 :::
 
 - [Its General Principle]{.smallcaps} · p. 283
@@ -219,7 +219,7 @@ Twenty-second Sunday after Trinity.—November 8, 1857.
   "Be ye therefore perfect, even as your Father which is in heaven is perfect."—Matthew v. 48.
 
 ::: {.center}
-Twenty-third Sunday after Trinity.—November 15, 1857.
+Twenty-third Sunday after Trinity.—[November]{.smallcaps} 15, 1857.
 :::
 
 - [Its Teaching respecting Marriage]{.smallcaps} · p. 301
@@ -227,16 +227,14 @@ Twenty-third Sunday after Trinity.—November 15, 1857.
   "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement: but I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery."—Matthew v. 31, 32.
 
 ::: {.center}
-Twenty-fourth Sunday after Trinity.—November 22, 1857.
+Twenty-fourth Sunday after Trinity.—[November]{.smallcaps} 22, 1857.
 :::
 
 - [Its Teaching respecting Forgiveness and Punishment]{.smallcaps} · p. 322
 
   "Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: but I say unto you, That ye resist not evil; but whosoever shall smite thee on thy right cheek, turn to him the other also. And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also. And whosoever shall compel thee to go a mile, go with him twain. Give to him that asketh thee, and from him that would borrow of thee turn not thou away. Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy: but I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; that ye may be the children of your Father which is in heaven: for He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust."—Matthew v. 38-45.
 
-::: {.center}
 ## First Sunday after Easter
-:::
 
 ::: {.center}
 [April]{.smallcaps} 19, 1857
@@ -324,7 +322,7 @@ I have gone through what I believe are the principal allegations respecting a Ch
 [May]{.smallcaps} 3, 1857
 :::
 
-> "*Remember therefore how thou hast received and heard, and hold fast, and repent*." [Revelation]{.smallcaps} iii. 3.
+> "*Remember therefore how thou hast received and heard, and hold fast, and repent*."—[Revelation]{.smallcaps} iii. 3.
 
 [I spoke]{.smallcaps}, two Sundays ago, on the strength of the Protestant principle. I spoke last Sunday on the strength of the Catholic principle. What was the first? If we took the leader of the German Reformation as our standard for judging of it,—and we were bound to do so, seeing that he received it through the greatest conflicts of mind, and that no teacher has exercised so great an influence in his own day and ever since—Protestantism signified a demand of the individual Conscience for peace and reconciliation with God; a demand for deliverance from all internal accusations, from all outward arrangements or decrees, which interfered with the attainment of that reconciliation, and with the regulation of the whole life and conduct upon the basis of it. "God hath justified me a sinner, hath made peace with me. No doctors, no ecclesiastical authority, no fears of my own heart, no recollection of past evil, no sense of present evil, no conspiracy of the powers of darkness in the invisible world, shall take that peace or justification from me. I may believe in God the Justifier, in opposition to all these. I *must* believe, or I have no ground to stand upon: I sink into sin, death, hell, if I do not." This was Luther's proclamation; this is living Protestantism. By its own nature it repels dilutions, refinements, the skilful phrase-turning of the dialectician, the good-natured *irenicum* of the statesman: all reason would convince us that it must; its whole history proves that it does. These experiments, in every possible variety, in the most skilful hands, with the mightiest motives of interest, of affection, apparently of charity, to favour their success, failed utterly at the time of the Reformation, and have failed every time when they were needed to quell actual feelings, energetic purposes since. They pleased those who did not feel the battle to be one of life and death, who only wanted an excuse for indolence and indifference; the rest clung to their convictions, and cast the compromises to the winds.
 
@@ -408,7 +406,7 @@ This, then, is the ground upon which I speak of national repentance. It is not a
 
 [The]{.smallcaps} Tabernacle which went with the Israelites through the wilderness was the witness that the Lord Himself was in the midst of them. They were told that He would dwell in it. When it was brought, amidst the shoutings of the King and people and with the sound of a trumpet, to Mount Zion, it did not acquire any new sacredness, but it imparted a sacredness to the place on which it rested. God was felt to be there: the city stood because He was present in it.
 
-If, then, David or any Psalmist dared to ask this question, "Lord, who shall dwell in Thy Tabernacle, who shall rest upon Thy holy hill?" you might have expected him to answer, "Those priests who have been set apart by a special consecration,—upon whom garments of glory and beauty have been bestowed, upon whose foreheads *holiness to the Lord* *is* inscribed,—they may venture to approach His habitation; as Moses ascended Sinai, they may ascend Mount Zion." There would have been no vulgar superstition in such language. It would have been quite unlike the notion of a heathen worshipping on the hill that he might be nearer the Sun. It would only have intimated that a transcendent excellence, a kind of spiritual absorption, was demanded of any one who aspired to commune with the Everlasting God.
+If, then, David or any Psalmist dared to ask this question, "Lord, who shall dwell in Thy Tabernacle, who shall rest upon Thy holy hill?" you might have expected him to answer, "Those priests who have been set apart by a special consecration,—upon whom garments of glory and beauty have been bestowed, upon whose foreheads *holiness to the Lord* is inscribed,—they may venture to approach His habitation; as Moses ascended Sinai, they may ascend Mount Zion." There would have been no vulgar superstition in such language. It would have been quite unlike the notion of a heathen worshipping on the hill that he might be nearer the Sun. It would only have intimated that a transcendent excellence, a kind of spiritual absorption, was demanded of any one who aspired to commune with the Everlasting God.
 
 But how strangely different are the actual words of the Psalm! The qualities which are required of one, not who visits the Tabernacle merely, but who dwells in it,—not who ascends the hill only, but rests on it,—are those of an ordinary citizen, those without which a man cannot fulfil any of his common duties in the world. Nay, the qualities are chiefly negative. It is not said that he must be brave, magnanimous, ready to sacrifice himself. He is not to be corrupt in his life, not to take reward against the innocent, not to lie. One of the conditions reads as if it were drawn merely from the civil code of the Israelites, as if it were temporary and local; but all are of the same mundane, commonplace kind. You cannot point out one which a person aiming at a sentimental, refined morality would care to introduce.
 
@@ -769,7 +767,7 @@ There are some national chastisements, brethren, which are more terrible perhaps
 [July]{.smallcaps} 19, 1857
 :::
 
-> "*For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection*." [Romans]{.smallcaps} vi. 5.
+> "*For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection*."—[Romans]{.smallcaps} vi. 5.
 
 [In]{.smallcaps} the Collects of the Church we have often been taught to speak of Christ taking our nature and suffering our death. That this language is strictly copied from St. Paul,—and not copied merely, but impregnated with his spirit,—no one, I think, who studies his Epistles can dispute. But St. Paul uses also a kind of language which, though quite in harmony with this, must not be confounded with it. He does not only speak of our Lord being made like to us, but of our being made in His likeness. And he does not limit this mode of expression, as we might expect him to limit it, telling us that we may be made holy like Christ here, or be made glorious like Christ hereafter. He speaks of our death being cast in the mould of His Death; of His being the only standard by which we can measure, the only type by which we can understand our own: "We have been planted together in the likeness of His Death." Evidently we should dilate this phrase most unwarrantably, we should reduce it almost to nothing, if we took it to mean only that, as Death came upon Him, so it must come upon each of us. We knew that before; it required no evidence to convince men that death was a fact with which every child of Adam has to do. But men did need to know what this fact signified. It was as strange and monstrous as it was indisputable. Though it was the great commonplace of the world, each new case exhibited some new variety of it; it was essentially individualizing, though it was universal. You got no nearer to the sense of it by collecting the greatest number of instances and generalizing from them; you felt that such a process took you away from the reality. You were in closer contact with it while you were watching one actual death-bed, than while you were reasoning about a thousand; and yet, if you found it suddenly staring you in the face, laying its skinny hand on you, even that experience was felt to be most imperfect. Men have always wanted to know, men do want to know, what Death is, as well as what Life is; and they have always felt that the finest, sagest, divinest definition, if it proceeded from the lips of God Himself, could not tell them.
 

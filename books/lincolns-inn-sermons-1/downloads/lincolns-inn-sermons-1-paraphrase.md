@@ -186,9 +186,9 @@ And now we may begin to grasp the force of the words, "Take, eat, this is My bod
 
 ## First Sunday after Christmas
 
+::: {.center}
 (INNOCENTS' DAY)
 
-::: {.center}
 [December]{.smallcaps} 28, 1856
 :::
 
@@ -350,9 +350,9 @@ Where does this end? We have tried every remedy — persecution, accommodation, 
 
 ## Conversion of St. Paul
 
+::: {.center}
 THIRD SUNDAY AFTER EPIPHANY
 
-::: {.center}
 [January]{.smallcaps} 25, 1857
 :::
 

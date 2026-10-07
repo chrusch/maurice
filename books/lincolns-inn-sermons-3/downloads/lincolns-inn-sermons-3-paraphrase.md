@@ -390,7 +390,7 @@ Second Sunday after the Epiphany
 [January]{.smallcaps} 17, 1858
 :::
 
-> "*My soul is athirst for God, yea, even for the living God: when shall I come to appear before the presence of God*?"—Psalm xlii, 2 (*Prayer-book Version*).
+> "*My soul is athirst for God, yea, even for the living God: when shall I come to appear before the presence of God*?"—[Psalm]{.smallcaps} xlii, 2 (*Prayer-book Version*).
 
 *The passage:* The Psalmist says his soul thirsts for God, the living God, and asks when he will come to appear before God's presence.
 
@@ -512,7 +512,7 @@ Sexagesima Sunday
 :::
 
 ::: {.center}
-[February]{.smallcaps} 6, 1858
+[February]{.smallcaps} 7, 1858
 :::
 
 > "*And He spake a parable unto them to this end, that men ought always to pray, and not to faint; saying, There was in a city a judge, which feared not God, neither regarded man: and there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary. And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man; yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me. And the Lord said, Hear what the unjust judge saith. And shall not God avenge His own elect, which cry day and night unto Him, though He bear long with them? I tell you that He will avenge them speedily*."—[Luke]{.smallcaps} xviii. 1-8.
@@ -547,7 +547,7 @@ Quinquagesima Sunday
 [February]{.smallcaps} 14, 1858
 :::
 
-> "*Prove all things; hold fast that which is good. Abstain from all appearance of evil*."—1 Thessalonians v. 21, 22.
+> "*Prove all things; hold fast that which is good. Abstain from all appearance of evil*."—1 [Thessalonians]{.smallcaps} v. 21, 22.
 
 *The passage:* Test everything; hold on to what is good; keep away from every form of evil.
 

@@ -90,7 +90,7 @@ I have gone through the main claims commonly made about a Church, and admitted t
 [May]{.smallcaps} 3, 1857
 :::
 
-> "*Remember therefore how thou hast received and heard, and hold fast, and repent*." [Revelation]{.smallcaps} iii. 3.
+> "*Remember therefore how thou hast received and heard, and hold fast, and repent*."—[Revelation]{.smallcaps} iii. 3.
 
 [Two]{.smallcaps} Sundays ago I spoke on the strength of the Protestant principle; last Sunday, on the strength of the Catholic principle. What was the first? If we take the leader of the German Reformation as our standard—and we should, since no teacher has had so great an influence—Protestantism meant the individual conscience demanding peace and reconciliation with God, and demanding deliverance from anything, inward or outward, that interfered with that reconciliation and with a life built upon it. "God has justified me, a sinner, has made peace with me. No doctors, no ecclesiastical authority, no fears of my own heart, no memory of past evil, no sense of present evil, no conspiracy of dark powers, shall take that peace from me. I may believe in God the Justifier against all these. I must believe, or I sink into sin, death, hell." This was Luther's proclamation; this is living Protestantism. By its nature it resists dilution and clever compromise, and history proves it does: every attempt to soften it, however skilfully or charitably managed, has failed—pleasing only those who wanted an excuse for indifference, while the rest held their convictions and threw the compromises to the winds.
 
@@ -542,7 +542,7 @@ There are national chastisements, brethren, more terrible in the eyes of God and
 [July]{.smallcaps} 19, 1857
 :::
 
-> "*For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection*." [Romans]{.smallcaps} vi. 5.
+> "*For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection*."—[Romans]{.smallcaps} vi. 5.
 
 *The passage:* If we have been planted together in the likeness of Christ's death, we shall also be in the likeness of his resurrection.
 
