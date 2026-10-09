@@ -617,6 +617,16 @@ details.listen ol {
 details.listen li { margin: .15rem 0; }
 details.listen ol a { display: inline; color: var(--ink); }
 details.listen ol a:hover { color: var(--accent); }
+/* The essay on Maurice's theological vision: its editor's note and contents */
+.editor-note { background: var(--paper-2); border: 1px solid var(--rule); border-left: 3px solid var(--accent); border-radius: 6px;
+  padding: 1rem 1.2rem .4rem; margin: 0 0 2rem; font-size: .98rem; color: var(--ink-2); line-height: 1.5; }
+.editor-note p { margin: 0 0 .75rem; text-indent: 0; }
+.editor-note .signature { display: block; text-align: right; font-style: italic; color: var(--ink-3); }
+.vision-contents { margin: 0 0 2.5rem; padding: .9rem 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+.vision-contents ol { margin: 0; padding-left: 1.6rem; columns: 2 17rem; column-gap: 2.5rem; font-size: .98rem; line-height: 1.45; }
+.vision-contents li { break-inside: avoid; margin: 0 0 .3rem; }
+.vision-contents a { color: var(--ink); text-decoration: none; }
+.vision-contents a:hover { color: var(--accent); text-decoration: underline; }
 .modern-note { background: var(--paper-2); border: 1px solid var(--rule); border-left: 3px solid var(--accent); border-radius: 6px; padding: .8rem 1rem; margin: 0 0 2rem; font-size: 1rem; color: var(--ink-2); line-height: 1.45; }
 
 .text { font-size: var(--text-size); line-height: 1.62; hyphens: auto; -webkit-hyphens: auto; overflow-wrap: break-word; }
