@@ -61,17 +61,24 @@
       var r = quote.getBoundingClientRect();
       return r.bottom > 0 && r.top < window.innerHeight;
     };
+    // Where the system asks for reduced motion the quotation still changes,
+    // on the same schedule, but without the fade.
+    var still = matchMedia("(prefers-reduced-motion: reduce)");
+    var next = function () {
+      qi = (qi + 1) % quotes.length;
+      showQuote(quotes[qi]);
+    };
     if (quotes.length > 1) {
       showQuote(quotes[qi]);
       setInterval(function () {
-        if (!onScreen() || document.hidden || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+        if (!onScreen() || document.hidden) return;
+        if (still.matches) return next();
         quote.classList.add("is-changing");
         setTimeout(function () {
-          qi = (qi + 1) % quotes.length;
-          showQuote(quotes[qi]);
+          next();
           quote.classList.remove("is-changing");
         }, 500);
-      }, 14000);
+      }, 42000);
     }
   }
 

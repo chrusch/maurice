@@ -396,6 +396,9 @@ button { font: inherit; color: inherit; }
 }
 
 .contents { margin-top: 3rem; }
+.modern-head { max-width: 46rem; margin: 1.5rem 0 3rem; }
+.modern-head .prose { margin-top: 1.2rem; }
+.toc > li.toc-deeper { padding-left: 1.4rem; }
 .contents h2, .edition-notes h2 { font-size: 2rem; font-weight: 500; margin-bottom: 1rem; }
 .toc, .toc ol { list-style: none; margin: 0; padding: 0; }
 .toc > li { border-top: 1px solid var(--rule); }
