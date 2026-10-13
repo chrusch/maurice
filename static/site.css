@@ -162,15 +162,22 @@ button { font: inherit; color: inherit; }
 
 /* "Don't know where to start?": one chapter suggested to a newcomer */
 .start-here { margin: 1.1rem 0 0; color: var(--ink-3); font-size: 1.08rem; font-style: italic; }
-.start-here a { color: var(--accent); text-decoration: none; font-style: normal; white-space: nowrap; }
+.start-here a { color: var(--accent); text-decoration: none; font-style: normal; }
+.start-here .nowrap { white-space: nowrap; }
 .start-here a:hover { text-decoration: underline; text-underline-offset: .18em; }
 .start-here cite { font-style: italic; }
 .start-here .i { display: inline-block; width: .8em; height: .8em; vertical-align: -.05em; margin-left: .15em; }
 
 .hero-shelf { display: flex; flex-direction: column; min-width: 0; }
+/* The books stand in two halves. On a wide screen the halves stand side by
+   side on one plank, as one shelf; on a phone, where one shelf would squeeze
+   the spines, they stand on two shelves, one above the other. */
+.shelf-rows { display: flex; justify-content: center; align-items: flex-end; gap: 2px; padding: 0 .4rem; }
+.shelf-row { display: contents; }
+.row-plank { display: none; }
 .shelf-books {
   display: flex; align-items: flex-end; justify-content: center; gap: 2px;
-  height: 17rem; padding: 0 .4rem;
+  height: 17rem; flex: 0 1 auto; min-width: 0;
 }
 .spine {
   --w: 2.4rem; --h: 92%;
@@ -227,6 +234,13 @@ button { font: inherit; color: inherit; }
   .hero-grid { grid-template-columns: 1fr; gap: 2.5rem; }
   .shelf-books { height: 16.5rem; }
   .spine-title { letter-spacing: .02em; }
+}
+@media (max-width: 40rem) {
+  .shelf-rows { flex-direction: column; align-items: stretch; gap: 1.4rem; padding: 0; }
+  .shelf-row { display: block; }
+  .shelf-row .shelf-books { height: 14rem; padding: 0 .4rem; }
+  .row-plank { display: block; }
+  .whole-plank { display: none; }
 }
 
 /* ---------------------------------------------------------------- home: quote */
