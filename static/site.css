@@ -147,6 +147,8 @@ button { font: inherit; color: inherit; }
 .footer-title { font-family: var(--display); font-size: 1.5rem; font-weight: 600; }
 .footer-title a { color: var(--ink); text-decoration: none; }
 .footer-links a { color: var(--ink-2); }
+.footer-companion { margin-top: .8rem !important; font-style: italic; }
+.footer-companion a { color: var(--ink-2); }
 .footer-note { font-size: .9rem; margin-top: 1rem !important; }
 
 /* ---------------------------------------------------------------- home: hero */
