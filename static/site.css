@@ -583,8 +583,15 @@ mark { background: var(--mark); color: inherit; padding: 0 .08em; border-radius:
   .reader-home { display: none; }
   .reader-book { border-left: 0; padding-left: .2rem; font-size: 1rem; }
   .version > * { padding: .1rem .5rem .15rem; font-size: .98rem; }
+  .reader-bar .bar { gap: .25rem; padding: 0 .4rem; }
+  .reader-tools { gap: 0; }
   .icon-btn { width: 2.1rem; height: 2.1rem; }
-  .reader-tools [data-step="-1"] { display: none; }
+  .reader-tools .icon-btn { width: 1.95rem; }
+}
+@media (max-width: 22.5rem) {
+  .version { margin-right: .15rem; }
+  .version > * { padding: .1rem .35rem .15rem; letter-spacing: .03em; }
+  .bar:has(.version) .reader-book { visibility: hidden; }   /* no room for even a word of it */
 }
 
 .drawer {
