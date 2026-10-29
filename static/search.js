@@ -26,6 +26,9 @@
     for (var i = 0; i < s.length; i++) out += foldChar(s[i]);
     return out;
   }
+  // A paragraph's anchor is its number; a heading's (a title) is its id.
+  function anchor(n) { return typeof n === "number" ? "p" + n : n; }
+
   // Folded text plus, for each folded character, its index in the original.
   function foldMap(s) {
     var text = "", map = [];
@@ -143,7 +146,7 @@
 
   var cacheHits = {}, lastRes = [], lastQ = "";
   function result(p, res, q) {
-    return '<a class="result" href="' + esc(p.href) + "?hl=" + encodeURIComponent(q) + "#p" + p.n + '">' +
+    return '<a class="result" href="' + esc(p.href) + "?hl=" + encodeURIComponent(q) + "#" + anchor(p.n) + '">' +
       '<span class="result-where">' + esc(p.page) + "</span>" +
       '<span class="result-text">' + snippet(p, res) + "</span></a>";
   }
