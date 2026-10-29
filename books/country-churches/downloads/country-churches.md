@@ -1,5 +1,11 @@
 # Sermons Preached in Country Churches
 
+## Preface
+
+The title of these Sermons exactly expresses what they are. Mr. Maurice frequently took duty in some quiet village during the summer vacation. He found more rest in ministering to the poor and in speaking to them, than in visits to English watering-places or in foreign travel. The poor "heard him gladly." They understood his teaching, and crowded to hear him. It is thought that words which went home to the hearts of many simple and ignorant people, may be blessed to others, though unaccompanied by the voice and the face which made them so precious to those who heard them spoken.
+
+Georgina F. Maurice.
+
 ## Contents
 
 Sermon I. The Pool of Bethesda

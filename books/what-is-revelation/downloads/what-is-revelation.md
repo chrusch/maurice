@@ -1,5 +1,7 @@
 # What is Revelation?
 
+> "As our understanding can contemplate itself, and our affections be exercised upon themselves by reflection, so may each be employed in the same manner upon any other mind: and since the Supreme Mind, the Author and Cause of all things, is the highest possible object to Himself, He may be an adequate supply to all the faculties of our souls, a subject to our understandings, and an object to our affections."—*Butler*, 14*th Sermon*, *On the Love of God.*
+
 ## Preface
 
 In the Preface to the third edition of Mr. Mansel's Lectures, p. 14, he says:—
