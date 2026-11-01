@@ -96,6 +96,82 @@
     } catch (e) {}
   }
 
+  /* ---- Index of Quotations: a verse's words from its number; one group of
+     books only (?in=sermons); every verse shown; a search of the verses (?q=) ---- */
+  var qMenu = document.getElementById("q-in");
+  if (qMenu) {
+    var qFind = document.getElementById("q-find"), qAll = document.getElementById("q-all");
+    var qCount = document.getElementById("q-count");
+    var fold = function (s) {
+      return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[’‘]/g, "'");
+    };
+    var reEsc = function (t) { return t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); };
+    var rows = Array.prototype.map.call(document.querySelectorAll(".text-row"), function (r) {
+      var verse = r.querySelector(".verse");
+      return { el: r, verse: verse, html: verse.innerHTML, button: r.querySelector(".vref"), open: false,
+               words: fold(r.closest(".text-book").querySelector("h2").textContent + " " +
+                           r.querySelector("dt").textContent + " " + verse.textContent) };
+    });
+    var marked = function (el, re) {             // the words searched for, marked in the verse
+      var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT), nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      nodes.forEach(function (node) {
+        if (!re.test(node.nodeValue)) return;
+        re.lastIndex = 0;
+        var frag = document.createDocumentFragment();
+        node.nodeValue.split(re).forEach(function (part, i) {
+          if (i % 2) { var m = document.createElement("mark"); m.textContent = part; frag.appendChild(m); }
+          else if (part) frag.appendChild(document.createTextNode(part));
+        });
+        node.parentNode.replaceChild(frag, node);
+      });
+    };
+    var showQuotations = function () {
+      var kind = qMenu.value, q = qFind.value.trim(), shown = 0;
+      var terms = (q.match(/"[^"]+"|[^\s"]+/g) || []).map(function (t) { return fold(t.replace(/"/g, "")); })
+        .filter(Boolean);
+      var tests = terms.map(function (t) { return new RegExp("(^|[^a-z0-9])" + reEsc(t)); });
+      var mark = terms.length && new RegExp("(" + terms.map(reEsc).join("|") + ")", "gi");
+      rows.forEach(function (r) {
+        r.el.querySelectorAll(".q").forEach(function (p) { p.hidden = !!kind && p.dataset.kind !== kind; });
+        r.el.hidden = !r.el.querySelector(".q:not([hidden])") || !tests.every(function (t) { return t.test(r.words); });
+        var open = !r.el.hidden && (qAll.checked || terms.length > 0 || r.open);
+        r.verse.innerHTML = r.html;
+        if (open && mark) marked(r.verse, mark);
+        r.verse.hidden = !open;
+        r.button.setAttribute("aria-expanded", open);
+        if (!r.el.hidden) shown++;
+      });
+      document.querySelectorAll(".text-book").forEach(function (b) {
+        b.hidden = !b.querySelector(".text-row:not([hidden])");
+        var link = document.querySelector('.brief-toc a[href="#' + b.id + '"]');
+        if (link) link.hidden = b.hidden;
+      });
+      qCount.hidden = !(kind || terms.length);
+      qCount.textContent = shown ? shown + (shown === 1 ? " passage" : " passages") : "Nothing found.";
+      var params = new URLSearchParams();
+      if (q) params.set("q", q);
+      if (kind) params.set("in", kind);
+      history.replaceState(null, "", (params.toString() ? "?" + params : location.pathname) + location.hash);
+    };
+    rows.forEach(function (r) {
+      r.button.addEventListener("click", function () {
+        r.open = r.verse.hidden;
+        r.verse.hidden = !r.open;
+        r.button.setAttribute("aria-expanded", r.open);
+      });
+    });
+    var given = new URLSearchParams(location.search);
+    if (given.get("in") && qMenu.querySelector('option[value="' + given.get("in") + '"]')) qMenu.value = given.get("in");
+    if (given.get("q")) qFind.value = given.get("q");
+    var typing;
+    qFind.addEventListener("input", function () { clearTimeout(typing); typing = setTimeout(showQuotations, 250); });
+    qMenu.addEventListener("change", showQuotations);
+    qAll.addEventListener("change", showQuotations);
+    qFind.form.addEventListener("submit", function (ev) { ev.preventDefault(); showQuotations(); });
+    if (qMenu.value || qFind.value) showQuotations();
+  }
+
   var reader = document.querySelector("main.reader");
   if (!reader) return;
 
@@ -203,6 +279,62 @@
     pop.style.left = left + "px";
     pop.style.top = (r.bottom + scrollY + 8) + "px";
   });
+
+  /* ---- mark the words quoted from the Bible (?quote=…, from the Index of
+     Quotations) in the linked paragraph. Words are reckoned as
+     tools/quotations.py reckons them, SPELLING and all. ---- */
+  var quote = new URLSearchParams(location.search).get("quote");
+  var quoted = location.hash && document.getElementById(location.hash.slice(1));
+  if (quote && quoted) {
+    var SPELLING = { neighbor: "neighbour", neighbors: "neighbours", honor: "honour", labor: "labour",
+      labored: "laboured", savior: "saviour", favor: "favour", color: "colour", shew: "show", shewed: "showed",
+      shewn: "shown", shewing: "showing", sheweth: "showeth", oh: "o" };
+    var walker = document.createTreeWalker(quoted, NodeFilter.SHOW_TEXT), nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    var folded = "", from = [];                 // the paragraph folded, and where each of its letters came from
+    nodes.forEach(function (node, n) {
+      for (var i = 0; i < node.nodeValue.length; i++) {
+        var f = node.nodeValue[i].normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase()
+          .replace("æ", "ae").replace("œ", "oe").replace(/[’‘]/, "'");
+        for (var j = 0; j < f.length; j++) { folded += f[j]; from.push([n, i]); }
+      }
+    });
+    var words = [], m, wordRe = /[a-z]+(?:'[a-z]+)?/g;
+    while ((m = wordRe.exec(folded))) {
+      var w = m[0].replace(/'s/g, "s");
+      words.push({ w: SPELLING[w] || w, start: m.index, end: m.index + m[0].length });
+    }
+    var spans = nodes.map(function () { return []; });
+    quote.split("|").forEach(function (part) {
+      var want = part.trim().split(/\s+/).filter(Boolean);
+      for (var i = 0; want.length && i + want.length <= words.length; i++) {
+        if (!want.every(function (w, k) { return words[i + k].w === w; })) continue;
+        var a = from[words[i].start], b = from[words[i + want.length - 1].end - 1];
+        for (var n = a[0]; n <= b[0]; n++) {       // (not the spaces that only lay out the lines between)
+          var t = nodes[n].nodeValue;
+          var lo = n === a[0] ? a[1] : t.length - t.replace(/^\s+/, "").length;
+          var hi = n === b[0] ? b[1] + 1 : t.replace(/\s+$/, "").length;
+          if (lo < hi) spans[n].push([lo, hi]);
+        }
+      }
+    });
+    nodes.forEach(function (node, n) {
+      if (!spans[n].length) return;
+      var text = node.nodeValue, frag = document.createDocumentFragment(), pos = 0;
+      spans[n].sort(function (x, y) { return x[0] - y[0]; }).forEach(function (sp) {
+        var start = Math.max(sp[0], pos);
+        if (start >= sp[1]) return;
+        if (start > pos) frag.appendChild(document.createTextNode(text.slice(pos, start)));
+        var mk = document.createElement("mark");
+        mk.className = "quoted";
+        mk.textContent = text.slice(start, sp[1]);
+        frag.appendChild(mk);
+        pos = sp[1];
+      });
+      if (pos < text.length) frag.appendChild(document.createTextNode(text.slice(pos)));
+      node.parentNode.replaceChild(frag, node);
+    });
+  }
 
   /* ---- highlight search terms (?hl=…) in the linked paragraph ---- */
   var hl = new URLSearchParams(location.search).get("hl");

@@ -499,6 +499,39 @@ button { font: inherit; color: inherit; }
 .brief figcaption a { color: var(--ink-3); text-decoration: none; }
 .brief figcaption a:hover { color: var(--accent); text-decoration: underline; }
 
+/* ---------------------------------------------------------------- Index of Quotations */
+
+.index-intro { font-size: 1.15rem; color: var(--ink-2); }
+.q-more { color: var(--ink-3); font-size: .92em; white-space: nowrap; }
+.text-row dd .q-more a { color: var(--ink-3); padding: 0 .1em; }
+
+.text-book { margin-top: 2.6rem; }
+.text-book h2 { font-size: 1.6rem; font-weight: 500; border-bottom: 1px solid var(--rule); padding-bottom: .3rem; }
+.text-list { margin: 0; }
+.text-row { display: grid; grid-template-columns: 6.5rem 1fr; gap: 1rem; padding: .5rem 0; border-bottom: 1px dotted var(--rule); }
+.text-row dt { color: var(--ink-2); font-variant-numeric: oldstyle-nums; }
+.text-row dd { margin: 0; line-height: 1.45; }
+.text-row dd a { color: var(--ink); text-decoration: none; }
+.text-row dd a:hover { color: var(--accent); text-decoration: underline; }
+.text-src { color: var(--ink-3); font-style: italic; }
+.text-row dd .q { display: block; }
+.text-book[hidden], .text-row[hidden], .text-row dd .q[hidden], .brief-toc a[hidden] { display: none; }
+.q-method summary { cursor: pointer; color: var(--ink-3); font-style: italic; font-size: 1rem; }
+.q-method[open] summary { margin-bottom: .6rem; }
+.q-toc a:not([hidden]) ~ a:not([hidden])::before { content: "·"; margin-right: .5em; color: var(--ink-3); }
+.quote-filter { margin: 1.4rem 0 0; align-items: center; }
+.quote-all { color: var(--ink-2); font-size: 1rem; white-space: nowrap; }
+.quote-all input { accent-color: var(--accent); margin-right: .25rem; }
+.quote-filter + .results-summary { margin-top: 1.2rem; }
+.vref { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer;
+  text-decoration: underline dotted; text-underline-offset: .2em; font-variant-numeric: oldstyle-nums; text-align: left; }
+.vref[aria-expanded="true"] { text-decoration-style: solid; }
+.verse { margin: 0 0 .45rem; color: var(--ink-2); font-style: italic; line-height: 1.5; }
+.verse p { margin: 0; }
+.verse .vn { font-style: normal; font-size: .72em; vertical-align: .35em; color: var(--ink-3); }
+.verse[hidden] { display: none; }
+@media (max-width: 30rem) { .text-row { grid-template-columns: 1fr; gap: .1rem; } }
+
 /* ---------------------------------------------------------------- contact */
 
 .contact-form { display: grid; gap: 1rem; margin-top: 1.5rem; }
@@ -538,6 +571,7 @@ button { font: inherit; color: inherit; }
 .result-where { display: block; font-variant-caps: all-small-caps; letter-spacing: .08em; color: var(--ink-3); font-size: 1rem; }
 .result-text { display: block; line-height: 1.5; margin-top: .15rem; }
 mark { background: var(--mark); color: inherit; padding: 0 .08em; border-radius: 2px; }
+mark.quoted { padding: 0; border-radius: 0; text-decoration: underline 1.5px var(--accent); text-underline-offset: .18em; }
 .more-results { margin-top: .8rem; }
 .more-results button { background: none; border: 1px solid var(--rule); border-radius: 999px; padding: .35rem 1rem; cursor: pointer; font-variant-caps: all-small-caps; letter-spacing: .08em; }
 
