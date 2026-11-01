@@ -122,7 +122,7 @@ LECTURE XXVIII. THE KING TRIUMPHANT
 
 ## LECTURE I. THE PURPOSE OF THE GOSPEL
 
-> Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us, even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word; it seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus, that thou mightest know the certainty of those things, wherein thou hast been instructed.— [St. Luke]{.smallcaps} i. 1-5.
+> Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us, even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word; it seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus, that thou mightest know the certainty of those things, wherein thou hast been instructed.—[St. Luke]{.smallcaps} i. 1-5.
 
 [Two]{.smallcaps} years ago, on St. Luke's day, I began a series of Lectures on the Acts of the Apostles. This year I commence a series on the Gospel of St. Luke. Am I not reversing the order of these writings? Does not the Evangelist call that 'the former treatise' which I am considering last?
 
@@ -512,7 +512,7 @@ There is, I know, a notion in some of us that faith ceases and sight begins for 
 
 ## LECTURE XII. THE PARABLE OF THE KINGDOM OF HEAVEN
 
-> And his disciples asked him, saying, What might this parable be?— [St. Luke]{.smallcaps} viii. 9.
+> And his disciples asked him, saying, What might this parable be?—[St. Luke]{.smallcaps} viii. 9.
 
 [This]{.smallcaps} chapter contains the first parable which St. Luke has reported. That parable may be called in one sense the parable of parables. St. Matthew and St. Mark both put it before the others; both connect it with a special explanation, and with the reason which our Lord gives for teaching by parables generally. Our thoughts are therefore naturally drawn to this subject, and I shall keep it before me throughout this lecture.
 
@@ -554,7 +554,7 @@ I do not think that these stories tempt us to forget our main subject. They rath
 
 ## LECTURE XIII. THE GLORY AND HUMILIATION OF THE KING
 
-> For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father's, and of the holy angels. But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God.— [St. Luke]{.smallcaps}, ix. 26, 27.
+> For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father's, and of the holy angels. But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God.—[St. Luke]{.smallcaps} ix. 26, 27.
 
 [In]{.smallcaps} every one of the three Gospels which record the Transfiguration, these words, or words nearly identical with these, introduce the narrative of it. We should not forget them if we wish to know how the Evangelists regarded that event. But they are equally important for the illustration of every other passage in this chapter; how important they are for the life of each one of us—of each minister of Christ especially—may He enable us to consider.
 
@@ -590,7 +590,7 @@ A mighty paradox, surely! yet one which every day and hour of human experience e
 
 ## LECTURE XIV. THE ETERNAL LIFE OF THE KINGDOM OF HEAVEN
 
-> And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life? He said unto him, What is written in the law? how readest thou? And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself. And he said unto him, Thou hast answered right: this do, and thou shalt live.—[St. Luke]{.smallcaps} x, 25-28.
+> And, behold, a certain lawyer stood up, and tempted him, saying, Master, what shall I do to inherit eternal life? He said unto him, What is written in the law? how readest thou? And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself. And he said unto him, Thou hast answered right: this do, and thou shalt live.—[St. Luke]{.smallcaps} x. 25-28.
 
 [There]{.smallcaps} is no one of the Apostles who dwells so much upon this commandment as St. John. He dwells upon it in that character. He does not speak of love to God or our neighbour as raising us above commandments. It is His commandment—the commandment that we should love. In this commandment, he says, there is life; it carries with it the power of fulfilling it, because it proceeds from the Almighty Father—because it comes to us through Him who has fulfilled it.
 
@@ -628,7 +628,7 @@ These are the acts by which He pays homage to His Father, in which He reveals Hi
 
 ## LECTURE XV. THE SPIRIT OF THE KING AND OF THE JEWISH RULERS
 
-> And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness. Ye fools, did not he that made that which is without make that which is within also — [St. Luke]{.smallcaps} xi. 39, 40.
+> And the Lord said unto him, Now do ye Pharisees make clean the outside of the cup and the platter; but your inward part is full of ravening and wickedness. Ye fools, did not he that made that which is without make that which is within also?—[St. Luke]{.smallcaps} xi. 39, 40.
 
 [The]{.smallcaps} last chapter closes with a simple domestic picture which has fixed itself on the heart of all Christian nations. Jesus in the house of Martha and Mary, served diligently by the one, listened to by the other — this story has been felt to be true for that time, true for all times. Such diversities of character, such impatience of the busy spirit against the thoughtful one, there must have been in the villages of Palestine, because they are to be found in the villages of England. And it has been felt that the love which binds together tempers so naturally at variance, which enables them to work together in their own ways, for the same end, must dwell in One above themselves. There must be a hidden guest in every family group, who appoints the special tastes of its members, who gives them a common centre; without such a guest the father, the mother, the brother, would only confuse them by their opposing counsels and hasty judgments.
 
@@ -1034,7 +1034,7 @@ Here was a practical lesson. This blind beggar discovered what a Son of David, a
 
 ## LECTURE XXIII. THE KING ENTERING HIS CAPITAL
 
-> And when he was come near, he beheld the city, and wept over it.— [St. Luke]{.smallcaps} xix. 41.
+> And when he was come near, he beheld the city, and wept over it.—[St. Luke]{.smallcaps} xix. 41.
 
 I\. [How]{.smallcaps} the Son of David was discovered by the blind Bartimeeus; how He was invoked by that name to heal a wayside beggar, we considered last week. As He enters into Jericho, we hear of a rich man who bows before Him as the poor man had bowed. But Zaccheus, though rich, is a tax-gatherer. All the odium of his class belongs to him. Probably he has deserved it. The complaint, 'He is gone to be guest with a man that is a sinner,' taken in connection with his own words, has struck most readers as implying more than that Zaccheus had gained his wealth in an unpopular occupation. But if it was so, there had been awakened in him a craving for that which riches, well or ill-gotten, could not buy; yes, for a deliverance from that which they had bought. The money-getter climbs into a sycamore-tree, that he may get sight of one who, he is told, is a Galilean Peasant. There is a witness in his heart that this Peasant can do for him what no one else can do. His King speaks to him in that Peasant. 'Zaccheus, make haste and come down, For to-day I must abide in thy house.' He does not ask, as Bartimeeus did, that he may receive his sight; but scales fall from his inward eyes. The curse of riches and the use of riches are revealed to him. He starts from a money-getter and a money-worshipper into a man. He does not repent of some vague general sin. He repents of that which has been besetting him. He casts that off in the strength of the friend whom he has found so near to him. 'Behold,' he says, 'Lord, the half of my goods I give to the poor, and if I have taken anything from any man by false accusation, I restore him fourfold.' Is he answered, 'Yes; that resolution, if it is well kept, will procure the pardon of thy sins; that surrender of thy goods may buy heaven for thee in spite of thy past wrong-doings?' No; but he hears words immeasurably more assuring and elevating than those. 'This day is salvation come to this house, forsomuch as he also is a son of Abraham.' To be saved out of that money-worship which has degraded thee, enslaved thee, made thee incapable of entering into the glory of thy race, into thy citizenship as an Israelite, this is the highest gift which thy Prince can confer on thee. Now thou mayst walk the earth and look up to the heavens as a freeman. To give that freedom, I have come into the world. 'The Son of Man is come to seek and to save that which was lost.'
 
@@ -1161,7 +1161,7 @@ My friends, these things are said, and will be said, till we have courage to fac
 
 (Preached on Trinity Sunday.)
 
-> And he was withdrawn from them about a stone's cast, and kneeled down and prayed, saying; Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.— [St. Luke]{.smallcaps} xxii. 41, 42.
+> And he was withdrawn from them about a stone's cast, and kneeled down and prayed, saying; Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.—[St. Luke]{.smallcaps} xxii. 41, 42.
 
 [There]{.smallcaps} was a time when divines fancied that they could maintain the doctrine of the Trinity by quoting separate texts of Scripture in support of it. That Name, into which generations of men and women and children have been baptised—that Name which, if it means anything, must denote Him in whom we are living and moving and having our being—was supposed to rest on some passages of the Holy Book, or rather upon our interpretation of those passages. Such a habit of mind favoured all irreverence and all unreality. God confounded it. The text on which controversialists relied most was found to be a spurious one. They fought for it as long as they could; at last they were compelled to abandon it.
 
@@ -1235,7 +1235,7 @@ XV\. Hitherto it has been night. The day has just dawned, and this is the first 
 
 ## LECTURE XXVII. THE KING ON THE CROSS
 
-> And a superscription also was written over him in letters of Greek and Latin, and Hebrew, THIS IS THE KING OF THE JEWS. —[St. Luke]{.smallcaps} xxiii. 38.
+> And a superscription also was written over him in letters of Greek and Latin, and Hebrew, THIS IS THE KING OF THE JEWS.—[St. Luke]{.smallcaps} xxiii. 38.
 
 [That]{.smallcaps} the Gospel is the Gospel of a Kingdom we have been reminded at every turn of St. Luke's narrative. When we come to the history of the Crucifixion we may be tempted to forget that name; we may even shrink from it. Are we not to hear the cries of a Victim? Should not the Sacrifice be the prominent thought in our minds? Do we not, at least in the hour of darkness, lose sight of the King?
 
@@ -1293,7 +1293,7 @@ Many legends have clustered round the name of Joseph of Arimathea; he is especia
 
 ## LECTURE XXVIII. THE KING TRIUMPHANT
 
-> And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?— [St. Luke]{.smallcaps} xxiv, 5.
+> And as they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?—[St. Luke]{.smallcaps} xxiv. 5.
 
 [Joseph]{.smallcaps} of Arimathea waited for the Kingdom of God. God, so he read, so he believed, is the Living God, the Author of life to all things, the Renewer of life day by day. God, so he read and believed, called out the seed of Abraham to be the witnesses of Him against all dead gods—all gods who cannot impart life, who can only be endued with the semblance of life by those who worship them. Yet Death had triumphed over the works of God's hands. Death had triumphed over all men whom God had made in His image. There had come into the world One who spoke of Life, Eternal Life; One who said that God had sent Him to bestow this Life on men. And now Death had laid hold of Him. In the darkest form it had come to Him, He had not driven it back. He had cried out in agony, 'My God, why hast thou forsaken me?' He had been taken down from the Cross. There could be no doubt that His Spirit had gone. His body was laid in the tomb hewn out of the rock. The waiting, therefore, had to all appearance been in vain. There was a Kingdom of Death; that was universal. How could there be a Kingdom of God, in the sense in which prophets had spoken of it, in which Jesus had borne witness of it? The women who had watched beside the Cross rested the Sabbath day, according to the commandment. Could it have been rest? Yes, the unrest of vague expectation was over. The death which they thought must be averted, in which they could not believe, had actually come. There is a kind of rest in that necessity. The Sabbath, dull and leaden as it may have looked, at least said: 'The struggle is past. Nothing that you can do will bring Him back.' If you say rest without hope is impossible, that may be true also. I think it is. The Sabbath spoke of God. While they kept the commandment, there was a dim sense that He was still the living God. If He was, there must be hope.
 

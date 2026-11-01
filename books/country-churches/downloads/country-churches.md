@@ -230,7 +230,7 @@ But let us despair no longer. For the will of our Father in heaven is to do us g
 
 Preached at Clyro, 1853.
 
-> "The God of our Fathers raised up Jesus whom ye slew and hanged upon a tree; Him hath God exalted with His right hand to be a Prince and a Saviour, for to give repentance to Israel and forgiveness of sins." —Acts v. 30, 31.
+> "The God of our Fathers raised up Jesus whom ye slew and hanged upon a tree; Him hath God exalted with His right hand to be a Prince and a Saviour, for to give repentance to Israel and forgiveness of sins."—Acts v. 30, 31.
 
 These are the words of St. Peter. Do you remember some other words of his, when he was sitting with our Lord the night before His crucifixion? He said then, "Lord, I will go with Thee to prison and to death." And Jesus answered, "Verily, I say unto you, the cock shall not crow twice till thou hast denied me thrice." As He spoke, so it came to pass. Jesus was standing before the judgment-seat. One and another person said to Peter, "Thou wast one of His disciples." "Did I not see thee in the garden with Him?" "Thou art a Galilean; thy speech betrayeth thee." But he said to each, "I know not what thou sayest," or, "I know not the man."
 
@@ -348,7 +348,7 @@ You say, 'That is very dreadful.' Surely it is. It is dreadful to distrust God w
 
 Preached at Welsh Hampton, 23rd Sunday after Trinity, October 26, 1856.
 
-> "For our conversation is in heaven, from whence also we look for the Saviour Jesus Christ. Who shall change our vile body that it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself."— Philippians iii. 20, 21.
+> "For our conversation is in heaven, from whence also we look for the Saviour Jesus Christ. Who shall change our vile body that it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself."—Philippians iii. 20, 21.
 
 Once upon a time St. Paul was imprisoned in the city of Philippi. He was thrown into prison because he had spoilt the gains of some enchanters by his preaching. They complained to the magistrates that he was exceedingly troubling their city, and teaching them customs which were not lawful for them to observe being Romans.
 
@@ -392,7 +392,7 @@ As He raised His body out of the grave, He will raise mine. As he ascended with 
 
 Preached at Ockham, 9th Sunday after Trinity, August 21, 1859.
 
->  "Likewise the Spirit also helpeth our infirmities; for we know not what we should pray for as we ought; but the Spirit itself maketh intercession for us with groanings that cannot be uttered."— Romans viii. 26.
+>  "Likewise the Spirit also helpeth our infirmities; for we know not what we should pray for as we ought; but the Spirit itself maketh intercession for us with groanings that cannot be uttered."—Romans viii. 26.
 
 You have been praying this prayer to-day: "Grant to us, Lord, we beseech thee, the spirit to think and to do always such things as be rightful; that we who cannot do anything that is good without thee, may by thee be enabled to live according to thy will; through Jesus Christ our Lord."
 
@@ -597,7 +597,7 @@ The first words you hear in church are a call to confess your sins. The first ac
 
 Preached at Redmarley, Morning of the 14th Sunday after Trinity, September 1, 1861.
 
-> "I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh." —Galatians v. 16.
+> "I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh."—Galatians v. 16.
 
 The Galatians, to whom St. Paul wrote these words, were a warm-hearted people, but they were very changeable. At one time they were exceedingly fond of St. Paul. They would have plucked out their own eyes, he says, to give them to him, if that would have done him any good. But within a short time they began to suspect him; they listened to people who said that he had deceived them, and that he was no true apostle. They counted him an enemy, and many of them became his enemies. How had this come to pass? It had come to pass thus:—St. Paul had brought them a good message. He said that the Eternal God had sent His Son into the world to adopt them into His family, to make them His own sons and daughters. He said that through His Son God had sent His Spirit to dwell with them, that they might know Him and love Him, and that they might love one another. The Galatians had listened to these words; they had never heard any that were like them before. They had thought the powers above looked very enviously at them, and wanted a great many things of them; they thought they had done wrong, and offended these powers; they thought if there was one power greater than all, they must have offended Him most, and He must be the most angry with them. How wonderful it was to be told that the Lord of all— He who had created them—loved them; that He felt to them as a father feels to children who have forgotten him and gone away from his house; that He was Himself fetching them back; that they were not to turn away from Him because they had done bad things, but might turn to Him, and He would put the evil from them, and blot it out. And how wonderful to hear that they had the Spirit of the Father near them at all times to help them and strengthen them; how wonderful to have all this sealed and assured to them by this token, that they were baptized into the name of the Father, and of the Son, and of the Holy Ghost. And yet the hearts of these Galatians said this good news must be true; and they would have been glad to put out their own eyes for his sake who had brought them the news.
 
@@ -621,7 +621,7 @@ Now, brethren, remember that all this is spoken to us. Just as St. Paul and the 
 
 Preached at Redmarley, Afternoon of the 14th Sunday after Trinity, September 1, 1861.
 
-> "Oh, Lord, our Governor, how excellent is Thy Name in all the earth." ——Psalm viii.
+> "Oh, Lord, our Governor, how excellent is Thy Name in all the earth."—Psalm viii.
 
 I have been reading this Psalm together this afternoon. Let us try if we cannot get some good out of it that will go through the week—that will make us rejoice more together in the bright skies, and the harvest, and in all other good things that we receive at God's hands.
 
@@ -831,7 +831,7 @@ And one thing more I must say. The Apostles were to judge the twelve tribes of I
 
 Preached at Brampton Ash, Afternoon of the 10th Sunday after Trinity, August 24, 1862.
 
-> "If we say that we have no sin we deceive ourselves and the truth is not in us. If we confess our sins He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."—1 St. John i, 8, 9.
+> "If we say that we have no sin we deceive ourselves and the truth is not in us. If we confess our sins He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."—1 St. John i. 8, 9.
 
 You are used to these words. You hear them very often at the beginning of our morning or our evening prayers. This afternoon you heard them as they come in the course of St. John's letter to his flock those whom he calls his little children—at Ephesus.
 
@@ -953,7 +953,7 @@ My friends, if St. Michael's Day teaches you to lay these things to heart it wil
 
 Preached at Brampton Ash, Morning of the 16th Sunday after Trinity, October 5, 1862.
 
-> "And there came a fear on all, and they glorified God, saying, That a great prophet is risen up among us, and that God hath visited His people,"—Luke vii. 16.
+> "And there came a fear on all, and they glorified God, saying, That a great prophet is risen up among us, and that God hath visited His people."—Luke vii. 16.
 
 You remember, many of you, the cholera which came upon this land eight years ago. Many of you will remember another a few years before that, and another still further back. That brought a great fear on many neighbourhoods. They saw one and another who was well one Sunday, carried off before the next. This seat was empty and that. Whose seat might be empty the next week? This they called a visitation of God. 'It is very terrible,' they cried, 'He is indeed visiting us. We must ask Him to stay His Hand.' They knew, indeed, that their own neglect had often much to do with the spread of the disease. Houses were not kept clean from mere idleness, or from their own selfish plans people put themselves and their neighbours in danger. Many drank too much, and that made them weak when the disorder caught hold of them. 'Still,' they said, 'this is God's doing. He is visiting us.'
 
@@ -1007,7 +1007,7 @@ Dear friends, that love of God, that glory of God which is for all and for ever�
 
 Preached at Budock, 1864.
 
-> "Simon Peter, a servant and an Apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ: Grace and peace be multiplied unto you through the knowledge of God and of Jesus our Lord."— 2 St. Peter i. 1, 2.
+> "Simon Peter, a servant and an Apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ: Grace and peace be multiplied unto you through the knowledge of God and of Jesus our Lord."—2 St. Peter i. 1, 2.
 
 This is all we know about the persons to whom St. Peter's Epistle was written. They might be Jews, like Simon Peter himself. Probably most of them were, for his work was chiefly among Jews. But they might be Gentiles, for he had been the first to tell the Gentiles that God was no respecter of persons, and that in every nation those who feared Him and wrought righteousness should be accepted of Him. Whatever they were, they had obtained that blessing which St. Peter thought the most precious that he or any man could obtain.
 
@@ -1063,7 +1063,7 @@ And see we are told that one day all shall know Him from the least even to the g
 
 Preached at Burnham, Morning of the 11th Sunday after Trinity, August 12, 1866.
 
-> "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body. And He took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it: for this is my blood of the New Testament, which is shed for many for the remission of sins."— St. Matthew xxvi, 26-28.
+> "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body. And He took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it: for this is my blood of the New Testament, which is shed for many for the remission of sins."—St. Matthew xxvi. 26-28.
 
 You know why I have chosen these words to-day. They speak of the Lord's Supper. They tell us when that feast was first kept, and who first kept it; what it meant to them, what it means to us when we keep it now. I shall speak to you on each of these points. May God enable us to think of them.
 
@@ -1093,7 +1093,7 @@ III\. You see, then, that the Sacrament of the Lord's Supper meant very little t
 
 Preached at Burnham, Afternoon of the 11th Sunday after Trinity, August 12, 1866.
 
-> "So speak ye, and so do, as they that shall be judged by the law of liberty." —St. James ii. 12.
+> "So speak ye, and so do, as they that shall be judged by the law of liberty."—St. James ii. 12.
 
 My friends, do you think it is liberty for a man to be left to do what he likes? I do not know any slavery so hard as that. A drunkard does what he likes, and so he becomes utterly unable to govern himself. He does the maddest things. He ruins his wife and children. That comes of a man having his own way. He is dragged along into courses that he knows to be utterly vile. He says in his misery "I could not help it; my inclinations had the mastery over me." That is to say, he did what he liked to do, and his likings were the cruellest tyrants over him. There are none so bad, none that treat a man so unmercifully, that beat him and trample upon him so terribly.
 
@@ -1195,7 +1195,7 @@ That is the covenant which He has made with us in Christ. If we hold fast to tha
 
 Preached at Burnham, 15th Sunday after Trinity, September 9, 1866,
 
-> "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body what ye shall put on. Is not the life more than meat and the body than raiment?" —St. Matthew vi. 25.
+> "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body what ye shall put on. Is not the life more than meat and the body than raiment?"—St. Matthew vi. 25.
 
 Our Lord spoke these words to His disciples who were poor men, men that had to work for their livelihood. Do you think He told them that they need not work, that they might fold their hands and go to sleep, that God would take care of them if they did? Do you think He meant to say, 'You need not provide for your children; you may spend what you have got, just as you like'? No, my friends, He meant nothing of this kind. He wished these poor people to work more diligently than before. He wished them to be less hindered in their work. He wished them to think more of their children than they had ever thought; to be wise men and not spendthrifts. Let us consider what He had said just before. He spoke of their food and their clothing, their lives and their bodies—you heard me read it a few moments ago.
 
@@ -1221,7 +1221,7 @@ That will explain why He bids you take no thought for your life. If we are fidge
 
 Preached at Stoke Bishop.
 
-> "Make not My Father's house an house of merchandise."—St. John ii, 16.
+> "Make not My Father's house an house of merchandise."—St. John ii. 16.
 
 You have heard these words in the lesson for this morning. If you understand them I think they will tell you what this Church testifies of, why it has been set apart from the buildings round about it, what it may do for those who worship in it, and even for those who see it as they pass.
 
@@ -1251,7 +1251,7 @@ I believe that this is a testimony which the great merchant city that is so near
 
 ## Sermon XXXIX. St. John the Evangelist's Day
 
-> "And now, little children, abide in Him, that when He shall appear we may have confidence and not be ashamed before Him at His coming."—1 St. John ii, 28.
+> "And now, little children, abide in Him, that when He shall appear we may have confidence and not be ashamed before Him at His coming."—1 St. John ii. 28.
 
 These words are fit for St. John's day if any in the Bible are. They were written by St. John; they were meant for those among whom St. John dwelt. They show us the very mind and heart of St. John, and they belong to Christmas time if any words in the Bible belong to it. They tell us what the meaning of Christmas day is; how we have and may have the blessing for which we ask in the collect that we repeated on Friday, and have been repeating again this evening; and they are words for the last Sunday in the year if any in the Bible are. They make known to us what has been the error of one and of all of us in the year that is going; they make known to us what we want and may have in the year that is coming, and in all the years that we are to spend on earth, and when we have left the earth.
 

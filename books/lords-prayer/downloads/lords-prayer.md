@@ -10,7 +10,7 @@ London, May 25, 1848.
 
 Sixth Sunday after the Epiphany, February 13, 1848.
 
-Matthew VI. 9.
+[Matthew]{.smallcaps} VI. 9.
 
 After this manner therefore pray ye: 'Our Father which art in heaven.'
 
@@ -34,9 +34,11 @@ What I have said may have seemed to prove that this simple prayer is too high an
 
 ## Sermon II. Hallowed Be Thy Name
 
-Septuagesima Sunday, February 20, 1848
+Septuagesima Sunday, February 20, 1848.
 
-Matthew VI. 9.
+[Matthew]{.smallcaps} VI. 9.
+
+Hallowed be thy name.
 
 I said last Sunday that in this Prayer our Lord taught us the method, as well as the principle of all prayer. It is, indeed, impossible to separate one from the other. The principle of a prayer which asks first for bread or forgiveness, must be wholly different from the principle of one which begins with 'Hallowed be thy Name.' The conceptions of Prayer which you would derive from them are unlike, nay, they are opposed.
 
@@ -68,9 +70,11 @@ We are in danger alike from the invasion of all old superstitions, and of a fana
 
 ## Sermon III. Thy Kingdom Come
 
-Sexagesima Sunday, February 27, 1848
+Sexagesima Sunday, February 27, 1848.
 
-Matthew VI. 10.
+[Matthew]{.smallcaps} VI. 10.
+
+Thy kingdom come.
 
 We have reached this petition of the Lord's Prayer at a time which would seem to give it special emphasis and significancy. I suppose few have repeated it this week without a kind of impression, however vague, that it bore upon events which were occupying themselves and the world. The words, 'Thy Kingdom,' must have suggested to most a contrast between a Kingdom which cannot be moved, and kingdoms which appeared firm one day, and have been shaken to the ground the next.
 
@@ -96,7 +100,7 @@ For this we pray when we say, "Thy Kingdom come." We desire that the King of kin
 
 Quinquagesima Sunday, March 5, 1848.
 
-Matthew VI. 9.
+[Luke]{.smallcaps} XI. 2.
 
 Thy will be done, as in heaven, so in earth.
 
@@ -116,7 +120,9 @@ III\. And therefore the prayer may well go on, 'Thy will be done, as in heaven, 
 
 First Sunday in Lent, March 12, 1848.
 
-Matthew VI. 11.
+[Matthew]{.smallcaps} VI. 11.
+
+Give us this day our daily bread.
 
 Here are many points of view from which this season of Lent may be regarded. One of them is given us in the beginning of the Gospel for to-day. The tempter said to Jesus, 'If thou be the Son of God, command that these stones be made bread.' He answered, 'It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God shall men live.' If these last words had declared that man does not live by bread, they would have been naturally construed to mean that he has a higher, more mysterious life than that of his body; one requiring a diviner nourishment. But this sense, though it may be latent in the answer, has not generally been felt to arise immediately out of it. That the most perfect man does, in some sense, live by bread, was shown by our Lord's hungering. He did not exalt himself above the conditions of creatures with bodies, dying bodies; those conditions He entered into. It was to His weakness, to His suffering, that the Tempter spoke. And the reply did not move the question to a different ground, but met it on its own ground. Man's body lives not by bread alone, but by the Word which proceedeth out of the mouth of God. This was, obviously, the first intention of the language when it was used by Moses. The manna proved to the Israelites that their support came from the Word of God. That Word did not sustain them without visible food; but it conferred upon the visible thing its power of sustaining them. Take away the life-giving Word, which proceeded out of the mouth of God, and the little round thing which lay upon the ground would have been useless. This lesson they were to lay to heart; the pot of manna in the tabernacle was to remind them of it when they were come into the promised land, and were eating bread made by various processes from the corn which they had themselves sown and reaped. They were not to think that this derived its nourishing power less from the Word of God than the manna which their fathers ate in the wilderness. They were not to suppose that this bread had any virtue of its own more than the other. Its virtue lay in its fitness for the creature whom God had endued with a life incomparably more wonderful than that of the corn, wonderful as that is; wonderful as is its capacity of growth, maturity, conversion into a material quite unlike itself; wonderful as is the whole relation of the vegetable to the animal substance. Rightly reflected on, this bread contained a deeper, more comprehensive, revelation of God than the manna. But, because deeper and more comprehensive, therefore less adapted to an infant nation, which had been sensualized and debased by animal and vegetable worship, and by the slavery which must accompany it. Such a people have to begin at the alphabet; they must be taught by the falling of food from Heaven, that they depend upon an invisible Person, a sure Friend who cares for them; not upon the hard material thing which will not come to them when they ask for it; which they will be least able to procure when they treat it with most reverence. But that truth had need to be fixed in their hearts, again and again, in different stages of their history, by methods adapted to those stages. In the city as much as in the wilderness, when they had grown old in a settled independence, as much as when they had just escaped from the flesh-pots of Egypt, in the monotony of ease, as much as when everything around them spoke of famine and drought, they would be assailed by materialism and unbelief; they would be in danger of losing all thought of an unseen Protector. Therefore the heavens would become brass, and the earth iron, the locust and the palmerworm would eat up the fruits of the ground, the Philistine, or the Assyrian, would lay it waste for the same reason that the manna had fallen in the sight of their fathers; to shew them that they lived by the Word which proceeded out of the mouth of God, and not by any necessary fertility in the soil, or special exemption from the plagues of Egypt, or any strength in their hands or in their wit. There might come, in the latter days of the nation, even a harder and more desperate condition than that which is the result of men's natural inclination to trust in things seen, and in the works of their own hands. A stiff religious formalism, a comfortable conceit that they were going on with suitable decency through a round of appointed services, or, were acquiring merit by acts of voluntary supererogatory devotion, might make the heaven brass and the earth iron in another sense. All real communication might be cut off between them; the Lord of all might be exhibited as a tyrant to be won over by presents and bribes; the heart which should receive His grace might become utterly impenetrable. In such a period of the history of the Jews, our Lord appeared among them; at such a time the voice from Heaven said, 'This is my beloved Son,' and the voice from hell, 'If thou be the Son of God, command that these stones be made bread.' At such a time, He claimed to be the Son of God not because He could make stones bread, but because He could stand on the old promise, 'Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.' And having thus asserted His own filial dependence and filial faith, and having claimed the privilege of dependence and faith, not for Himself but for man; He, who came as the firstborn of many brethren, could say to the band of fishermen, His disciples, 'After this manner, therefore, pray ye: Our Father—give us this day our daily bread.' That childlike petition was the fruit of His Baptism, Fasting, and Temptation.
 
@@ -142,9 +148,9 @@ IV\. But it is our daily bread we ask for, τὸν ἄρτον ἡμῶν τὸ�
 
 Second Sunday in Lent, March 19, 1848.
 
-Matthew VI. 12.
+[Matthew]{.smallcaps} VI. 12.
 
-Forgive Us Our Debts, As We Forgive Our Debtors.
+Forgive us our debts, as we forgive our debtors.
 
 We should be sorry, I think, to lose the word 'Trespasses,' which we use in our ordinary repetition of the Lord's Prayer, and which is translated, no doubt, from the word ἁμαρτίας in St. Luke. Yet St. Matthew's expression presents a more distinct image to the mind; it interprets itself more easily. Therefore I have chosen it this afternoon, not wishing you to consider it alone, but believing that it may help us to a clearer apprehension of a word which for many, at least, has lost its brightness through continual attrition. The idea which the petition embodies, results, I suspect, from the union of that which is peculiar in each of these forms. We find it so generally, when we take the pains to examine different expressions evidently answering to each other, or different reports of the same transaction in the Gospels. From the comparison of them there proceeds a fuller and more profound meaning than we could have obtained from either separately. What is called the study of parallel passages, may in this way be really profitable; it is often made into a very childish exercise, one which involves no reflection; sacred words being turned into an irreverent game; all sense of their unity and relation being lost in the eagerness to hunt out the precise places in which they occur, or their most superficial and insignificant resemblances.
 
@@ -184,7 +190,9 @@ Wherefore, as it should be one of our saddest subjects of confession this Lent t
 
 Third Sunday in Lent, March 26, 1848.
 
-Matthew VI. 13.
+[Matt.]{.smallcaps} VI. 13.
+
+And lead us not into temptation.
 
 I said that the words of our Lord, 'It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God,' were a ground for the petition, 'Give us this day our daily bread.' Lent, above all seasons, might teach us the sense and power of it. 'Forgive us our debts, as we forgive our debtors,' had surely as close a connexion with these forty days. To be delivered from a heavy burden, this is the blessing of confession: a blessing which (as the prophets so often told the Jews) we cannot realize by any prayer or fast unless we seek to set others free from their burdens. The subject of Temptation might seem even more than either of these, to embrace the whole history and purpose of this time in its relation both to our Lord and to ourselves. But here a difficulty presents itself. We are told by the Evangelist, that our Lord was 'led up by the Spirit into the wilderness to be tempted of the Devil.' We are taught to pray, 'Do not lead or bring us into Temptation.' Must we not infer from this opposition, that there is not that close resemblance between His struggles and ours which we have sometimes imagined; that our spiritual life is not under the same law as His; that we are to deprecate that kind of trial to which He cheerfully submitted?
 
@@ -212,7 +220,9 @@ Away then with that cowardly language which some of us are apt to indulge in whe
 
 Fourth Sunday in Lent, April 2, 1848.
 
-Luke XI. 4.
+[Luke]{.smallcaps} XI. 4.
+
+Deliver us from evil.
 
 When a man prays, 'Lead us not into Temptation,' he prays against himself; prays that he may not go where he has an inclination to go; prays that neither he nor his brethren may have what they have a false taste for, even though God's hand seems to offer it them. Such a prayer, till we know something of ourselves, something of His purpose in placing us here, must needs appear strange and perplexing. Is not the one which follows it altogether different; the simplest, most spontaneous utterance of the heart; one which all the world has been pouring forth; which we should certainly have learnt, though no one had taught it us?
 
@@ -234,9 +244,11 @@ III\. This truth, that evil, though by its nature multiform and contradictory, h
 
 Fifth Sunday in Lent, April 9, 1848.
 
-Matthew VI. 13.
+[Matthew]{.smallcaps} VI. 13.
 
-AS this Doxology occurs in only one Evangelist, the Church, in her repetitions of the prayer, omits it at least as often as she uses it. The idea contained in the words has been expressed already; it is involved in all the petitions. But the distinct utterance of it at the close of the prayer teaches us some lessons which the prayer might fail to teach us, and yet which we must always remember if we would say it truly.
+For thine is the kingdom, and the power, and the glory, for ever. Amen.
+
+As this Doxology occurs in only one Evangelist, the Church, in her repetitions of the prayer, omits it at least as often as she uses it. The idea contained in the words has been expressed already; it is involved in all the petitions. But the distinct utterance of it at the close of the prayer teaches us some lessons which the prayer might fail to teach us, and yet which we must always remember if we would say it truly.
 
 I\. The words, 'Thine is the kingdom,' certainly assume that it is not ours. Now if by 'Kingdom' we understand the kingdom of Nature, the courses of the planets, the succession of day and night, of seed-time and harvest, perhaps the temptation to say, 'This is ours,' may not be very great. Some Opifex Mundi, or Intelligent Principle, or Demiurgus, or fixed law, may be admitted to preside over these arrangements. But if we apply 'kingdom,' as I suppose most of us would, to the order and conduct of human society generally, or in some of its particular divisions, the feeling is very different. Here we have a claim to be masters; over this order man exercises a most evident influence. Is there any thing monstrous in the notion, that he established it, and that he upholds it? There can be nothing strange in it, for we all drop into it most easily and naturally. True, there are old forms which denote a belief the most opposite of this, forms which indicate that the highest ruler of the land, and every subordinate magistrate, derives his authority from an Invisible Person, to whom he is under a fearful responsibility for the fulfilment of his duties. The recognition of an actual King of kings, and Lord of lords, of One not only interfering at certain crises to disturb an existing monotony, but present at all times, the real source of government, through whatever hands it may be administered,—this recognition enters assuredly into the institutions and laws of every nation in Christendom; I might say, of every nation in the world. But we have become more and more convinced that these witnesses are, as to their real and original intent, obsolete. They belong, it is said, to a theocratic period of the world's history; when that had passed away they lingered still and are even now not without their use in enforcing obligations, the true ground of which cannot be apprehended by the people at large, in giving an historical sacredness and mystery to that which would else seem a creature of the present, in sustaining the force of laws by sympathies and affections, by the terrors or hopes of another world. But all these explanations and apologies clearly assume, that the schemes for upholding society, be they religious or secular, are of our creation; that society itself is.
 

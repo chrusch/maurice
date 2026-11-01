@@ -176,7 +176,7 @@ I am glad, however, to hear anything I can hear about the speaker and about thos
 
 ## LECTURE II. THE GROUND OF CHRISTIAN ETHICS,
 
-1 John I. 1—6,
+1 [John]{.smallcaps} I. 1—6.
 
 > That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of Life; (for the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;) that which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with His Son Jesus Christ. And these things write we unto you, that your joy may be full. This then is the message which we have heard of Him, and declare unto you, that God is light, and in Him is no darkness at all. If we say that we have fellowship with Him, and walk in darkness, we lie, and do not the truth.
 
@@ -212,7 +212,7 @@ These I regard as the fundamental maxims of Christian ethics. In any true study 
 
 ## LECTURE III. LIGHT AND DARKNESS: SIN AND PURIFICATION.
 
-1 John I. 6—10.
+1 [John]{.smallcaps} I. 6—10.
 
 > If we say that we have fellowship with Him, and walk in darkness, we lie, and do not the truth: but if we walk in the light, as He is in the light, we have fellowship one with another, and the blood of Jesus Christ His Son cleanseth us from all sin. If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness. If we say that we have not sinned, we make Him a liar, and His word is not in us.
 
@@ -252,7 +252,7 @@ It is plain simple teaching this; that a man throws off the burden of his sins b
 
 ## LECTURE IV. THE TRUE IDEA OF MAN.
 
-1 John II. 1-3.
+1 [John]{.smallcaps} II. 1—3.
 
 > My little children, these things write I unto you, that ye sin not. And if any man sin, we have an Advocate with the Father, Jesus Christ the Righteous: and He is the propitiation for our sins: and not for ours only, but also for the sins of the whole world. And hereby we do know that we know Him, if we keep His commandments.
 
@@ -296,7 +296,7 @@ Christian ethics rescue prayers from these vile applications, and vindicate the 
 
 ## LECTURE V. DOING AND KNOWING.
 
-I JOHN II. 3—7.
+1 [John]{.smallcaps} II. 3—7.
 
 > And hereby we do know that we know Him, if we keep His commandments. He that saith, I know Him, and keepeth not His commandments, is a liar, and the truth is not in him. But whoso keepeth His word, in him verily is the love of God perfected: hereby know we that we are in Him. He that saith he abideth in Him ought himself also so to walk, even as He walked. Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.
 
@@ -348,7 +348,7 @@ It was so then; it is so now. I have seen hard fighters among poor men and rich 
 
 ## LECTURE VI. THE OLD AND NEW COMMANDMENTS.
 
-1 John II. 6—11
+1 [John]{.smallcaps} II. 6—11.
 
 > He that saith he abideth in Him ought himself also so to walk, even as He walked. Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the Word which ye have heard from the beginning. Again, a new commandment I write unto you, which thing is true in Him and in you: because the darkness is past, and the true light now shineth. He that saith he is in the light, and hateth his brother, is in darkness even until now. He that loveth his brother abideth in the light, and there is none occasion of stumbling in him. But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.
 
@@ -380,7 +380,7 @@ There are various thoughts which crowd upon me as I advance to this great point 
 
 ## Lecture VII. THE CHILDREN; THE YOUTHS; THE OLD MEN.
 
-1 John II. 12-14.
+1 [John]{.smallcaps} II. 12—14.
 
 > I write unto you, little children, because your sins are forgiven you for His Name's sake. I write unto you, fathers, because ye have known Him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father. I have written unto you, fathers, because ye have known Him that is from the beginning. I have written unto you, young men, because ye are strong, and the Word of God abideth in you, and ye have overcome the wicked one.
 
@@ -432,7 +432,7 @@ All young men of this day, all that are now struggling against their own enemies
 
 ## LECTURE VIII. THE WORLD AND THE FATHER.
 
-1 John II. 15—18.
+1 [John]{.smallcaps} II. 15—18.
 
 > Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him. For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world. And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.
 
@@ -572,7 +572,7 @@ Here a deep and grand subject opens upon us at which I cannot but glance, though
 
 ## LECTURE IX. THE LAST TIME; THE CHRIST; THE ANTI-CHRIST; THE CHRISM.
 
-1 John II. 18—23.
+1 [John]{.smallcaps} II. 18—23.
 
 > Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time. They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us; but they went out, that they might be made manifest that they were not all of us. But ye have an unction from the Holy One, and ye know all things. I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth. Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son. Whosoever denieth the Son, the same hath not the Father: but he that acknowledgeth the Son hath the Father also.
 
@@ -626,7 +626,7 @@ I will not press it further upon you now. It will come before us again in connex
 
 ## LECTURE X. THE PLACE OF THE DOCTRINE OF THE FATHER, THE SON, AND THE SPIRIT, IN CHRISTIAN ETHICS.
 
-1 John II. 23-28.
+1 [John]{.smallcaps} II. 23—28.
 
 > Whosoever denieth the Son, the same hath not the Father: [but] he that acknowledgeth the Son hath the Father also. Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father. And this is the promise that He hath promised us, even eternal life. These things have I written unto you concerning them that seduce you. But the anointing which ye have received of Him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in Him. And now, little children, abide in Him; that, when He shall appear, we may have confidence, and not be ashamed before Him at His coming.
 
@@ -669,7 +669,7 @@ And I, for my part, should be very glad to hear those lines produced, and to acc
 
 ## LECTURE XI. HOPE; ITS GROUND, OBJECT, AND EFFECT.
 
-1 John II. 28, 29: III. 1—6.
+1 [John]{.smallcaps} II. 28, 29; III. 1—6.
 
 > And now, little children, abide in Him; that, when He shall appear, we may have confidence, and not be ashamed before Him at His coming. If ye know that He is righteous, ye know that every one that doeth righteousness is born of Him. Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew Him not. Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when He shall appear, we shall be like Him; for we shall see Him as He is. And every man that hath this hope in him purifieth himself, even as he is pure. Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law. And ye know that He was manifested to take away our sins; and in Him is no sin. Whosoever abideth in Him sinneth not; whosoever sinneth hath not seen Him, neither known Him.
 
@@ -714,7 +714,7 @@ There is no part of Christian Ethics more profoundly important than this; none o
 
 ## Lecture XII. The Devil and His Works
 
-1 John III. 7-11.
+1 [John]{.smallcaps} III. 7—11.
 
 > Little children, let no man deceive you: he that doeth righteousness is righteous, even as He is righteous. He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that He might destroy the works of the devil. Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God. In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother. For this is the message that ye heard from the beginning, that we should love one another.
 
@@ -752,7 +752,7 @@ I can testify for myself, that no part of it has been of more use to me, than th
 
 ## LECTURE XIII. RELATION OF LOVE TO RIGHTEOUSNESS.
 
-1 JOHN III. 11-23.
+1 [John]{.smallcaps} III. 11—23.
 
 > For this is the message that ye heard from the beginning, that we should love one another. Not as Cain, who was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother's righteous. Marvel not, my brethren, if the world hate you. We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death. Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him. Hereby perceive we the love of God, because He laid down His Life for us: and we ought to lay down our lives for the brethren. But whoso hath this world's good, and seeth his brother have need, and shutteth up his bowels of compassion from him, how dwelleth the love of God in him? My little children, let us not love in word, neither in tongue; but in deed and in truth. And hereby we know that we are of the truth, and shall assure our hearts before him. For if our heart condemn us, God is greater than our heart, and knoweth all things. Beloved, if our heart condemn us not, then have we confidence toward God. And whatsoever we ask, we receive of Him, because we keep His commandments, and do those things that are pleasing in His sight. And this is His commandment, That we should believe on the name of His Son Jesus Christ, and love one another, as He gave us commandment.
 
@@ -802,7 +802,7 @@ I reserve the last verse for the next Lecture. It might be a very beautiful conc
 
 ## LECTURE XIV. SPIRITUAL POWERS IN OLD TIMES AND IN MODERN TIMES.
 
-1 John III. 24; and IV. 1—9.
+1 [John]{.smallcaps} III. 24; and IV. 1—9.
 
 > "And he that keepeth His commandments dwelleth in Him, and He in him. And hereby we know that He abideth in us, by the Spirit which He hath given us. Beloved, believe not every spirit, but try the spirits whether they are of God; because many false prophets are gone out into the world. Hereby know ye the Spirit of God: every spirit that confesseth that Jesus Christ is come in the flesh is of God: and every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already it is in the world. Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world. They are of the world: therefore speak they of the world, and the world heareth them. We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error. Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God. He that loveth not, knoweth not God: for God is love. In this was manifested the love of God toward us, because that God sent His only begotten Son into the world, that we might live through Him."
 
@@ -867,7 +867,7 @@ Other spirits, we have said, were to be tried by their likeness or unlikeness to
 
 ## LECTURE XV. PERFECTED LOVE
 
-1 JOHN IV. 14-21.
+1 [John]{.smallcaps} IV. 14—21.
 
 > And we have seen and do testify that the Father sent the Son to be the Saviour of the world. Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God. And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him. Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world. There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love. We love him, because he first loved us. If a man say, I love God, and hateth his brother, he is a liar; for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen! And this commandment have we from him, That he who loveth God love his brother also.
 
@@ -913,7 +913,7 @@ While, therefore, I do find in these pages of St. John a condemnation of all exp
 
 ## Lecture XVI. Faith and Love—Their Relation to Each Other and to the World
 
-1 John V. 1-5.
+1 [John]{.smallcaps} V. 1—5.
 
 > Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth Him that begat loveth Him also that is begotten of Him. By this we know that we love the children of God, when we love God, and keep His commandments. For this is the love of God, that we keep His commandments: and His commandments are not grievous. For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith. Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?
 
@@ -957,7 +957,7 @@ But we cannot overcome the world by reckoning the discomfitures which it has und
 
 ## LECTURE XVII. THE WITNESSES.
 
-1 John V. 6—12.
+1 [John]{.smallcaps} V. 6—12.
 
 > This is He that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth. For there are three that bear record [in heaven, the Father, the Word, and the Holy Ghost; and these three are one. And there are three that bear witness in earth], the Spirit, and the water, and the blood: and these three agree in one. If we receive the witness of men, the witness of God is greater: for this is the witness of God which He hath testified of His Son. He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of His Son. And this is the record, that God hath given to us eternal life, and this life is in His Son. He that hath the Son hath life; and he that hath not the Son of God hath not life.
 
@@ -1009,7 +1009,7 @@ The words which follow contain the only possible limitation of this gift, and th
 
 ## LECTURE XVIII. THE NATURE OF PRAYER-VENIAL AND MORTAL SINS.
 
-1 John V. 13-17.
+1 [John]{.smallcaps} V. 13—17.
 
 > These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God. And this is the confidence that we have in Him, that, if we ask any thing according to His will, He heareth us: and if we know that He hear us, whatsoever we ask, we know that we have the petitions that we desired of Him. If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it. All unrighteousness is sin: and there is a sin not unto death.
 
@@ -1068,7 +1068,7 @@ About all these things we in Protestant countries hear warnings enough, warnings
 
 ## LECTURE XIX. CHRISTIAN CERTAINTY.
 
-1 JOHN V. 18—21.
+1 [John]{.smallcaps} V. 18—21.
 
 > We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not, And we know that we are of God, and the whole world lieth in wickedness, And we know that the Son of God is come, and hath given us an understanding, that we may know Him that is true, and we are in Him that is true, even in His Son Jesus Christ. This is the true God, and eternal life. Little children, keep yourselves from idols. Amen.
 

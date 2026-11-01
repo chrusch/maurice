@@ -64,7 +64,7 @@ Letter XI. Evidences of the Bible
 
 ## Sermon I. The Magians
 
-Luke viii. 32.
+[St. Luke]{.smallcaps} ii. 32.
 
 > “A light to lighten the Gentiles, and the glory of thy people Israel.”
 
@@ -98,7 +98,7 @@ But when there comes to the conscience the revelation of a reconciled and reconc
 
 ## Sermon II. Christ among the Doctors
 
-Luke ii. 46, 47.
+[Luke]{.smallcaps} ii. 46, 47.
 
 > “And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. And all that heard him were astonished at his understanding and answers.”
 
@@ -136,7 +136,7 @@ I think that same Child, who has the government on His shoulders, hears us, ques
 
 ## Sermon III. St. Paul at Athens
 
-Acts xvii. 26-31.
+[Acts]{.smallcaps} xvii. 26-31.
 
 > “And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; that they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: for in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device. And the times of this ignorance God winked at; but now commandeth all men everywhere to repent; because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.”
 
@@ -174,7 +174,7 @@ Such is the testimony of the past. How the future will speak we wait to learn. N
 
 ## Sermon IV. The Miracles
 
-John x. 37, 38.
+[John]{.smallcaps} x. 37, 38.
 
 > “If I do not the works of my Father, believe me not. But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in Him.”
 
@@ -208,7 +208,7 @@ And while we consider the effect we may produce on others, let us not forget the
 
 ## Sermon V. Casting out the Evil Spirit
 
-Luke VIII. 35.
+[Luke]{.smallcaps} viii. 35.
 
 > “Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.”
 
@@ -260,7 +260,7 @@ Brethren, must this lesson also be wasted upon us? We have not indeed the same c
 
 ## Sermon VI. Christ's Parables
 
-Matthew xiii. 14-17.
+[Matthew]{.smallcaps} xiii. 14-17.
 
 > “And the disciples came, and said unto him, Why speakest thou unto them in parables? He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given. For whosoever hath, to him shall be given, and he shall have more abundance; but whosoever hath not, from him shall be taken away even that he hath. Therefore speak I to them in parables: because they seeing, see not; and hearing, they hear not, neither do they understand. And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive: for this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them. But blessed are your eyes, for they see; and your ears, for they hear. For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them.”
 
@@ -308,7 +308,7 @@ Oh, let us desire for ourselves that we may, as humble men, as little children, 
 
 ## Sermon VII. Practice and Speculation
 
-1 Peter x. 13-18.
+1 [Peter]{.smallcaps} i. 13-18.
 
 > “Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ; as obedient children, not fashioning yourselves according to the former lusts in your ignorance; but as he which hath called you is holy, so be ye holy in all manner of conversation; because it is written, Be ye holy; for I am holy.”
 
@@ -818,7 +818,7 @@ My dear Sir,
 
 At the close of Mr. Mansel's second Lecture, he states his reasons for using the philosophical terms Infinite, Absolute, Cause, in their dry formality, instead of introducing the awful name of God, and making that the theme of such tormenting subtleties. I appreciate the reverence which led him to adopt that course. Yet I cannot help thinking that if he reconsiders it, he may be led to detect a practical sophism in his argument. I grant it is a fearful thing to connect plays upon words with awful realities. But can he avoid the connection? Is he not answerable for bringing them together? At all events, the summary of his conclusions, with which he commences his third Lecture, must help to break down the distinction which he tried to establish in the previous one. Read, and consider it.
 
-> "My last Lecture was chiefly occupied with an examination of the ideas of the Absolute and the Infinite,—ideas which are indispensable to the foundation of a Metaphysical Theology, and of which a clear and distinct consciousness must be acquired, if such a Theology is to exist at all. I attempted to show the inadequacy of these ideas for such a purpose, by reason of the contradictions which to our apprehension they necessarily involve from every point of view. The result of that attempt may be briefly summed up as follows. We are compelled, by the constitution of our minds, to believe in the existence of an Absolute and Infinite Being,—a belief which appears forced upon us, as the complement of our consciousness of the relative and the finite. But the instant we attempt to analyze the ideas thus suggested to us, in the hope of attaining to an intelligible conception of them, we are on every side involved in inextricable confusion and contradiction. It is no matter from what point of view we commence our examination;—whether, with the Theist, we admit the co-existence of the Infinite and the Finite, as distinct realities; or, with the Pantheist, deny the real existence of the Finite; or, with the Atheist, deny the real existence of the Infinite;—on each of these suppositions alike, our reason appears divided against itself, compelled to admit the truth of one hypothesis, and yet unable to overcome the apparent impossibilities of each. *The philosophy of Rationalism, thus traced upwards to its highest principles, finds no legitimate resting-place, from which to commence its deduction of religious consequences*." —(*Bampton Lectures*, 2nd ed., pp. 67, 68.)
+> "My last Lecture was chiefly occupied with an examination of the ideas of the Absolute and the Infinite,—ideas which are indispensable to the foundation of a Metaphysical Theology, and of which a clear and distinct consciousness must be acquired, if such a Theology is to exist at all. I attempted to show the inadequacy of these ideas for such a purpose, by reason of the contradictions which to our apprehension they necessarily involve from every point of view. The result of that attempt may be briefly summed up as follows. We are compelled, by the constitution of our minds, to believe in the existence of an Absolute and Infinite Being,—a belief which appears forced upon us, as the complement of our consciousness of the relative and the finite. But the instant we attempt to analyze the ideas thus suggested to us, in the hope of attaining to an intelligible conception of them, we are on every side involved in inextricable confusion and contradiction. It is no matter from what point of view we commence our examination;—whether, with the Theist, we admit the co-existence of the Infinite and the Finite, as distinct realities; or, with the Pantheist, deny the real existence of the Finite; or, with the Atheist, deny the real existence of the Infinite;—on each of these suppositions alike, our reason appears divided against itself, compelled to admit the truth of one hypothesis, and yet unable to overcome the apparent impossibilities of each. *The philosophy of Rationalism, thus traced upwards to its highest principles, finds no legitimate resting-place, from which to commence its deduction of religious consequences*."—(*Bampton Lectures*, 2nd ed., pp. 67, 68.)
 
 I have put the last sentence in italics, that I may make a remark which is not more important for this passage than for the whole volume. You and I are very little concerned in ascertaining whether "the philosophy of Rationalism," or any other philosophy, religious or irreligious, has "a legitimate resting place." But if it is true that "*our* reason is divided against itself,"—if that division has reference to the question whether Theism, i.e. the doctrine that there is a God; Pantheism, i.e. the doctrine that everything is God; Atheism, i.e. the doctrine that there is no God, is the right doctrine,—this is a point of all importance to us,—this is a matter of life and death. That division must in some way be brought to an end; for what does it mean? That *we* have no legitimate resting-place; that there is no foundation for *our* being.
 
@@ -1005,7 +1005,7 @@ My dear Sir,
 
 The sixth Lecture of Mr. Mansel is occupied (1) with a discussion of the Christian Mysteries, the Trinity, and the Union of two Natures in Christ; (2) with the questions of a Special Providence and of Miracles. The following passage will explain to you the method of the whole Lecture.
 
-> "The Principle of Causality, the father, as it has been called, of metaphysical science, is to the philosopher what the belief in the existence of God is to the theologian. Both are principles inherent in our nature, exhibiting, whatever may be their origin, those characteristics of universality and certainty which mark them as part of the inalienable inheritance of the human mind. Neither can be reduced to a mere logical inference from the facts of a limited and contingent experience. Both are equally indispensable to their respective sciences: without Causation, there can be no Philosophy; as without God there can be no Theology. Yet to this day, while enunciating now, as ever, the fundamental axiom, that for every event there must be a *Cause*, Philosophy has never been able to determine what Causation is; to analyze the elements which the causal nexus involves; or to show by what law she is justified in assuming the universal postulate upon which all her reasonings depend. The Principle of Causality has ever been, and probably ever will be, the battle-ground on which, from generation to generation, Philosophy has struggled for her very existence in the death-gripe of Scepticism; and at every pause in the contest, the answer has been still the same: 'We *cannot* explain it, but we *must* believe it.' Causation is not the mere invariable association of antecedent and consequent: we feel that it implies something more than this. Yet, beyond the little sphere of our own volitions, what more can we discover? and within that sphere, what do we discover that we can explain? The unknown something, call it by what name you will, power, effort, tendency,—still remains absolutely concealed, yet is still conceived as absolutely indispensable. Of Causality, as of Deity, we may almost say, in the emphatic language of Augustine, 'Cujus nulla scientia est in anima, nisi scire quomodo eum nesciat.'"—(*Bampton Lectures*, 2nd ed., pp. 172, 178.)
+> "The Principle of Causality, the father, as it has been called, of metaphysical science, is to the philosopher what the belief in the existence of God is to the theologian. Both are principles inherent in our nature, exhibiting, whatever may be their origin, those characteristics of universality and certainty which mark them as part of the inalienable inheritance of the human mind. Neither can be reduced to a mere logical inference from the facts of a limited and contingent experience. Both are equally indispensable to their respective sciences: without Causation, there can be no Philosophy; as without God there can be no Theology. Yet to this day, while enunciating now, as ever, the fundamental axiom, that for every event there must be a *Cause*, Philosophy has never been able to determine what Causation is; to analyze the elements which the causal nexus involves; or to show by what law she is justified in assuming the universal postulate upon which all her reasonings depend. The Principle of Causality has ever been, and probably ever will be, the battle-ground on which, from generation to generation, Philosophy has struggled for her very existence in the death-gripe of Scepticism; and at every pause in the contest, the answer has been still the same: 'We *cannot* explain it, but we *must* believe it.' Causation is not the mere invariable association of antecedent and consequent: we feel that it implies something more than this. Yet, beyond the little sphere of our own volitions, what more can we discover? and within that sphere, what do we discover that we can explain? The unknown something, call it by what name you will, power, effort, tendency,—still remains absolutely concealed, yet is still conceived as absolutely indispensable. Of Causality, as of Deity, we may almost say, in the emphatic language of Augustine, 'Cujus nulla scientia est in anima, nisi scire quomodo eum nesciat.'"—(*Bampton Lectures*, 2nd ed., pp. 172, 173.)
 
 Thus, you see, these awful subjects are to be treated as questions between the Philosopher on the one side, and the Christian Theologian on the other. Mr. Mansel holds a brief for the latter. If any objection is alleged by the Philosopher against any doctrine of our Creeds, it is to be answered by saying, "There is a similar objection which applies just as strongly against you." Mr. Mansel does not shrink from the most startling statement of his design. "The belief in the existence of God is to the Theologian what the belief in the existence of Causality is to the Philosopher." Each demands the respective belief for his respective science; each—this is the inference—is equally baffled when he pretends to know anything of that which he demands. It is well to understand and remember that the question of the Being of God is thus treated, because we shall be better prepared for that which follows.
 
