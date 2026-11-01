@@ -14,6 +14,7 @@
   --gilt: #dcbc72;
   --mark: #f3dc93;
   --shadow: 0 1px 2px rgb(60 40 20 / .08), 0 10px 30px -8px rgb(60 40 20 / .18);
+  --chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237c6e5f' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");   /* the arrow of a drop-down menu */
 
   --serif: "EB Garamond", "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
   --display: "Cormorant Garamond", "EB Garamond", "Palatino Linotype", Palatino, Georgia, serif;
@@ -30,6 +31,7 @@
     --rule: #3b332a; --accent: #e3907c; --accent-ink: #1a120d;
     --gilt: #d9b96a; --mark: #6a5320;
     --shadow: 0 1px 2px rgb(0 0 0 / .3), 0 12px 30px -8px rgb(0 0 0 / .6);
+    --chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23978a77' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
     color-scheme: dark;
   }
 }
@@ -39,6 +41,7 @@
   --rule: #3b332a; --accent: #e3907c; --accent-ink: #1a120d;
   --gilt: #d9b96a; --mark: #6a5320;
   --shadow: 0 1px 2px rgb(0 0 0 / .3), 0 12px 30px -8px rgb(0 0 0 / .6);
+  --chevron: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23978a77' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
   color-scheme: dark;
 }
 
@@ -278,6 +281,9 @@ button { font: inherit; color: inherit; }
 .shelf-head { display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap; border-bottom: 1px solid var(--rule); padding-bottom: .6rem; margin-bottom: 1.8rem; }
 .shelf-head h3 { font-size: 1.9rem; font-weight: 500; }
 .shelf-blurb { margin: 0; color: var(--ink-3); font-style: italic; font-size: 1.05rem; }
+.shelf-link { margin-left: auto; color: var(--ink-2); text-decoration: none; font-variant-caps: all-small-caps; letter-spacing: .08em; font-size: 1.05rem; white-space: nowrap; }
+.shelf-link .i { display: inline-block; width: .9em; height: .9em; vertical-align: -.08em; }
+.shelf-link:hover { color: var(--accent); }
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(10.5rem, 1fr)); gap: 2.5rem 1.6rem; }
 .card { display: flex; flex-direction: column; color: inherit; text-decoration: none; }
 .card .cover { transition: transform .25s ease, box-shadow .25s ease; }
@@ -520,8 +526,18 @@ button { font: inherit; color: inherit; }
 .q-method[open] summary { margin-bottom: .6rem; }
 .q-toc a:not([hidden]) ~ a:not([hidden])::before { content: "·"; margin-right: .5em; color: var(--ink-3); }
 .quote-filter { margin: 1.4rem 0 0; align-items: center; }
-.quote-all { color: var(--ink-2); font-size: 1rem; white-space: nowrap; }
-.quote-all input { accent-color: var(--accent); margin-right: .25rem; }
+.quote-all { display: inline-flex; align-items: center; gap: .5rem; padding: .6rem 1.1rem; cursor: pointer; white-space: nowrap;
+  color: var(--ink-2); font-size: 1.05rem; background: var(--paper-2); border: 1px solid var(--rule); border-radius: 999px;
+  transition: border-color .15s, color .15s; }
+.quote-all:hover { border-color: color-mix(in srgb, var(--accent) 40%, var(--rule)); color: var(--ink); }
+.quote-all:has(input:checked) { border-color: var(--accent); color: var(--ink); }
+.quote-all input { appearance: none; display: grid; place-content: center; width: 1.05rem; height: 1.05rem; margin: 0;
+  border: 1.5px solid var(--ink-3); border-radius: 4px; transition: background .15s, border-color .15s; }
+.quote-all input::before { content: ""; width: .6rem; height: .6rem; background: var(--accent-ink); transform: scale(0); transition: transform .12s;
+  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%); }
+.quote-all input:checked { background: var(--accent); border-color: var(--accent); }
+.quote-all input:checked::before { transform: scale(1); }
+.quote-all input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .quote-filter + .results-summary { margin-top: 1.2rem; }
 .vref { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer;
   text-decoration: underline dotted; text-underline-offset: .2em; font-variant-numeric: oldstyle-nums; text-align: left; }
@@ -530,6 +546,7 @@ button { font: inherit; color: inherit; }
 .verse p { margin: 0; }
 .verse .vn { font-style: normal; font-size: .72em; vertical-align: .35em; color: var(--ink-3); }
 .verse[hidden] { display: none; }
+.verse-ver { font-style: normal; font-variant-caps: all-small-caps; letter-spacing: .06em; color: var(--ink-3); margin-right: .2rem; }
 @media (max-width: 30rem) { .text-row { grid-template-columns: 1fr; gap: .1rem; } }
 
 /* ---------------------------------------------------------------- contact */
@@ -542,6 +559,7 @@ button { font: inherit; color: inherit; }
   background: var(--paper-2); border: 1px solid var(--rule); border-radius: 8px; padding: .55rem .75rem; width: 100%;
 }
 .contact-form textarea { resize: vertical; line-height: 1.5; }
+.contact-form select { appearance: none; cursor: pointer; background: var(--paper-2) var(--chevron) no-repeat right .8rem center / 1.05rem; padding-right: 2.4rem; }
 .contact-form :is(input, select, textarea):focus { outline: none; border-color: var(--accent); }
 .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
 @media (max-width: 36rem) { .field-row { grid-template-columns: 1fr; } }
@@ -557,10 +575,22 @@ button { font: inherit; color: inherit; }
 
 .search-form { display: flex; gap: .6rem; flex-wrap: wrap; }
 .search-box { flex: 1 1 18rem; display: flex; align-items: center; gap: .5rem; border: 1px solid var(--rule); background: var(--paper-2); border-radius: 999px; padding: 0 1rem; }
-.search-box:focus-within { border-color: var(--accent); }
+.search-box:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 16%, transparent); }
+.search-box input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; width: 1rem; height: 1rem; cursor: pointer;
+  background: var(--ink-3); -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M6 6l12 12M18 6 6 18'/%3E%3C/svg%3E") center / contain no-repeat; mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M6 6l12 12M18 6 6 18'/%3E%3C/svg%3E") center / contain no-repeat; }
+.search-box input::-webkit-search-cancel-button:hover { background: var(--accent); }
 .search-box .i { color: var(--ink-3); }
 .search-box input { flex: 1; min-width: 0; border: 0; background: none; font: inherit; font-size: 1.2rem; padding: .65rem 0; color: var(--ink); outline: none; }
-.search-form select { flex: 0 1 14rem; min-width: 0; font: inherit; font-size: 1rem; color: var(--ink); background: var(--paper-2); border: 1px solid var(--rule); border-radius: 999px; padding: .6rem 1rem; }
+.search-form select {
+  flex: 0 1 15rem; min-width: 0; appearance: none; cursor: pointer;
+  font: inherit; font-size: 1.05rem; color: var(--ink-2); text-overflow: ellipsis;
+  background: var(--paper-2) var(--chevron) no-repeat right .95rem center / 1.05rem;
+  border: 1px solid var(--rule); border-radius: 999px; padding: .6rem 2.6rem .6rem 1.2rem;
+  transition: border-color .15s, box-shadow .15s, color .15s;
+}
+.search-form select:hover { border-color: color-mix(in srgb, var(--accent) 40%, var(--rule)); color: var(--ink); }
+.search-form select:focus-visible { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 16%, transparent); }
+.search-form select option, .search-form select optgroup { background: var(--paper); color: var(--ink); }
 .search-help { color: var(--ink-3); font-size: .98rem; font-style: italic; margin: .8rem 0 2rem; }
 .results-summary { color: var(--ink-3); font-variant-caps: all-small-caps; letter-spacing: .1em; font-size: 1.05rem; border-bottom: 1px solid var(--rule); padding-bottom: .5rem; }
 .result-book { margin-top: 2rem; }

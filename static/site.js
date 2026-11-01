@@ -172,6 +172,22 @@
     if (qMenu.value || qFind.value) showQuotations();
   }
 
+  /* ---- Index of Texts: a text's words from its reference; all of them (#t-all) ---- */
+  var allTexts = document.getElementById("t-all");
+  if (allTexts) {
+    var refs = document.querySelectorAll(".vref");
+    var showText = function (b, open) {
+      document.getElementById(b.getAttribute("aria-controls")).hidden = !open;
+      b.setAttribute("aria-expanded", open);
+    };
+    refs.forEach(function (b) {
+      b.addEventListener("click", function () { showText(b, b.getAttribute("aria-expanded") !== "true"); });
+    });
+    allTexts.addEventListener("change", function () {
+      refs.forEach(function (b) { showText(b, allTexts.checked); });
+    });
+  }
+
   var reader = document.querySelector("main.reader");
   if (!reader) return;
 
