@@ -263,7 +263,7 @@ Second Sunday in Advent
 [December]{.smallcaps} 6, 1857
 :::
 
-> "*That we through patience and comfort of the Scriptures might have hope*."—[Romans]{.smallcaps} XV. 4.
+> "*That we through patience and comfort of the Scriptures might have hope*."—[Romans]{.smallcaps} xv. 4.
 
 [Many]{.smallcaps} persons are asking, "How can we recommend the Bible to Hindoos and Mussulmans? How can we show that it has an authority which does not belong to the Vedas or any later books which Brahmins account sacred; to the Koran, which the Prophet is said to have received by express dictation? With what apologies shall we go forth to convince the learned? How shall we bring those who are ignorant to feel that a book so strange, so utterly unlike any to which they have been accustomed, has any claim upon their attention?"
 
@@ -317,7 +317,7 @@ Third Sunday in Advent
 [December]{.smallcaps} 13, 1857
 :::
 
-"*Now when John had heard in the prison the works of Christ, he sent two of his disciples, and said unto Him, Art thou He that should come, or do we look for another*?"—[Matthew]{.smallcaps} xi. 2, 3.
+> "*Now when John had heard in the prison the works of Christ, he sent two of his disciples, and said unto Him, Art thou He that should come, or do we look for another*?"—[Matthew]{.smallcaps} xi. 2, 3.
 
 [The]{.smallcaps} Gospel for this day was chosen, I have no doubt, chiefly for the sake of our Lord's discourse respecting John. The ministers of the New Covenant are to learn from it the nature of their vocation,—that they are Prophets of the Advent of a King, that they are Messengers to prepare His way, that, however insignificant in themselves, their work is greater than that of the greatest who preceded the Incarnation.
 
@@ -407,7 +407,7 @@ St. John's Day
 [December]{.smallcaps} 27, 1857
 :::
 
-> "*And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven. But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth*." —[Matthew]{.smallcaps} viii. 11, 12.
+> "*And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven. But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth*."—[Matthew]{.smallcaps} viii. 11, 12.
 
 [This]{.smallcaps} is St. John's Day. The two chapters which we have read from the Apocalypse are beautiful commemorations of it. The first tells us how the Apostle himself wished his contemporaries to think of him. He had borne witness to the Word of God and to the testimony of Jesus Christ. He was their brother and companion in tribulation, and in the Kingdom and patience of Jesus Christ. The second tells us what that Kingdom is in which he lived, and for which he waited.
 
@@ -549,7 +549,7 @@ Sunday after the Epiphany
 [January]{.smallcaps} 10, 1858
 :::
 
-> "*A light to lighten the Gentiles, and the glory of Thy people Israel*." —[Luke]{.smallcaps} ii. 32.
+> "*A light to lighten the Gentiles, and the glory of Thy people Israel*."—[Luke]{.smallcaps} ii. 32.
 
 [Two]{.smallcaps} subjects which appear incongruous were brought before us on the day of Epiphany. The Gospel spoke of the Magians, who were led by a star to the cradle of Christ. The Epistle spoke of St. Paul's preaching to the Ephesians. What connection is there between these thoughts? What has a star in the heavens to do with the sermons of a tent-maker?
 
@@ -587,7 +587,7 @@ Second Sunday after the Epiphany
 [January]{.smallcaps} 17, 1858
 :::
 
-> "*My soul is athirst for God, yea, even for the living God: when shall I come to appear before the presence of God*?"—[Psalm]{.smallcaps} xlii, 2 (*Prayer-book Version*).
+> "*My soul is athirst for God, yea, even for the living God: when shall I come to appear before the presence of God*?"—[Psalm]{.smallcaps} xlii. 2 (*Prayer-book Version*).
 
 [It]{.smallcaps} has been often said that the Psalms are out of place in our common daily service. All are invited to take part in that service. Numbers come to Church, at least on Sundays, whose minds cannot be especially devout. Yet language is provided for their use which expressed the most fervent longings of the most devout men. Such language may meet, now and then, the aspirations of the private suppliant. Even he must often find the Psalms far above the measure of his thoughts, so high that he cannot attain to them. How, then, can we offer them month after month to an ordinary English congregation, as if they could possibly speak what it was feeling?
 
@@ -670,7 +670,7 @@ Septuagesima Sunday
 [January]{.smallcaps} 31, 1858
 :::
 
-> "*But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light. Wherefore he saith, Awake, thou that sleepest, and arise from the dead, and Christ shall give thee light*."—[Ephesians]{.smallcaps} V. 13, 14.
+> "*But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light. Wherefore he saith, Awake, thou that sleepest, and arise from the dead, and Christ shall give thee light*."—[Ephesians]{.smallcaps} v. 13, 14.
 
 [In]{.smallcaps} the Gospels for the Sundays between the Epiphany and this Septuagesima, the Church sets forth before us different acts of our Lord by which He manifested His glory to the minds of His own countrymen.
 
@@ -904,7 +904,7 @@ Fourth Sunday in Lent
 [March]{.smallcaps} 14, 1858
 :::
 
-> "*Bear ye one another's burdens, and so fulfil the law of Christ*."—[Galatians]{.smallcaps} vi. 2
+> "*Bear ye one another's burdens, and so fulfil the law of Christ*."—[Galatians]{.smallcaps} vi. 2.
 
 [The]{.smallcaps} phrase, "It is a law of our nature that we should do such or such a thing," is one which a certain class of writers are never weary of repeating. Often they mean almost nothing by it; they resort to it as a convenient method of disguising their ignorance, or of giving solemnity to an empty truism, or of persuading themselves that they have discovered a principle, when they are only generalizing from some narrow and imperfect experience. Sometimes a fact is announced which is of real worth; a tendency not merely of individuals in particular circumstances and positions, but of human beings everywhere; and yet the expression which is used to denote it is a misleading one. The fact may deserve the greatest possible attention; an acquaintance with the tendency may be a great and essential element of our self-knowledge; but it may not deserve to be called a Law; there may be some controlling or counteracting principle which claims that title by a much older creation.
 
@@ -986,7 +986,7 @@ Sunday before Easter
 [March]{.smallcaps} 28, 1858
 :::
 
-> "*For even Christ our passover is sacrificed for us: therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth*."—I [Corinthians]{.smallcaps} v. 7, 8.
+> "*For even Christ our passover is sacrificed for us: therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth*."—1 [Corinthians]{.smallcaps} v. 7, 8.
 
 [This]{.smallcaps} is one of the texts for Easter Day. It may seem scarcely fit for the beginning of Passion Week. But Passion Week is the preparation for Easter. If we would utter these words aright on the Festival of Christ's Resurrection, we must have thought on them and learnt to understand them in that time which speaks of His Agony and His Cross. The more simply we take the words, the better; the depth and wonder is not in our way of interpreting them, not even in themselves, but in the fact and in the Person they speak of.
 
@@ -1028,7 +1028,7 @@ First Sunday after Easter
 [April]{.smallcaps} 11, 1858
 :::
 
-> "*Thanks be to God, which giveth us the victory through our Lord Jesus Christ*,"—1 [Corinthians]{.smallcaps} xv. 57.
+> "*Thanks be to God, which giveth us the victory through our Lord Jesus Christ*."—1 [Corinthians]{.smallcaps} xv. 57.
 
 [St. Paul]{.smallcaps} speaks in this chapter as if the resurrection of Christ were *the* victory over the grave. Was it impossible, then, for men, before the resurrection of Christ, to look beyond the grave? Were all the hopes of immortality which sages in the old world cherished, fallacious? Christian apologists have often said, that for men generally the hope did not exist at all; that the Jew was kept from it by Divine purpose; that the few Gentiles who entertained it, appealed to evidence which they must have felt themselves which, at all events, we know to be,—unsatisfactory. Nothing, they urge, but the reappearance of one who had been laid in the tomb could be an assurance to human beings that it was not to close for ever upon them.
 

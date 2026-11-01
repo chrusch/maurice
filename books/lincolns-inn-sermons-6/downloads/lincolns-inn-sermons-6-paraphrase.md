@@ -144,7 +144,7 @@ Fourth Sunday after Easter
 [May]{.smallcaps} 22, 1859
 :::
 
-> "*For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, in the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, to deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus*."—1 [Corinthians]{.smallcaps} v. 3–5.
+> "*For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, in the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, to deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus*."—1 [Corinthians]{.smallcaps} v. 3-5.
 
 *The passage:* Paul says that though he is absent in body he is present in spirit, and has already judged the man who did this deed as if he were present. When the Corinthians are gathered together, and his spirit with them in the power of the Lord Jesus, they are in the name of Jesus to hand such a man over to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord Jesus.
 
@@ -220,7 +220,7 @@ Sunday after Ascension
 [June]{.smallcaps} 5, 1859
 :::
 
-> "*Of Whom the whole family in heaven and earth is named*." —[Ephesians]{.smallcaps} iii. 15.
+> "*Of Whom the whole family in heaven and earth is named*."—[Ephesians]{.smallcaps} iii. 15.
 
 *The passage:* The whole family in heaven and on earth takes its name from Him.
 
@@ -308,7 +308,7 @@ Trinity Sunday
 [June]{.smallcaps} 19, 1859
 :::
 
-> "*One Lord, one faith, one baptism, one God and Father of all, Who is above all, and through all, and in you all*." —[Ephesians]{.smallcaps} iv. 5, 6.
+> "*One Lord, one faith, one baptism, one God and Father of all, Who is above all, and through all, and in you all*."—[Ephesians]{.smallcaps} iv. 5, 6.
 
 *The passage:* There is one Lord, one faith, one baptism, one God and Father of all, who is above all, and through all, and in you all.
 
@@ -419,7 +419,7 @@ Second Sunday after Trinity
 [July]{.smallcaps} 3, 1859
 :::
 
-> "*Thou shalt not be affrighted at them: for the Lord thy God is among you, a mighty God and terrible*." —[Deuteronomy]{.smallcaps} vii. 21.
+> "*Thou shalt not be affrighted at them: for the Lord thy God is among you, a mighty God and terrible*."—[Deuteronomy]{.smallcaps} vii. 21.
 
 *The passage:* You are not to be afraid of them, for the Lord your God is among you, a mighty and terrible God.
 
@@ -627,7 +627,7 @@ Eighteenth Sunday after Trinity
 [October]{.smallcaps} 23, 1859
 :::
 
-> "*I have hated them that hold of superstitious vanities: and my trust hath been in the Lord*." —[Psalm]{.smallcaps} xxxi. 7 (*Prayer-book version*).
+> "*I have hated them that hold of superstitious vanities: and my trust hath been in the Lord*."—[Psalm]{.smallcaps} xxxi. 7 (*Prayer-book version*).
 
 *The passage:* "I have hated those who hold to superstitious vanities, and my trust has been in the Lord." (Psalm xxxi. 7, Prayer-book version)
 

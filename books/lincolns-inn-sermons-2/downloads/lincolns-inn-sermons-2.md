@@ -402,7 +402,7 @@ This, then, is the ground upon which I speak of national repentance. It is not a
 [May]{.smallcaps} 17, 1857
 :::
 
-> "*Lord, who shall dwell in Thy tabernacle: or who shall rest upon Thy holy hill? Even he that leadeth an uncorrupt life: and doeth the thing which is right, and speaketh the truth from his heart. He that hath used no deceit in his tongue, nor done evil to his neighbour; and hath not slandered his neighbour. He that setteth not by himself, but is lowly in his own eyes: and maketh much of them that fear the Lord. He that sweareth unto his neighbour, and disappointeth him not: though it were to his own hindrance. He that hath not given his money upon usury: nor taken reward against the innocent. Whoso doeth these things shall never fall*,"—[Psalm]{.smallcaps} xv. (*Prayer-book Version*).
+> "*Lord, who shall dwell in Thy tabernacle: or who shall rest upon Thy holy hill? Even he that leadeth an uncorrupt life: and doeth the thing which is right, and speaketh the truth from his heart. He that hath used no deceit in his tongue, nor done evil to his neighbour; and hath not slandered his neighbour. He that setteth not by himself, but is lowly in his own eyes: and maketh much of them that fear the Lord. He that sweareth unto his neighbour, and disappointeth him not: though it were to his own hindrance. He that hath not given his money upon usury: nor taken reward against the innocent. Whoso doeth these things shall never fall*."—[Psalm]{.smallcaps} xv. (*Prayer-book Version*).
 
 [The]{.smallcaps} Tabernacle which went with the Israelites through the wilderness was the witness that the Lord Himself was in the midst of them. They were told that He would dwell in it. When it was brought, amidst the shoutings of the King and people and with the sound of a trumpet, to Mount Zion, it did not acquire any new sacredness, but it imparted a sacredness to the place on which it rested. God was felt to be there: the city stood because He was present in it.
 
@@ -442,7 +442,7 @@ But on the other hand, I would maintain that a holy Catholic Church, in its true
 [May]{.smallcaps} 24, 1857
 :::
 
-> "*And what is the exceeding greatness of His power to us-ward who believe, according to the working of His mighty power, which He wrought in Christ, when He raised Him from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come: and hath put all things under His feet, and gave Him to be the head over all things to the church, which is His body, the fulness of Him that filleth all in all*,"— [Ephesians]{.smallcaps} i. 19-23.
+> "*And what is the exceeding greatness of His power to us-ward who believe, according to the working of His mighty power, which He wrought in Christ, when He raised Him from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come: and hath put all things under His feet, and gave Him to be the head over all things to the church, which is His body, the fulness of Him that filleth all in all*."—[Ephesians]{.smallcaps} i. 19-23.
 
 [The]{.smallcaps} Epistles to the Romans and to the Galatians may be called the Epistles concerning the Resurrection. They declare how God, by raising up Jesus from the dead, justified us from all things from which we could not be justified by the works of the law. To these Epistles the Reformers in the sixteenth century turned for instruction and consolation. They found in them the very message which they were wanting to hear. It was a message to the burdened conscience; it told each man who had committed sin and become the servant of sin, where he might find his Deliverer and True Master.
 
@@ -599,7 +599,7 @@ showing Romanists that we rest on the ground which the Creeds proclaim, showing 
 [June]{.smallcaps} 21, 1857
 :::
 
-> "*Endeavouring to keep the unity of the Spirit in the bond of peace*." —[Ephesians]{.smallcaps} iv. 3.
+> "*Endeavouring to keep the unity of the Spirit in the bond of peace*."—[Ephesians]{.smallcaps} iv. 3.
 
 [Some]{.smallcaps} recent editors of the New Testament have followed some of the early Fathers in adopting a different punctuation of this passage from that which we find in our version. They would read, "I therefore the prisoner of the Lord beseech you that ye walk worthy of the vocation wherewith ye are called, forbearing one another, in (or with) love endeavouring to keep the unity of the Spirit; in the bond of peace one body and one Spirit." There is an awkwardness in this construction which requires strong reasons to justify it. I know of none, except it be that the expressions "unity of the Spirit" and "bond of peace" are thought to be tautological, or that it is difficult to understand how the Unity of the Spirit can be *in* the bond of peace. Each of these objections may perhaps disappear when we consider the passage more attentively.
 
@@ -639,7 +639,7 @@ Therefore no one shall persuade us, for the sake of Unity, to part with this Nam
 [June]{.smallcaps} 28, 1857
 :::
 
-> "*Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble*."—[1 Peter]{.smallcaps} v. 5.
+> "*Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble*."—1 [Peter]{.smallcaps} v. 5.
 
 [There]{.smallcaps} is a general complaint in our day—in some quarters one hears it very loudly indeed—that reverence has become, or is rapidly becoming, extinct. The words of Isaiah, it is said, are fulfilling themselves: "The child behaves himself proudly against the ancient, the base against the honourable." The sentiment of respect is gone; each one stands upon his own powers and his own right.
 
@@ -719,7 +719,7 @@ So the plain words are the most comprehensive as well as the most personal. We h
 [July]{.smallcaps} 12, 1857
 :::
 
-> "*For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world*,"—1 [Corinthians]{.smallcaps} xi. 31, 32.
+> "*For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world*."—1 [Corinthians]{.smallcaps} xi. 31, 32.
 
 [It]{.smallcaps} is, I fear, a very common feeling, among laymen as well as clergymen, that ordinary words, when they are applied to theological subjects, lose their original signification, and become parts of a merely technical nomenclature. The words "judge" and "judgment" have a meaning in common cases which men at once recognize, if they are not able strictly to define it. They have no doubt that a *judgment* is an act of discrimination; an attempt to separate the tenable from the untenable, the right from the wrong. When they speak of judgment as a *faculty*, their language, be it ever so loose, shows you that they wish to describe a power which ascertains boundaries, which draws the line between acts or thoughts or words that without it would be confounded. But when we refer to any events or series of events as *Divine* judgments, it seems that we are not carrying this sense into a higher, clearer region, but that we are almost entirely losing it. By a judgment, in *that* application, we appear to intend little more than a *disaster* which, because we do not know to what other origin we should attribute it, we refer to the Father of all. A fortune, a child, a deliverance from expected ruin or death, we call a *mercy*; a famine, a pestilence, an earthquake, we call a *judgment*. We cannot account for the former class of events, except by supposing that the Ruler of the World has a gracious design towards us; we cannot account for the latter, except by supposing that we have in some way grieved Him. In each case we feel as if there was some departure from the ordinary rule of His government, some *interference* for us or against us. And we ask ourselves, Why has it happened? What act of ours can we fix upon which we may most naturally connect with it?
 
@@ -931,7 +931,7 @@ But when we do heartily and inwardly accept this faith; when it warms our hearts
 [October]{.smallcaps} 25, 1857
 :::
 
-> "*Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it*." —[Matt.]{.smallcaps} vii. 13, 14.
+> "*Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it*."—[Matt.]{.smallcaps} vii. 13, 14.
 
 [Are]{.smallcaps} not these words conclusive against the doctrine which I have said lately that we should preach to Christians, to Hindoos, to Mussulmans, to all people whatsoever? A Gospel that God is the Father of all in Jesus Christ, Who is the head of every man; a Gospel that all gifts with which men are endowed are gifts of the Holy Spirit, and are signs of His presence,—must not such a Gospel open that wide gate which we are told here leadeth to destruction? Must it not hinder those who preach it and those who hear it from seeking to enter through the strait gate, to walk in the narrow way which leadeth to life? How can we proclaim that as a blessing to all which we are told is found only by a few?
 
@@ -1092,7 +1092,7 @@ I will not anticipate what I shall have to say, if God permit, next Sunday, resp
 [November]{.smallcaps} 15, 1857
 :::
 
-> "*It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement: but I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery*." —[Matthew]{.smallcaps} v. 31, 32.
+> "*It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement: but I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery*."—[Matthew]{.smallcaps} v. 31, 32.
 
 [Last]{.smallcaps} week I examined a statement, made on very high authority, that the Sermon on the Mount contains a number of rhetorical passages, which cannot in their strict sense be applied to the regulation of our lives. I disputed this assertion altogether. I maintained that the very persons who were supposed to have erred through over-much rigour in construing our Lord's words, had really erred from explaining them too loosely, from overlooking hints which He had Himself given us to guide us in the understanding of them. I maintained that the application of them to our daily duties had been weakened by this laxity, that they would bear with far greater force upon our conduct if they were not controlled and reduced by the notions of their expounders. Having spoken on those general words, which contain, I think, the principle of the whole discourse, "*Be ye perfect, as your Father in Heaven is perfect*," I proposed to consider two special inferences from our Lord's doctrines, which have been supposed to be particularly direct and obvious, and to make them impracticable:—First, the inference which has been drawn from His teaching respecting divorce, by ecclesiastics; secondly, the inference which has been drawn from His teaching respecting forgiveness, by Quakers. I begin with the former.
 

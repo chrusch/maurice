@@ -10,7 +10,7 @@ Poet Laureate.
 
 My Dear Sir,
 
-I have maintained in these Essays that a Theology which does not correspond to the deepest thoughts and feelings of human beings cannot be a true Theology. Your writings have taught me to enter into many of those thoughts and feelings. Will you forgive me the presumption of offering you a book which at least acknowledges them and does them homage?
+[I have]{.smallcaps} maintained in these Essays that a Theology which does not correspond to the deepest thoughts and feelings of human beings cannot be a true Theology. Your writings have taught me to enter into many of those thoughts and feelings. Will you forgive me the presumption of offering you a book which at least acknowledges them and does them homage?
 
 As the hopes which I have expressed in this volume are more likely to be fulfilled to our children than to ourselves, I might perhaps ask you to accept it as a present to one of your name, in whom you have given me a very sacred interest. Many years, I trust, will elapse before he knows that there are any controversies in the world into which he has entered. Would to God that in a few more he may find that they have ceased! At all events, if he should ever look into these Essays, they may tell him what meaning some of the former generation attached to words which will be familiar and dear to his generation, and to those that follow his,—how there were some who longed that the bells of our churches might indeed
 

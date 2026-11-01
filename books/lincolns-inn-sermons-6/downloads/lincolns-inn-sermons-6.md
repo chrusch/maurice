@@ -317,7 +317,7 @@ Fourth Sunday after Easter
 [May]{.smallcaps} 22, 1859
 :::
 
-> "*For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, in the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, to deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus*."—1 [Corinthians]{.smallcaps} v. 3–5.
+> "*For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, in the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, to deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus*."—1 [Corinthians]{.smallcaps} v. 3-5.
 
 [Here]{.smallcaps} we have that awful formula which was supposed to justify all the excommunications of the Middle Ages, and which leads English Churchmen sometimes to complain that the power of excommunication has departed from them. Protestants who cleave affectionately to the name of St. Paul, who have been used to look upon him as the witness against the evils of which they complain, do not like to think that he can have given any warrant for that which sometimes appears to them the greatest of these evils. They try to explain away the words, or to limit them to the times of the Apostle. Neither expedient has availed in the least. Our Conscience rebels against trifling with any words, most of all with the words which we profess to receive as oracles. Our Conscience asks whether St. Paul was not laying the foundation of a fellowship that was to last for ever, and whether the principles of it can change from generation to generation.
 
@@ -391,7 +391,7 @@ Sunday after Ascension
 [June]{.smallcaps} 5, 1859
 :::
 
-> "*Of Whom the whole family in heaven and earth is named*." —[Ephesians]{.smallcaps} iii. 15.
+> "*Of Whom the whole family in heaven and earth is named*."—[Ephesians]{.smallcaps} iii. 15.
 
 [The]{.smallcaps} Ascension of our Lord is little thought of by many who seem to derive much comfort from dwelling on His death and His resurrection. "These facts," they say, "connect themselves with all that we are suffering ourselves and see our friends suffer. They meet the anguish of our individual consciences; they are suggested to us by the open grave, and the mourners who go about our streets; they come within the region of ordinary experience. The Ascension may be a fit subject for those who dream dreams and see visions to meditate upon. Often we long for a few hours of cloister life; then perhaps our spirits would sometimes find wings and mount up as eagles towards the sun. But we are in the midst of bustle and distraction, of ignominious occupations, of daily duties. We must perforce dwell amongst these. Should not we reconcile ourselves to our lot? Should not we keep our souls low, not exercising ourselves in great matters which are too high for us? Is not this a part of the humility which is enjoined upon us, and which it is difficult enough to preserve, even with all our caution?"
 
@@ -475,7 +475,7 @@ Trinity Sunday
 [June]{.smallcaps} 19, 1859
 :::
 
-> "*One Lord, one faith, one baptism, one God and Father of all, Who is above all, and through all, and in you all*." —[Ephesians]{.smallcaps} iv. 5, 6.
+> "*One Lord, one faith, one baptism, one God and Father of all, Who is above all, and through all, and in you all*."—[Ephesians]{.smallcaps} iv. 5, 6.
 
 [There]{.smallcaps} was a time when Sermons upon Trinity Sunday were expected to be controversial. On other days the preacher might address himself to the topics in which all his hearers were interested—might appeal to their conscience of evil and their desire of good—might arm them for the toils and temptations of the week. Upon this he had the privilege or the duty, whichever he might deem it, of confuting objectors and establishing his own conclusions. He might exhibit much strategical talent in choosing his position and his weapons. He might stand on the defensive, and defy the deniers of our Creeds to prove anything against a mystery which transcended all human powers of thought and reasoning. Or he might maintain that a long tradition must have a worth which a small minority of dissidents cannot shake. Or he might gather together a set of texts from different parts of the Bible, and argue that altogether they created an amount of probability in favour of the doctrine of the Trinity far exceeding the probabilities against it which might be derived from another set of texts. Or he might rely on some one especial text, maintaining that if that held its place in the Canon, the question was settled for all who did not deny the Scriptures to possess divine authority.
 
@@ -582,7 +582,7 @@ Second Sunday after Trinity
 [July]{.smallcaps} 3, 1859
 :::
 
-> "*Thou shalt not be affrighted at them: for the Lord thy God is among you, a mighty God and terrible*." —[Deuteronomy]{.smallcaps} vii. 21.
+> "*Thou shalt not be affrighted at them: for the Lord thy God is among you, a mighty God and terrible*."—[Deuteronomy]{.smallcaps} vii. 21.
 
 [The]{.smallcaps} complaint has been made often, and has been made recently with much force, that the qualities which Christians are especially encouraged to cultivate, are not manliness and courage; that so far as the Christian ideal is set continually and steadfastly before the mind of a nation or of a man, that mind is likely to become submissive, not energetic. There is much apparent evidence in favour of this opinion. The old Saxon strength in our own land certainly dwindled and decayed after it had been for some time subject to a sacerdotal culture: when it was revived by the assaults of unsparing enemies, much of the ancient Paganism reappeared in the habits of the people and in their literature. "How," it has been said, "has that Saxon strength been preserved in our sons? Those of the upper classes are nourished upon heathen books. Homer has at least as much share in their training as the Sermon on the Mount. Rough and even brutal sports were, at least till in a very late time, cherished among our lower people. Are we sure that if a change were effected under more directly Christian influences in either of these cases, we should not feel the effects, supposing resistance to an invader were demanded of us as of other nations?"
 
@@ -774,7 +774,7 @@ Eighteenth Sunday after Trinity
 [October]{.smallcaps} 23, 1859
 :::
 
-> "*I have hated them that hold of superstitious vanities: and my trust hath been in the Lord*." —[Psalm]{.smallcaps} xxxi. 7 (*Prayer-book version*).
+> "*I have hated them that hold of superstitious vanities: and my trust hath been in the Lord*."—[Psalm]{.smallcaps} xxxi. 7 (*Prayer-book version*).
 
 [The]{.smallcaps} doctrine of this text is very unlike one which is frequently heard in this day and from many different quarters. How often we are told, and how apt we are to think, that superstition is an excessive or exaggerated faith; that superstition diminishes with the growth of intelligence, because faith diminishes; that those who would arouse ignorant and vulgar people to faith in God, must appeal more or less directly to their superstition! This opinion presents itself in various aspects. Perhaps most of us can remember some occasions upon which we have accepted it as if it were an axiom, and have drawn practical conclusions from it. If we have been strongly alive to the mischiefs and horrors of superstition, we have been willing to risk the loss of faith that we might get rid of them; when the reaction has come, and we have felt that the world could not go on safely without faith, we have been ready to tolerate a considerable amount of superstition, lest its companion should perish with it.
 

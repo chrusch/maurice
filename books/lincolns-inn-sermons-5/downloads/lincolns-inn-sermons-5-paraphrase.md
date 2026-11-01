@@ -256,7 +256,7 @@ First Sunday after Epiphany
 [January]{.smallcaps} 9, 1859
 :::
 
-> "*And it came to pass, that after three days they found Him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. And all that heard Him were astonished at His understanding and answers*," —[Luke]{.smallcaps} ii. 46, 47
+> "*And it came to pass, that after three days they found Him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. And all that heard Him were astonished at His understanding and answers*."—[Luke]{.smallcaps} ii. 46, 47.
 
 *The passage:* After three days Joseph and Mary found Jesus in the temple, sitting among the teachers, listening to them and asking them questions. All who heard Him were astonished at His understanding and His answers.
 
@@ -450,9 +450,11 @@ Fifth Sunday after Epiphany
 [February]{.smallcaps} 6, 1859
 :::
 
+> "*And the disciples came, and said unto Him, Why speakest Thou unto them in parables? He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given. For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath. Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand. And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive: for this people's heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them. But blessed are your eyes, for they see: and your ears, for they hear. For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them*."—[Matthew]{.smallcaps} xiii. 10-17.
+
 *The passage:* The disciples ask Jesus why he speaks to the crowds in parables. He answers that it is given to them to know the mysteries of the kingdom of heaven but not to the others. Whoever has will be given more, and whoever has not will lose even what he has. So he speaks in parables because the people see without seeing and hear without understanding, and in them Isaiah's prophecy is fulfilled: their hearts have grown gross, their ears are dull, and they have shut their eyes, so that they might not see, hear, understand, be converted and be healed. But the disciples' eyes and ears are blessed, for many prophets and righteous men longed to see and hear what they see and hear, and did not.
 
-Many have answered the question why our Lord spoke in parables. One answer is that the limits of the human mind make it impossible for us to know divine and eternal things, which can reach us only through imperfect likenesses from nature or from human affairs. That reason applies to every human being alike. A second is special to Christ's circumstances: he was teaching ignorant fishermen, and men of that class would be best reached through stories. A third asks whether the parables might be veils deliberately made to hide sacred truths from the profane multitude.
+[Many]{.smallcaps} have answered the question why our Lord spoke in parables. One answer is that the limits of the human mind make it impossible for us to know divine and eternal things, which can reach us only through imperfect likenesses from nature or from human affairs. That reason applies to every human being alike. A second is special to Christ's circumstances: he was teaching ignorant fishermen, and men of that class would be best reached through stories. A third asks whether the parables might be veils deliberately made to hide sacred truths from the profane multitude.
 
 The Disciples were as perplexed as anyone since, and they took the simplest way out. They asked him, "Why speakest thou to them in parables?" He answered at once, in the passage I have read. Let us see how far his answer agrees with any of the answers we have invented.
 
@@ -542,7 +544,7 @@ Septuagesima Sunday
 [February]{.smallcaps} 20, 1859
 :::
 
-> "*And He shall sit as a refiner and purifier of silver: and He shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness*." —[Malachi]{.smallcaps} iii. 3.
+> "*And He shall sit as a refiner and purifier of silver: and He shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness*."—[Malachi]{.smallcaps} iii. 3.
 
 *The passage:* The Lord will sit as a refiner and purifier of silver. He will purify the sons of Levi and purge them like gold and silver, so that they may offer the Lord an offering in righteousness.
 
