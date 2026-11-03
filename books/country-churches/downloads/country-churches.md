@@ -92,7 +92,9 @@ Sermon XLI. Repentance and Conversion
 
 ## Sermon I. The Pool of Bethesda
 
+::: {.center}
 Preached at Clyro, 8th Sunday after Trinity, July 17, 1853.
+:::
 
 > "Jesus saith unto him, Rise, take up thy bed, and walk."—St. John v. 8.
 
@@ -116,7 +118,9 @@ And this is part of the lesson which we ought to remember. It was the Sabbath-da
 
 ## Sermon II. The Gift of Hearing
 
+::: {.center}
 Preached at Clyro, 12th Sunday after Trinity, August 14, 1853.
+:::
 
 > "And they were beyond measure astonished, saying, He hath done all things well: He maketh both the deaf to hear, and the dumb to speak."—St. Mark vii. 37.
 
@@ -152,7 +156,9 @@ Dear brethren, Christ is the master of them; He is called the Word in Holy Scrip
 
 ## Sermon III. The Spirit of Love
 
+::: {.center}
 Preached at Clyro, 13th Sunday after Trinity, August 21, 1853.
+:::
 
 > "Which now of these three, thinkest thou, was neighbour to him that fell among the thieves? And he said, He that shewed mercy upon him. Then said Jesus, Go, and do thou likewise."—St. Luke x. 36, 37.
 
@@ -190,7 +196,9 @@ This was what the disciples thought long afterwards; but they did not think thes
 
 ## Sermon IV. Waiting for Christ
 
+::: {.center}
 Preached at Clyro, 18th Sunday after Trinity, September 25, 1853.
+:::
 
 > "Waiting for the coming of our Lord Jesus Christ, who shall also confirm you unto the end, that you may be blameless in the day of our Lord Jesus Christ."—1 Corinthians i. 7, 8.
 
@@ -228,7 +236,9 @@ But let us despair no longer. For the will of our Father in heaven is to do us g
 
 ## Sermon V. St. Peter's Conversion
 
+::: {.center}
 Preached at Clyro, 1853.
+:::
 
 > "The God of our Fathers raised up Jesus whom ye slew and hanged upon a tree; Him hath God exalted with His right hand to be a Prince and a Saviour, for to give repentance to Israel and forgiveness of sins."—Acts v. 30, 31.
 
@@ -264,7 +274,9 @@ And that is the good news which St. Peter preached, and which we are to preach t
 
 ## Sermon VI. The Sick of the Palsy
 
+::: {.center}
 Preached at Welsh Hampton, 19th Sunday after Trinity, September 28, 1856.
+:::
 
 > "That ye may know that the Son of Man hath power upon earth to forgive sins: then saith He to the sick of the palsy, Arise, take up thy bed, and go to thine house."—St. Matthew ix. 6.
 
@@ -310,7 +322,9 @@ You will say, perhaps, 'But we have no tokens such as our Lord gave when He was 
 
 ## Sermon VII. The Marriage Feast of the King's Son
 
+::: {.center}
 Preached at Welsh Hampton, 20th Sunday after Trinity, October 5, 1856.
+:::
 
 > "The Kingdom of Heaven is like unto a certain king which made a marriage for his son."—St. Matthew xxii. 2.
 
@@ -346,7 +360,9 @@ You say, 'That is very dreadful.' Surely it is. It is dreadful to distrust God w
 
 ## Sermon VIII. The Redemption of the Body
 
+::: {.center}
 Preached at Welsh Hampton, 23rd Sunday after Trinity, October 26, 1856.
+:::
 
 > "For our conversation is in heaven, from whence also we look for the Saviour Jesus Christ. Who shall change our vile body that it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself."—Philippians iii. 20, 21.
 
@@ -390,7 +406,9 @@ As He raised His body out of the grave, He will raise mine. As he ascended with 
 
 ## Sermon IX. The Spirit the Help to Prayer
 
+::: {.center}
 Preached at Ockham, 9th Sunday after Trinity, August 21, 1859.
+:::
 
 >  "Likewise the Spirit also helpeth our infirmities; for we know not what we should pray for as we ought; but the Spirit itself maketh intercession for us with groanings that cannot be uttered."—Romans viii. 26.
 
@@ -417,7 +435,9 @@ Now, brethren, what is the way out of this perplexity for you, and me, and all o
 
 ## Sermon X. The Law of Inheritance
 
+::: {.center}
 Preached at Ockham, 10th Sunday after Trinity, August 28, 1859.
+:::
 
 > "Honour thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee."—Exodus xx.
 
@@ -445,7 +465,9 @@ My friends! this may be obsolete teaching in the opinion of wise people. The wri
 
 ## Sermon XI. The Deliverer from Crime
 
+::: {.center}
 Preached at Ockham, 11th Sunday after Trinity, September 4, 1859.
+:::
 
 > "Thou shalt not kill. Thou shalt not commit adultery."—Exodus xx. 13, 14.
 
@@ -477,7 +499,9 @@ I beseech you to recollect this, you who are bringing your children to be baptiz
 
 ## Sermon XII. St. John Baptist's Day
 
+::: {.center}
 Preached at Lilleshall, St. John Baptist's Day, June 26, 1860.
+:::
 
 > "In those days came John the Baptist preaching in the Wilderness, and saying, Repent ye for the kingdom of Heaven is at hand."—Matthew iii. 1, 2.
 
@@ -519,7 +543,9 @@ But now my friends, if all this is true, we need to be reminded of it year by ye
 
 ## Sermon XIII. The Transfiguration
 
+::: {.center}
 Preached at Lilleshall, 1860.
+:::
 
 > "And after six days, Jesus taketh Peter, James, and John, his brother, and bringeth them up into an high mountain apart, and was transfigured before them."—Matthew xvii. 1, 2.
 
@@ -559,7 +585,9 @@ But that vision was not granted to the disciples for nothing; and it is not for 
 
 ## Sermon XIV. The Publican
 
+::: {.center}
 Preached at Redmarley, 11th Sunday after Trinity, August 11, 1861.
+:::
 
 > "I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased, and every one that humbleth himself shall be exalted."—St. Luke xviii. 14.
 
@@ -595,7 +623,9 @@ The first words you hear in church are a call to confess your sins. The first ac
 
 ## Sermon XV. The Spirit and the Flesh
 
+::: {.center}
 Preached at Redmarley, Morning of the 14th Sunday after Trinity, September 1, 1861.
+:::
 
 > "I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh."—Galatians v. 16.
 
@@ -619,7 +649,9 @@ Now, brethren, remember that all this is spoken to us. Just as St. Paul and the 
 
 ## Sermon XVI. Man's Dominion
 
+::: {.center}
 Preached at Redmarley, Afternoon of the 14th Sunday after Trinity, September 1, 1861.
+:::
 
 > "Oh, Lord, our Governor, how excellent is Thy Name in all the earth."—Psalm viii.
 
@@ -647,7 +679,9 @@ Take every autumn; it comes round and brings you in the fruits of the tiny seeds
 
 ## Sermon XVII. God and Mammon
 
+::: {.center}
 Preached at Redmarley, Morning of the 15th Sunday after Trinity, September 8, 1861.
+:::
 
 > "No man can serve two Masters, for either he will hate the one and love the other, or else he will hold to the one and despise the other—ye cannot serve God and Mammon."—St. Matthew vi. 24.
 
@@ -677,7 +711,9 @@ And ask Him to deliver you from the worship of the mammon-god; for in very deed 
 
 ## Sermon XVIII. The Glory of the Cross
 
+::: {.center}
 Preached at Redmarley, Afternoon of the 15th Sunday after Trinity, September 8, 1861.
+:::
 
 > "But God forbid that I should glory save in the Cross of Christ Jesus my Lord, by Whom the world is crucified unto me, and I unto the world."—Galatians vi. 14.
 
@@ -697,7 +733,9 @@ And if we do glory in the Cross of Christ, we may be sure that we are doing what
 
 ## Sermon XIX. The Widow of Nain's Son
 
+::: {.center}
 Preached at Redmarley, 16th Sunday after Trinity, September 15, 1861.
+:::
 
 > "And it came to pass the day after, that He went into a city called Nain; and many of His disciples went with him and much people. Now when He came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow; and much people of the city was with her, And when the Lord saw her, He had compassion on her, and said unto her, Weep not. And He came and touched the bier, and they that bare him stood still."—St. Luke vii. 11-14.
 
@@ -717,7 +755,9 @@ And then you may deliver up your children into His hands as to a merciful Saviou
 
 ## Sermon XX. Justification
 
+::: {.center}
 Preached at Charicombe, 1st Sunday after Easter, April 27, 1862.
+:::
 
 > "It is God that justifieth, Who is he that condemneth? It is Christ that died, yea, rather, that is risen again."—Romans viii. 33, 34.
 
@@ -767,7 +807,9 @@ Next remember, that whatever your place in the world, you are called by God, you
 
 ## Sermon XXI. Truth
 
+::: {.center}
 Preached at Brampton Ash, 8th Sunday after Trinity, August 10, 1862.
+:::
 
 > "But lo! Thou requirest truth in the inward parts, and shalt make me to understand wisdom secretly."—Psalm li. 6.
 
@@ -793,7 +835,9 @@ Oh! my friends, in how many thousand circumstances may we turn these words to ou
 
 ## Sermon XXII. Ministers of Christ
 
+::: {.center}
 Preached at Brampton Ash, Morning of St. Bartholomew's Day, August 24, 1862.
+:::
 
 > "And there was also a strife among them which of them should be accounted the greatest."—St. Luke xxii. 24.
 
@@ -829,7 +873,9 @@ And one thing more I must say. The Apostles were to judge the twelve tribes of I
 
 ## Sermon XXIII. The Light of the World
 
+::: {.center}
 Preached at Brampton Ash, Afternoon of the 10th Sunday after Trinity, August 24, 1862.
+:::
 
 > "If we say that we have no sin we deceive ourselves and the truth is not in us. If we confess our sins He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."—1 St. John i. 8, 9.
 
@@ -859,7 +905,9 @@ And what words they are! Let me repeat them to you. "He is faithful and just to 
 
 ## Sermon XXIV. The Lord of the Winds and Sea
 
+::: {.center}
 Preached at Brampton Ash, 12th Sunday after Trinity, September 7, 1862.
+:::
 
 > "But the men marvelled, saying, What manner of man is this that even the winds and the sea obey Him."—St. Matthew viii. 27.
 
@@ -889,7 +937,9 @@ For sometimes that is the only way we can describe it. A man becomes possessed w
 
 ## Sermon XXV. The Man of Sorrows
 
+::: {.center}
 Preached at Brampton Ash, 13th Sunday after Trinity, September 14, 1862.
+:::
 
 > "For even Christ pleased not Himself, but as it is written, The reproaches of them that reproached Thee fell on Me."—Romans xv. 3.
 
@@ -907,7 +957,9 @@ And so the Lord who pleased not Himself entered into His Father's joy—the joy 
 
 ## Sermon XXVI. St. Matthew's Day
 
+::: {.center}
 Preached at Brampton Ash, 14th Sunday after Trinity, September 21, 1862.
+:::
 
 > "And as Jesus passed forth from thence He saw a man named Matthew sitting at the receipt of custom, and He saith unto him, 'Follow Me.'"—St. Matthew ix. 9.
 
@@ -929,7 +981,9 @@ But then comes the second question, how can we follow Christ? What is meant by f
 
 ## Sermon XXVII. Michaelmas Day
 
+::: {.center}
 Preached at Brampton Ash, 15th Sunday after Trinity, September 28, 1862.
+:::
 
 > "Take heed that ye despise not one of these little ones, for I say unto you that in Heaven their Angels do always behold the face of my Father which is in Heaven."—St. Matthew xviii. 10.
 
@@ -951,7 +1005,9 @@ My friends, if St. Michael's Day teaches you to lay these things to heart it wil
 
 ## Sermon XXVIII. God's Visitations
 
+::: {.center}
 Preached at Brampton Ash, Morning of the 16th Sunday after Trinity, October 5, 1862.
+:::
 
 > "And there came a fear on all, and they glorified God, saying, That a great prophet is risen up among us, and that God hath visited His people."—Luke vii. 16.
 
@@ -979,7 +1035,9 @@ We shall think that He visits us in the lessons of our fathers and mothers, in t
 
 ## Sermon XXIX. The Eternal Weight of Glory
 
+::: {.center}
 Preached at Brampton Ash, Afternoon of the 16th Sunday after Trinity, October 5, 1862.
+:::
 
 > "For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory. While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal, but the things which are not seen are eternal."—2 Corinthians iv. 17, 18.
 
@@ -1005,7 +1063,9 @@ Dear friends, that love of God, that glory of God which is for all and for ever�
 
 ## Sermon XXX. The Grace of God
 
+::: {.center}
 Preached at Budock, 1864.
+:::
 
 > "Simon Peter, a servant and an Apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ: Grace and peace be multiplied unto you through the knowledge of God and of Jesus our Lord."—2 St. Peter i. 1, 2.
 
@@ -1037,7 +1097,9 @@ Here, then, my friends, let our faith and hope be. Then it will be a hope not of
 
 ## Sermon XXXI. The New Covenant
 
+::: {.center}
 Preached at Burnham, 10th Sunday after Trinity, August 5, 1866.
+:::
 
 > "For this is the covenant that I will make with the House of Israel after those days, saith the Lord: I will put my laws into their mind and write them in their hearts: and I will be to them a God and they shall be to me a people."—Hebrews viii. 10.
 
@@ -1061,7 +1123,9 @@ And see we are told that one day all shall know Him from the least even to the g
 
 ## Sermon XXXII. The Last Supper
 
+::: {.center}
 Preached at Burnham, Morning of the 11th Sunday after Trinity, August 12, 1866.
+:::
 
 > "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body. And He took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it: for this is my blood of the New Testament, which is shed for many for the remission of sins."—St. Matthew xxvi. 26-28.
 
@@ -1091,7 +1155,9 @@ III\. You see, then, that the Sacrament of the Lord's Supper meant very little t
 
 ## Sermon XXXIII. The Law of Liberty
 
+::: {.center}
 Preached at Burnham, Afternoon of the 11th Sunday after Trinity, August 12, 1866.
+:::
 
 > "So speak ye, and so do, as they that shall be judged by the law of liberty."—St. James ii. 12.
 
@@ -1115,7 +1181,9 @@ So you understand what he means by bidding us do as those who shall be judged by
 
 ## Sermon XXXIV. The Sure and Certain Hope
 
+::: {.center}
 Preached at Burnham, 13th Sunday after Trinity. August 26, 1866.
+:::
 
 > "For He must reign, till He hath put all enemies under His feet. The last enemy that shall be destroyed is Death."—1 Corinthians xv. 25, 26.
 
@@ -1143,7 +1211,9 @@ It is this belief, this sure and certain hope, which the church in its Burial Se
 
 ## Sermon XXXV. The Baptism of Repentance
 
+::: {.center}
 Preached at Burnham, Morning of the 14th Sunday after Trinity, September 2, 1866.
+:::
 
 > "Then went out to him Jerusalem, and all Judea, and all the region round about Jordan, and were baptized of Him in Jordan, confessing their sins."—St. Matthew iii. 5, 6.
 
@@ -1175,7 +1245,9 @@ My friends, when our Lord had described John as a prophet, yes, as greater than 
 
 ## Sermon XXXVI. God's Covenant with the Nations
 
+::: {.center}
 Preached at Burnham, Afternoon of the 14th Sunday after Trinity, September 2, 1866.
+:::
 
 > "And many nations shall pass by this city, and they shall say every man to his neighbour, Wherefore hath the Lord done thus unto this great city? Then they shall answer, Because they have forsaken the Covenant of the Lord their God, and worshipped other gods, and served them."—Jeremiah xxii. 8, 9.
 
@@ -1193,7 +1265,9 @@ That is the covenant which He has made with us in Christ. If we hold fast to tha
 
 ## Sermon XXXVII. Life and Raiment
 
+::: {.center}
 Preached at Burnham, 15th Sunday after Trinity, September 9, 1866,
+:::
 
 > "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body what ye shall put on. Is not the life more than meat and the body than raiment?"—St. Matthew vi. 25.
 
@@ -1219,7 +1293,9 @@ That will explain why He bids you take no thought for your life. If we are fidge
 
 ## Sermon XXXVIII. The House of God
 
+::: {.center}
 Preached at Stoke Bishop.
+:::
 
 > "Make not My Father's house an house of merchandise."—St. John ii. 16.
 
@@ -1279,7 +1355,9 @@ III\. But he speaks also of "not being ashamed before Him at His coming." You kn
 
 ## Sermon XL. Suffering and Glory
 
+::: {.center}
 Preached at Eversley, 4th Sunday after Trinity, July 10, 1870.
+:::
 
 > "I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us."—Romans viii. 18.
 
@@ -1299,7 +1377,9 @@ Now, I said before, and I say again, that these words are quite beyond me, that 
 
 ## Sermon XLI. Repentance and Conversion
 
+::: {.center}
 Preached at Carisbrooke.
+:::
 
 > "Repent ye therefore and be converted that your sins may be blotted out."—Acts iii. 19.
 
