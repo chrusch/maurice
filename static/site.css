@@ -738,6 +738,35 @@ details.listen ol a:hover { color: var(--accent); }
 .text hr { border: 0; text-align: center; margin: 1.6em 0; }
 .text hr::after { content: "⁂"; color: var(--ink-3); }
 .text .smallcaps { letter-spacing: .04em; }
+/* A shoulder note, `[reading]{.margin-note}` in the book's Markdown: the
+   print's gloss in the margin (ancient4). On a narrow screen it is a run-in
+   label at the head of the sentence it glosses: smaller, bold and italic,
+   and closed with an em dash so it stands apart from the sentence (Clayton,
+   2026-11-06). Where the window has room beside the column, the note goes
+   back into the left margin, level with its sentence, set
+   right against the text as the margin-notes PDF sets it: the column moves
+   right to make the room, and a note that would overlap the one above it
+   stands just below it. The gap is in text sizes (--text-size is in rem), so
+   the paragraph links (.pl) keep their place at every size. */
+.text .margin-note { font-weight: 600; font-style: italic; font-size: .85em; color: var(--ink-2); }
+.text .margin-note::after { content: "\2014"; }
+@media (min-width: 64rem) {
+  .reader.has-margin-notes {
+    --note-w: 11rem;
+    --note-gap: calc(var(--text-size) * 2.1);
+    margin-left: max(calc(var(--note-w) + var(--note-gap)), calc((100% - var(--measure) - 2.5rem) / 2));
+    margin-right: auto;
+  }
+  .has-margin-notes .text .margin-note {
+    float: left; clear: left;
+    width: var(--note-w); margin: .45em 0 .3em calc(-1 * (var(--note-w) + var(--note-gap)));
+    font-style: normal;
+    font-size: max(.7em, .85rem); line-height: 1.35; text-align: right; text-indent: 0;
+    hyphens: manual; -webkit-hyphens: manual; font-variant-numeric: oldstyle-nums;
+  }
+  .has-margin-notes .text .margin-note::after { content: none; }
+  .has-margin-notes .text blockquote .margin-note { margin-left: calc(-1 * (var(--note-w) + var(--note-gap)) - var(--text-size) * 1.302); }
+}
 .text .footnote-ref { text-decoration: none; font-size: .7em; vertical-align: super; line-height: 0; padding: 0 .1em; font-weight: 600; }
 .text .footnote-ref sup { font-size: inherit; vertical-align: baseline; }
 .text .footnotes { margin-top: 3em; padding-top: 1em; border-top: 1px solid var(--rule); font-size: .85em; text-align: left; }
