@@ -1070,7 +1070,7 @@ XII\. And the revelation to us will not be a revelation chiefly for us. It will 
 
 ## LECTURE XXIII. PARTING WORDS.
 
-> The grace of our Lord Jesus Christ be with you all. Amen.—[Rev.]{.smallcaps} xxii, 21.
+> The grace of our Lord Jesus Christ be with you all. Amen.—[Rev.]{.smallcaps} xxii., 21.
 
 [This]{.smallcaps} is the last verse of the book upon which I have been speaking to you for some months; the last verse of the Bible. If we think of it, we may find that the very message of the Apocalypse, and of the Bible, is gathered up in it.
 

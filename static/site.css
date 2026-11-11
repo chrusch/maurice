@@ -723,8 +723,9 @@ details.listen ol a:hover { color: var(--accent); }
 @media (min-width: 40rem) { .text { text-align: justify; } }
 .text p { margin: 0; text-indent: 1.4em; position: relative; }
 .text :is(h2, h3, h4, h5, h6, blockquote, .center, ol, ul, hr, div) + p,
-.text > p:first-child, .text blockquote p, .text li p, .text .center p { text-indent: 0; }
-.text :is(h2, h3, h4, h5, h6, blockquote, .center, ol, ul, div) + p { margin-top: .9em; }
+.text :is(h2, h3, h4, h5, h6, blockquote, .center, ol, ul, hr, div) + .gl-refs + p,
+.text > p:first-child, .text > .gl-refs:first-child + p, .text blockquote p, .text li p, .text .center p { text-indent: 0; }
+.text :is(h2, h3, h4, h5, h6, blockquote, .center, ol, ul, div) + :is(p, .gl-refs) { margin-top: .9em; }
 .text h2 { font-size: 1.45em; font-weight: 500; text-align: center; margin: 2.4em 0 1em; text-wrap: balance; }
 .text h3 { font-size: 1.2em; font-weight: 600; text-align: center; margin: 2em 0 .8em; font-variant-caps: small-caps; letter-spacing: .03em; }
 .text h4, .text h5, .text h6 { font-size: 1.05em; font-style: italic; font-weight: 600; text-align: center; margin: 1.8em 0 .7em; }
@@ -809,3 +810,51 @@ details.listen ol a:hover { color: var(--accent); }
   .reader { padding-top: 0; }
   body { background: #fff; color: #000; }
 }
+
+/* ---------------------------------------------------------------- Glossary */
+
+@media (max-width: 56rem) { .nav-glossary { display: none; } }
+.gl-intro { font-size: 1.1rem; color: var(--ink-2); }
+.gl-index, .gl-entries { margin-top: 2.5rem; }
+.gl-index h2, .gl-entries h2 { font-size: 1.6rem; font-weight: 500; text-align: center; margin: 0 0 1rem; }
+.gl-index-body p { margin: 0 0 .7rem; line-height: 1.7; font-size: 1rem; color: var(--ink-3); }
+.gl-index-body p > strong:first-child { font-family: var(--display); font-size: 1.15rem; color: var(--accent); margin-right: .2rem; }
+.gl-index-body a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--rule); }
+.gl-index-body a:hover { color: var(--accent); border-color: currentColor; }
+.gl-list { margin: 0; }
+.gl-item { padding: .9rem 0; border-top: 1px dotted var(--rule); }
+.gl-item dt { font-family: var(--display); font-size: 1.3rem; line-height: 1.25; }
+.gl-item dt a { text-decoration: none; }
+.gl-item dd { margin: .3rem 0 0; line-height: 1.55; color: var(--ink-2); }
+.gl-forms { display: block; font-size: .95rem; color: var(--ink-3); font-style: italic; margin-top: .15rem; }
+.gl-crumb { text-align: center; font-variant-caps: all-small-caps; letter-spacing: .1em; font-size: 1.05rem; margin: 0 0 1rem; }
+.gl-crumb a { color: var(--ink-3); text-decoration: none; }
+.gl-crumb a:hover { color: var(--accent); }
+.gl-head .gl-forms { font-size: 1.15rem; margin-top: .4rem; }
+.gl-freq { font-size: .95rem; color: var(--ink-3); text-align: center; margin-bottom: 1.6rem !important; }
+.gl-entry > p > strong:first-child { font-variant-caps: all-small-caps; letter-spacing: .06em; font-size: 1.1em; }
+.gl-entry ol > li, .gl-entry ul > li { margin: 0 0 .9rem; }
+.gl-back { text-align: center; margin-top: 1.5rem; font-variant-caps: all-small-caps; letter-spacing: .1em; }
+.gl-jump { text-align: center; font-variant-caps: all-small-caps; letter-spacing: .1em; font-size: 1.05rem; color: var(--ink-3); margin: 1.5rem 0 0; }
+.gl-jump a { color: var(--ink-2); text-decoration: none; white-space: nowrap; }
+.gl-jump a:hover { color: var(--accent); }
+
+/* A paragraph the glossary quotes links back to its entry (glossary.mark):
+   a small line above the paragraph, or in the right margin, level with its
+   first line, where the window has room beside the column (the left margin
+   is the paragraph links' and the shoulder notes'). */
+.text .gl-refs {
+  display: block; text-align: left; margin: .5em 0 .1em;
+  font-size: .72em; line-height: 1.45; font-variant-caps: all-small-caps; letter-spacing: .08em;
+  color: var(--ink-3); hyphens: manual; -webkit-hyphens: manual; user-select: none; -webkit-user-select: none;
+}
+.text .gl-refs a { color: var(--ink-2); text-decoration: none; }
+.text .gl-refs a:hover { color: var(--accent); text-decoration: underline; }
+@media (min-width: 72rem) {
+  .text .gl-refs { float: right; clear: right; width: 9rem; margin: .45em -10.75rem 0 0; }
+  .text .gl-refs-label { display: block; }
+  /* after a heading the space above is the paragraph's, and the note keeps level with it */
+  .text :is(h2, h3, h4, h5, h6, blockquote, .center, ol, ul, div) + .gl-refs { margin-top: .45em; }
+  .text :is(h2, h3, h4, h5, h6, blockquote, .center, ol, ul, div) + .gl-refs + p { margin-top: .9em; }
+}
+@media print { .text .gl-refs { display: none; } }
