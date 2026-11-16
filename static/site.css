@@ -733,6 +733,17 @@ details.listen ol a:hover { color: var(--accent); }
 .text blockquote p + p { margin-top: .5em; }
 .text .center { text-align: center; margin: .6em 0; }
 .text .center + .center { margin-top: 0; }
+/* A paragraph the print sets with a hanging indent, `::: {.hanging}` in the
+   book's Markdown (kingdom1_ed3's chapter arguments): the first line at the
+   margin, the rest hung 2.5em under it and set ragged, as the EPUB and the
+   PDFs have it. Padding, not margin, so the paragraph link (.pl) keeps its
+   place in the margin. */
+.text .hanging { margin: .6em 0; }
+.text .hanging p { text-indent: -2.5em; padding-left: 2.5em; text-align: left; }
+@media (max-width: 40rem) { .text .hanging p { text-indent: -1.5em; padding-left: 1.5em; } }   /* the print's proportion on a phone's measure */
+/* A block the print sets flush right, `::: {.right}` (a letter's close). */
+.text .right { text-align: right; margin: .6em 0; }
+.text .right p { text-indent: 0; }
 .text ol, .text ul { margin: .9em 0; padding-left: 1.6em; }
 .text li { margin: .35em 0; }
 .text ol li p, .text ul li p { margin: 0; }

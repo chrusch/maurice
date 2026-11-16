@@ -142,7 +142,7 @@ Fourth Sunday after Trinity.—[July]{.smallcaps} 5, 1857.
 Fifth Sunday after Trinity.—[July]{.smallcaps} 12, 1857.
 :::
 
-- [God’s Judgment and Our Judgment]{.smallcaps} · p. 171
+- [God's Judgment and Our Judgment]{.smallcaps} · p. 171
 
   "For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world."—1 Corinthians xi. 31, 32.
 
@@ -150,7 +150,7 @@ Fifth Sunday after Trinity.—[July]{.smallcaps} 12, 1857.
 Sixth Sunday after Trinity.—[July]{.smallcaps} 19, 1857.
 :::
 
-- [Christ’s Death and Resurrection the Archetypes of ours]{.smallcaps} · p. 185
+- [Christ's Death and Resurrection the Archetypes of ours]{.smallcaps} · p. 185
 
   "For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection."—Romans vi. 5.
 
