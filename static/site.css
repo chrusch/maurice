@@ -499,6 +499,8 @@ button { font: inherit; color: inherit; }
 .ar-item .ar-date { margin-top: .25rem; }
 .ar-date { color: var(--ink-3); font-variant-caps: all-small-caps; letter-spacing: .08em; font-size: 1.05rem; }
 .ar-head .ar-date { margin: .6rem 0 0; }
+.ar-head .ar-version { margin: 1.2rem 0 0; }
+.ar-item .ar-more { display: flex; flex-wrap: wrap; gap: .3rem 1.6rem; }
 .ar-item .ar-more { margin-top: .6rem; }
 .ar-item .ar-more .more { font-size: 1.1rem; }
 .ar-toc { margin: 0 0 2.2rem; padding: 1rem 1.2rem; border: 1px solid var(--rule); border-radius: 4px; }
