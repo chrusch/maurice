@@ -486,6 +486,36 @@ button { font: inherit; color: inherit; }
 .works-list li { display: grid; grid-template-columns: 3.5rem 1fr; gap: .8rem; padding: .35rem 0; border-top: 1px dotted var(--rule); }
 .w-year { color: var(--ink-3); font-variant-numeric: oldstyle-nums tabular-nums; }
 
+/* ---------------------------------------------------------------- articles */
+
+.more-links { display: flex; flex-wrap: wrap; justify-content: center; gap: .4rem 2rem; }
+
+.ar-intro { font-size: 1.15rem; color: var(--ink-2); }
+.ar-list { list-style: none; margin: 2rem 0 0; padding: 0; }
+.ar-item { padding: 1.6rem 0; border-top: 1px dotted var(--rule); }
+.ar-item h2 { font-size: 1.7rem; font-weight: 500; line-height: 1.2; margin: 0; }
+.ar-item h2 a { text-decoration: none; }
+.ar-item p { margin: .5rem 0 0; line-height: 1.55; color: var(--ink-2); font-size: 1.1rem; }
+.ar-item .ar-date { margin-top: .25rem; }
+.ar-date { color: var(--ink-3); font-variant-caps: all-small-caps; letter-spacing: .08em; font-size: 1.05rem; }
+.ar-head .ar-date { margin: .6rem 0 0; }
+.ar-item .ar-more { margin-top: .6rem; }
+.ar-item .ar-more .more { font-size: 1.1rem; }
+.ar-toc { margin: 0 0 2.2rem; padding: 1rem 1.2rem; border: 1px solid var(--rule); border-radius: 4px; }
+.ar-toc ol { margin: 0; padding-left: 1.4rem; line-height: 1.5; }
+.ar-toc li { margin: .2rem 0; }
+.ar-toc ol.ar-toc-own { list-style: none; padding-left: 0; }
+.ar-toc a { color: var(--ink-2); text-decoration: none; }
+.ar-toc a:hover { color: var(--accent); text-decoration: underline; }
+.ar-article h2 { scroll-margin-top: 1rem; }
+.ar-article blockquote p + p { margin-top: .5em; }
+.ar-article blockquote p.ar-source { font-style: normal; font-size: .85em; color: var(--ink-3); margin: .3em 0 0; }
+.ar-article blockquote p.ar-source em { font-style: italic; }
+.ar-article blockquote p.ar-source a { color: inherit; }
+.ar-others { margin-top: 3rem; border-top: 1px solid var(--rule); padding-top: 1.4rem; }
+.ar-others h2 { font-size: 1.3rem; font-weight: 500; margin: 0 0 .5rem; }
+.ar-others ul { margin: 0; padding-left: 1.2rem; font-size: 1.15rem; }
+
 /* ---------------------------------------------------------------- Maurice in Brief */
 
 @media (max-width: 50rem) { .nav-brief { display: none; } }
