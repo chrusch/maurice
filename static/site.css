@@ -848,10 +848,32 @@ details.listen ol a:hover { color: var(--accent); }
 .note-pop p { margin: 0 0 .5em; text-indent: 0; }
 .note-pop p:last-child { margin: 0; }
 
+/* Translations (text.translations): the foreign words as printed, their gloss
+   kept for screen readers and the pop-up; a † for a longer translation. */
+.text .tr, .tr-sample {
+  text-decoration: underline dotted; text-decoration-color: var(--ink-3);
+  text-decoration-thickness: 1px; text-underline-offset: .22em; cursor: help;
+}
+.text .tr:hover, .text .tr:focus-visible { text-decoration-color: var(--accent); outline: none; }
+.text .gloss {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+}
+.text .tr-ref { text-decoration: none; font-size: .75em; vertical-align: super; line-height: 0; padding: 0 .1em; font-weight: 600; }
+.text .translations { margin-top: 1.5em; }
+.text .footnotes + .translations { border-top: 0; padding-top: 0; }
+.text .tr-note { position: relative; padding-left: 1.4em; margin: 0 0 .5em; }
+.text .tr-note p { text-indent: 0; margin: 0; }
+.text .tr-back { position: absolute; left: 0; top: 0; text-decoration: none; }
+.text .translations .tr-note > p:first-child > em:first-child { display: none; }   /* "Translation:", said by the heading */
+.pop-label { font-variant-caps: all-small-caps; letter-spacing: .08em; color: var(--ink-3); margin-right: .2em; }
+
 @media print {
   .reader-bar, .drawer, .scrim, .progress, .pager, .site-header, .site-footer, .pl { display: none !important; }
   .reader { padding-top: 0; }
   body { background: #fff; color: #000; }
+  .text .gloss { position: static; width: auto; height: auto; overflow: visible; clip: auto; clip-path: none; white-space: normal; color: #555; }
+  .text .gloss::before { content: " "; }
 }
 
 /* ---------------------------------------------------------------- Glossary */

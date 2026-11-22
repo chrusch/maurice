@@ -270,11 +270,43 @@
     p.insertBefore(a, p.firstChild);
   });
 
-  /* ---- footnotes as pop-ups ---- */
+  /* ---- footnotes as pop-ups; and the translations (text.translations):
+     a foreign word with a dotted underline shows its gloss, a † its note ---- */
   var pop = null;
   function closeNote() { if (pop) { pop.remove(); pop = null; } }
+  function showPop(anchor, html, extra) {
+    closeNote();
+    pop = document.createElement("div");
+    pop.className = "note-pop" + (extra ? " " + extra : "");
+    pop.setAttribute("role", "note");
+    pop.innerHTML = html;
+    pop.querySelectorAll(".footnote-back, .tr-back").forEach(function (b) { b.remove(); });
+    document.body.appendChild(pop);
+    var r = anchor.getBoundingClientRect();
+    var w = pop.offsetWidth;
+    var left = Math.max(16, Math.min(r.left + scrollX - w / 2, scrollX + doc.clientWidth - w - 16));
+    pop.style.left = left + "px";
+    pop.style.top = (r.bottom + scrollY + 8) + "px";
+  }
+  function esc(t) { var d = document.createElement("div"); d.textContent = t; return d.innerHTML; }
+  document.querySelectorAll(".text .tr[title]").forEach(function (t) {
+    t.removeAttribute("title");               // the pop-up says it instead (the title is for readers without script)
+    t.setAttribute("role", "button");
+  });
+  function openGloss(tr) {
+    var g = tr.querySelector(".gloss");
+    var html = g ? g.innerHTML.trim().replace(/^\[/, "").replace(/\]$/, "") : esc(tr.getAttribute("data-gloss"));
+    showPop(tr, '<p><span class="pop-label">Translation</span> ' + html + "</p>", "gloss-pop");
+  }
   document.addEventListener("click", function (ev) {
-    var ref = ev.target.closest && ev.target.closest("a.footnote-ref");
+    var t = ev.target.closest && ev.target.closest(".text .tr");
+    if (t) {
+      if (pop && pop.classList.contains("gloss-pop") && pop.dataset.for === t.dataset.gloss) { closeNote(); return; }
+      openGloss(t);
+      pop.dataset.for = t.dataset.gloss;
+      return;
+    }
+    var ref = ev.target.closest && ev.target.closest("a.footnote-ref, a.tr-ref");
     if (!ref) {
       if (pop && !pop.contains(ev.target)) closeNote();
       return;
@@ -282,18 +314,15 @@
     var note = document.getElementById(ref.getAttribute("href").slice(1));
     if (!note) return;
     ev.preventDefault();
-    closeNote();
-    pop = document.createElement("div");
-    pop.className = "note-pop";
-    pop.setAttribute("role", "note");
-    pop.innerHTML = note.innerHTML;
-    pop.querySelectorAll(".footnote-back").forEach(function (b) { b.remove(); });
-    document.body.appendChild(pop);
-    var r = ref.getBoundingClientRect();
-    var w = pop.offsetWidth;
-    var left = Math.max(16, Math.min(r.left + scrollX - w / 2, scrollX + doc.clientWidth - w - 16));
-    pop.style.left = left + "px";
-    pop.style.top = (r.bottom + scrollY + 8) + "px";
+    showPop(ref, note.innerHTML);
+  });
+  document.addEventListener("keydown", function (ev) {
+    if (ev.key === "Escape") { closeNote(); return; }
+    var t = document.activeElement;
+    if ((ev.key === "Enter" || ev.key === " ") && t && t.classList && t.classList.contains("tr")) {
+      ev.preventDefault();
+      openGloss(t);
+    }
   });
 
   /* ---- mark the words quoted from the Bible (?quote=…, from the Index of
@@ -305,7 +334,9 @@
     var SPELLING = { neighbor: "neighbour", neighbors: "neighbours", honor: "honour", labor: "labour",
       labored: "laboured", savior: "saviour", favor: "favour", color: "colour", shew: "show", shewed: "showed",
       shewn: "shown", shewing: "showing", sheweth: "showeth", oh: "o" };
-    var walker = document.createTreeWalker(quoted, NodeFilter.SHOW_TEXT), nodes = [];
+    var walker = document.createTreeWalker(quoted, NodeFilter.SHOW_TEXT, {   // not the editor's glosses
+      acceptNode: function (n) { return n.parentNode.closest(".gloss") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT; }
+    }), nodes = [];
     while (walker.nextNode()) nodes.push(walker.currentNode);
     var folded = "", from = [];                 // the paragraph folded, and where each of its letters came from
     nodes.forEach(function (node, n) {
