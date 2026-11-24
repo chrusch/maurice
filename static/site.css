@@ -514,6 +514,15 @@ button { font: inherit; color: inherit; }
 .ar-article blockquote p.ar-source { font-style: normal; font-size: .85em; color: var(--ink-3); margin: .3em 0 0; }
 .ar-article blockquote p.ar-source em { font-style: italic; }
 .ar-article blockquote p.ar-source a { color: inherit; }
+.ar-article .footnote-ref { text-decoration: none; font-size: .7em; vertical-align: super; line-height: 0; padding: 0 .1em; font-weight: 600; }
+.ar-article .footnote-ref sup { font-size: inherit; vertical-align: baseline; }
+.ar-notes { font-size: .85em; line-height: 1.5; }
+.ar-notes .footnotes-title { margin-top: 2.2rem !important; }
+.ar-notes ol { padding-left: 1.6rem; }
+.ar-notes li { margin: .35rem 0; }
+.ar-notes li p { margin: 0; }
+.ar-notes li:target { background: color-mix(in srgb, var(--mark) 28%, transparent); border-radius: 3px; }
+.ar-notes .footnote-back { text-decoration: none; padding-left: .2em; }
 .ar-others { margin-top: 3rem; border-top: 1px solid var(--rule); padding-top: 1.4rem; }
 .ar-others h2 { font-size: 1.3rem; font-weight: 500; margin: 0 0 .5rem; }
 .ar-others ul { margin: 0; padding-left: 1.2rem; font-size: 1.15rem; }
