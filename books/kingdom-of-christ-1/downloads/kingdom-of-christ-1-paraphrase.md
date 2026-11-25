@@ -4,7 +4,7 @@
 
 # The Kingdom of Christ, Volume 1 (Third Edition)
 
-*The passage:* Bishop Taylor, in *Via Intelligentiæ*, asks what is now to be done. Must truth stay in the dark forever, the world stay divided, societies be disturbed, governments weakened, and our spirits corrupted by error, uncertain opinions, and the pedantry of talkative men? Surely there is a cure, and the wise Governor of the world has not failed in so necessary a matter as to lead us into all truth. But that way has not yet been found, though he has told us all the ways of man and his imaginings toward Truth and Peace, and we see that they will not do. Amid the waters of contention and dispute, and the little artifices of divided schools, we can find no rest for the soles of our feet. We have tried every way but one, which is God's way. Having missed all the others, let us try this.
+Bishop Taylor, in *Via Intelligentiæ*, asks what is now to be done. Must truth stay in the dark forever, the world stay divided, societies be disturbed, governments weakened, and our spirits corrupted by error, uncertain opinions, and the pedantry of talkative men? Surely there is a cure, and the wise Governor of the world has not failed in so necessary a matter as to lead us into all truth. But that way has not yet been found, though he has told us all the ways of man and his imaginings toward Truth and Peace, and we see that they will not do. Amid the waters of contention and dispute, and the little artifices of divided schools, we can find no rest for the soles of our feet. We have tried every way but one, which is God's way. Having missed all the others, let us try this.
 
 ## ADVERTISEMENT.
 

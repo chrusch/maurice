@@ -12,9 +12,7 @@ Advent Sunday
 [November]{.smallcaps} 28, 1858
 :::
 
-> "*Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain. Be ye also patient; stablish your hearts for the coming of the Lord draweth nigh*."—[James]{.smallcaps} v. 7, 8.
-
-*The passage:* Be patient, brethren, until the Lord comes. The farmer waits for the precious fruit of the earth and is long patient for it, until it has received the early and the latter rain. Be patient too, and strengthen your hearts, because the Lord's coming is near.
+> Be patient, brethren, until the Lord comes. The farmer waits for the precious fruit of the earth and is long patient for it, until it has received the early and the latter rain. Be patient too, and strengthen your hearts, because the Lord's coming is near. —[James]{.smallcaps} v. 7, 8.
 
 [These]{.smallcaps} words show that St. James, like the other Apostles, expected the coming of the Lord in his own day. I have often tried to show you that their expectation was not false. A greater change did come over the world than they looked for. It may not have been in every particular what they supposed, since they may have been given different degrees of light about how it would work. Their very hope shows confusions in their minds that clearer light must scatter. For it was *light* they desired, light to shine into their hearts and out upon the whole Church. But they were certain of the kind of blessing coming. It would be the same in kind as the older prophets had expected: a day of clearness and revelation, fearful to those who loved darkness and awful even to those who longed to be delivered from it. Every signal judgment on Israel had been described as such a day, and the event matched the description. It did uncover what was hidden. Fearfulness surprised the hypocrites, while trusting hearts found a refuge for the needy in distress, when the blast of the terrible ones was like a storm against a wall. They said, "This is our God, we have waited for Him; He is come, and He will save us."
 
@@ -40,9 +38,7 @@ Second Sunday in Advent
 [December]{.smallcaps} 5, 1858
 :::
 
-> "*And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed*."—[Romans]{.smallcaps} xiii. 11.
-
-*The passage:* Paul says that, knowing the time, it is now high time to wake from sleep, because our salvation is nearer than when we first believed.
+> Paul says that, knowing the time, it is now high time to wake from sleep, because our salvation is nearer than when we first believed. —[Romans]{.smallcaps} xiii. 11.
 
 [You]{.smallcaps} will have seen the announcement that the times for the Holy Communion in this chapel are changing. Until now it has been offered every Sunday. After Christmas Day, it will be celebrated during the regular service either on the second Sunday of each month or on the second Sunday of each Term. For most of the year I also propose to administer it at eight in the morning on the fourth Sunday of the month, and more often at that hour if those who attend the chapel wish it.
 
@@ -84,9 +80,7 @@ Third Sunday in Advent
 [December]{.smallcaps} 12, 1858
 :::
 
-> "*If in this life only we have hope in Christ, we are of all men most miserable*."—1 [Corinthians]{.smallcaps} xv. 19.
-
-*The passage:* If our hope in Christ reaches no further than this life, we are the most miserable of all people.
+> If our hope in Christ reaches no further than this life, we are the most miserable of all people. —1 [Corinthians]{.smallcaps} xv. 19.
 
 [These]{.smallcaps} words have distressed many humble and devout readers. Their hope in Christ has made this life joyful to them. It has made the earth look bright and put a beauty and glory on every human face. Nature and art, the commonest things and the rarest, the past and present as much as the future, have been lit up by it. They do not owe this gladness to outward circumstances or to a cheerful temperament. Many won it through sharp bodily suffering, and not a few received it as a gift although they were naturally inclined to despondency. The word *hope* does imply looking forward. But they do not find that their expectation points chiefly to leaving the earth, and least of all do they find that the mere thought of a change of position is their blessedness. "*Lo, I am with you always*" and "*My peace I give unto you*": there, they say, is the secret.
 
@@ -128,9 +122,7 @@ Fourth Sunday in Advent
 [December]{.smallcaps} 19, 1858
 :::
 
-> "*As sorrowful, yet alway rejoicing*."—2 [Corinthians]{.smallcaps} vi. 10.
-
-*The passage:* "As sorrowful, yet always rejoicing" (2 Corinthians vi. 10).
+> "As sorrowful, yet always rejoicing" (2 Corinthians vi. 10). —2 [Corinthians]{.smallcaps} vi. 10.
 
 [Last]{.smallcaps} Sunday I spoke of this morning's Epistle. I said that if St. Paul told the Philippians to rejoice at all times while living on this earth, he cannot have meant to tell the Corinthians that they were the most miserable of people while living on the same earth, with their only comfort the hope of escaping it. Looking at what the passage that gave some readers that impression really meant, it became clear that Paul had causes enough for sorrow. If his hopes had been limited to his few years here, he would have been thoroughly wretched. He saw the earth as beautiful, rich with tokens of God's love. He saw Man as a glorious being, redeemed by the Son of God and united to Him. He looked on his own calling as a herald of good news with thankfulness and exultation. But because the earth showed such signs of a gracious Creator, he could not be content that it should also bear the marks of the Destroyer. The Son of Man had united men to Himself and revealed a Father to them, so Paul could not be content that they should live as outcasts and orphans. And because his message promised blessings that would unfold through ages upon ages, he would not shrink its purpose and fulfilment to the span of this life and our experience of it.
 
@@ -164,9 +156,7 @@ St. Stephen's Day
 [December]{.smallcaps} 26, 1858
 :::
 
-> "*Behold, I see the heavens opened, and the Son of man standing on the right hand of God*."—[Acts]{.smallcaps} vii. 56.
-
-*The passage:* Stephen says, "Look, I see heaven opened, and the Son of man standing on the right hand of God."
+> Stephen says, "Look, I see heaven opened, and the Son of man standing on the right hand of God." —[Acts]{.smallcaps} vii. 56.
 
 [Are]{.smallcaps} we to honour those who die as defenders of a false creed? The question is often asked, and I think we are not always careful enough in answering it.
 
@@ -212,9 +202,7 @@ First Sunday in the Year
 [January]{.smallcaps} 2, 1859
 :::
 
-> "*Open Thou mine eyes, that I may behold wondrous things out of Thy law*."—[Psalm]{.smallcaps} cxix. 18.
-
-*The passage:* The psalmist prays that God would open his eyes so that he may see wondrous things in God's law.
+> The psalmist prays that God would open his eyes so that he may see wondrous things in God's law. —[Psalm]{.smallcaps} cxix. 18.
 
 [The]{.smallcaps} Collect, Epistle, and Gospel read yesterday and again today connect the old world with the new, the Jew's obedience with the Christian's. The link is Jesus' obedience to the Law. We are taught that we have a stake in Circumcision because He submitted to it, and that in its highest sense Circumcision belongs to the citizens of the Kingdom of Heaven. The subject matters deeply, both historically and personally. A preacher should not skip it on the pretext that the Church's services handle it better than he can. From those services we may carry away only a vague sense that our position is somehow like and unlike the Jew's. Or we may find out what the likeness is, and so come to see the difference fully. We may be content with phrases about formal, literal obedience and moral obedience, or we may learn why one is better than the other and how to exchange one for the other. I know no better meditation for a new year, which should join memories with hopes, and repentance for the past with manly, humble resolutions for the future.
 
@@ -256,9 +244,7 @@ First Sunday after Epiphany
 [January]{.smallcaps} 9, 1859
 :::
 
-> "*And it came to pass, that after three days they found Him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. And all that heard Him were astonished at His understanding and answers*."—[Luke]{.smallcaps} ii. 46, 47.
-
-*The passage:* After three days Joseph and Mary found Jesus in the temple, sitting among the teachers, listening to them and asking them questions. All who heard Him were astonished at His understanding and His answers.
+> After three days Joseph and Mary found Jesus in the temple, sitting among the teachers, listening to them and asking them questions. All who heard Him were astonished at His understanding and His answers. —[Luke]{.smallcaps} ii. 46, 47.
 
 [The]{.smallcaps} manifestation to the Magians, which we heard in Thursday's service, is recorded by St. Matthew. The manifestation to the doctors is told only by St. Luke. We might have expected the reverse: that Matthew, writing for Jews, would tell what concerned Jews directly, and that Luke, the companion of St. Paul, would seize on the revelation of Christ to the Gentiles. But Matthew, who cared to set forth a King of the Jews, would naturally record the Wise Men's search for such a King and their homage when they found Him. And no one was fitter to tell how the Light of the World burst upon the Rabbis in the Temple than Luke, who had talked with the pupil of Gamaliel and had carefully studied how that man came to be enlightened.
 
@@ -302,9 +288,7 @@ Second Sunday after Epiphany
 [January]{.smallcaps} 16, 1859
 :::
 
-> "*And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation; that they should seek the Lord, if haply they might feel after Him, and find Him, though He be not far from every one of us: for in Him we live, and move, and have our being; as certain also of your own poets have said, For we are also His offspring. Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man's device. And the times of this ignorance God winked at; but now commandeth all men every where to repent: because He hath appointed a day, in the which He will judge the world in righteousness by that Man whom He hath ordained; whereof He hath given assurance unto all men, in that He hath raised Him from the dead*."—[Acts]{.smallcaps} xvii. 26-31.
-
-*The passage:* God made all nations of men from one blood to live over the whole earth. He fixed their appointed times and the boundaries of their homes, so that they might seek the Lord, feeling after him and finding him, though he is not far from any of us. In him we live, move and have our being, as some of the Athenians' own poets have said: "We are also his offspring." Being God's offspring, we should not think the Godhead is like gold, silver or stone shaped by human art. God overlooked the times of this ignorance, but now commands all people everywhere to repent, because he has appointed a day when he will judge the world in righteousness by the Man he has ordained, and he has given proof of this to all by raising him from the dead.
+> God made all nations of men from one blood to live over the whole earth. He fixed their appointed times and the boundaries of their homes, so that they might seek the Lord, feeling after him and finding him, though he is not far from any of us. In him we live, move and have our being, as some of the Athenians' own poets have said: "We are also his offspring." Being God's offspring, we should not think the Godhead is like gold, silver or stone shaped by human art. God overlooked the times of this ignorance, but now commands all people everywhere to repent, because he has appointed a day when he will judge the world in righteousness by the Man he has ordained, and he has given proof of this to all by raising him from the dead. —[Acts]{.smallcaps} xvii. 26-31.
 
 [The]{.smallcaps} picture of St. Paul at Athens in the Acts has been filled in with light and shade by readers' imaginations, but the main outlines cannot be erased. He was grieved to see the city wholly given to idolatry. He argued in the market-place with philosophers of different sects. The Athenians' curiosity for something new would not have let him stay silent about why he had come to Greece, even if he had wished to. And he did deliver, on Mars' Hill, the most elaborate of all his discourses.
 
@@ -348,9 +332,7 @@ Third Sunday after Epiphany
 [January]{.smallcaps} 23, 1859
 :::
 
-> "*If I do not the works of My Father, believe Me not. But if I do, though ye believe not Me, believe the works: that ye may know, and believe, that the Father is in Me, and I in Him*."—[John]{.smallcaps} x. 37-38.
-
-*The passage:* Jesus says that if He does not do the works of His Father, people should not believe Him. But if He does them, then even those who do not believe Him should believe the works, so that they may know and believe that the Father is in Him and He in the Father.
+> Jesus says that if He does not do the works of His Father, people should not believe Him. But if He does them, then even those who do not believe Him should believe the works, so that they may know and believe that the Father is in Him and He in the Father. —[John]{.smallcaps} x. 37-38.
 
 [Last]{.smallcaps} Sunday I compared the method we usually think the cleverest for defending the Gospel and refuting its opponents with the method St. Paul used in his speech at Athens. I showed that the two are not merely different but directly opposed. Neither the Apostle's greater gifts nor our eighteen centuries of inherited blessing can account for it. If we are right, his inspiration only led him wrong. If he was right, the measures we take to secure the treasures he proclaimed show how little we value them.
 
@@ -390,9 +372,7 @@ Fourth Sunday after Epiphany
 [January]{.smallcaps} 30, 1859
 :::
 
-> "*Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid*."—[Luke]{.smallcaps} viii. 35.
-
-*The passage:* The people went out to see what had happened. They came to Jesus and found the man from whom the devils had gone out sitting at Jesus' feet, clothed and in his right mind, and they were afraid.
+> The people went out to see what had happened. They came to Jesus and found the man from whom the devils had gone out sitting at Jesus' feet, clothed and in his right mind, and they were afraid. —[Luke]{.smallcaps} viii. 35.
 
 [I have]{.smallcaps} taken my text from St. Luke's version of the story we read in today's Gospel. I must remind you that the Evangelists differ conspicuously in reporting it. St. Matthew speaks of two men possessed with devils; St. Mark and St. Luke speak of one. The peculiar incidents and the exact agreement of the geography leave no doubt that it is the same miracle. Here is a legitimate subject for examination, and an honest one must lead to good. The only danger is hiding the difficulties, or twisting the evidence to remove them.
 
@@ -450,9 +430,7 @@ Fifth Sunday after Epiphany
 [February]{.smallcaps} 6, 1859
 :::
 
-> "*And the disciples came, and said unto Him, Why speakest Thou unto them in parables? He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given. For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath. Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand. And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive: for this people's heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them. But blessed are your eyes, for they see: and your ears, for they hear. For verily I say unto you, That many prophets and righteous men have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them*."—[Matthew]{.smallcaps} xiii. 10-17.
-
-*The passage:* The disciples ask Jesus why he speaks to the crowds in parables. He answers that it is given to them to know the mysteries of the kingdom of heaven but not to the others. Whoever has will be given more, and whoever has not will lose even what he has. So he speaks in parables because the people see without seeing and hear without understanding, and in them Isaiah's prophecy is fulfilled: their hearts have grown gross, their ears are dull, and they have shut their eyes, so that they might not see, hear, understand, be converted and be healed. But the disciples' eyes and ears are blessed, for many prophets and righteous men longed to see and hear what they see and hear, and did not.
+> The disciples ask Jesus why he speaks to the crowds in parables. He answers that it is given to them to know the mysteries of the kingdom of heaven but not to the others. Whoever has will be given more, and whoever has not will lose even what he has. So he speaks in parables because the people see without seeing and hear without understanding, and in them Isaiah's prophecy is fulfilled: their hearts have grown gross, their ears are dull, and they have shut their eyes, so that they might not see, hear, understand, be converted and be healed. But the disciples' eyes and ears are blessed, for many prophets and righteous men longed to see and hear what they see and hear, and did not. —[Matthew]{.smallcaps} xiii. 10-17.
 
 [Many]{.smallcaps} have answered the question why our Lord spoke in parables. One answer is that the limits of the human mind make it impossible for us to know divine and eternal things, which can reach us only through imperfect likenesses from nature or from human affairs. That reason applies to every human being alike. A second is special to Christ's circumstances: he was teaching ignorant fishermen, and men of that class would be best reached through stories. A third asks whether the parables might be veils deliberately made to hide sacred truths from the profane multitude.
 
@@ -500,9 +478,7 @@ Sixth Sunday after Epiphany
 [February]{.smallcaps} 13, 1859
 :::
 
-> "*Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ; as obedient children, not fashioning yourselves according to the former lusts in your ignorance: but as He which hath called you is holy, so be ye holy in all manner of conversation; because it is written, Be ye holy; for I am holy*."—1 [Peter]{.smallcaps} i. 13-16.
-
-*The passage:* Peter tells his readers to prepare their minds for action, to keep sober, and to hope fully for the grace that will be brought to them when Jesus Christ is revealed. As obedient children, they must not shape themselves by the desires they followed in their ignorance. As the One who called them is holy, they must be holy in all their conduct, because it is written: "Be holy, for I am holy."
+> Peter tells his readers to prepare their minds for action, to keep sober, and to hope fully for the grace that will be brought to them when Jesus Christ is revealed. As obedient children, they must not shape themselves by the desires they followed in their ignorance. As the One who called them is holy, they must be holy in all their conduct, because it is written: "Be holy, for I am holy." —1 [Peter]{.smallcaps} i. 13-16.
 
 [I have]{.smallcaps} chosen these verses as a fitting conclusion to the subject of these Epiphany weeks. I have been trying to find out what the Revelation of Jesus Christ is, which the New Testament writers mention so constantly. Is it, as the word suggests, the actual unveiling of a Person to the conscience, heart and reason of human beings? Is it, as the Church seems to say, the unveiling of God's character and nature to a creature made to know Him? Or is it the announcement of certain opinions, maxims and rules of life to a creature made *not* to know Him, who, *because* of that condition, must accept whatever he can guess on probable evidence to be divine? This is nearly the most important question men can occupy themselves with. I have touched only lightly on the metaphysical arguments for the last view, since they involve subtleties hearers of sermons cannot be expected to follow, and are likely to judge by their wishes rather than their convictions. I have only suggested asking whether those arguments, if truly stated, do not prove all knowledge impossible, earthly as well as heavenly. My business has been to show that the Bible solemnly rejects the maxim put forward in its defence. The holy men and prophets of the Old Testament reject it in all their expectations, and so does every work and parable of Christ and every discourse of the Apostles.
 
@@ -544,9 +520,7 @@ Septuagesima Sunday
 [February]{.smallcaps} 20, 1859
 :::
 
-> "*And He shall sit as a refiner and purifier of silver: and He shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness*."—[Malachi]{.smallcaps} iii. 3.
-
-*The passage:* The Lord will sit as a refiner and purifier of silver. He will purify the sons of Levi and purge them like gold and silver, so that they may offer the Lord an offering in righteousness.
+> The Lord will sit as a refiner and purifier of silver. He will purify the sons of Levi and purge them like gold and silver, so that they may offer the Lord an offering in righteousness. —[Malachi]{.smallcaps} iii. 3.
 
 [In]{.smallcaps} pursuing the subject suggested by the Epiphany services, I passed over a topic that this month of February specially recalls. It is the festival once called Candlemas, which the Prayer-book describes as the Presentation of Christ in the Temple, or the Purification of St. Mary the Virgin.
 
@@ -588,9 +562,7 @@ Sexagesima Sunday
 [February]{.smallcaps} 27, 1859
 :::
 
-> "*And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take of the water of life freely*."—[Revelation]{.smallcaps} xxii. 17.
-
-*The passage:* The Spirit and the bride say, "Come." Let everyone who hears say, "Come." Let anyone who is thirsty come, and let whoever wishes take the water of life freely.
+> The Spirit and the bride say, "Come." Let everyone who hears say, "Come." Let anyone who is thirsty come, and let whoever wishes take the water of life freely. —[Revelation]{.smallcaps} xxii. 17.
 
 [At]{.smallcaps} the beginning of the chapter these words come from, we read of a pure river of water of life, clear as crystal, flowing out of the throne of God and of the Lamb. Closely joined to this vision is the tree of life on either side of the river. It bore twelve kinds of fruit, yielded its fruit every month, and its leaves were for the healing of the nations.
 
@@ -628,9 +600,7 @@ Quinquagesima Sunday
 [March]{.smallcaps} 6, 1859
 :::
 
-> "*For other foundation can no man lay than that is laid, which is Jesus Christ*."—1 [Corinthians]{.smallcaps} iii. 11.
-
-*The passage:* No one can lay any foundation other than the one already laid, which is Jesus Christ.
+> No one can lay any foundation other than the one already laid, which is Jesus Christ. —1 [Corinthians]{.smallcaps} iii. 11.
 
 [In]{.smallcaps} the chapter my text comes from, St. Paul calls himself a Master-builder, and he holds that a Master-builder's office is to lay foundations. The Corinthians generally disagreed. They thought anyone could lay a foundation, and that an architect's skill showed in what he built on it. A teacher fit for them could not be a mere teacher of elements. Preaching only Jesus Christ and Him crucified might serve among Boeotians or barbarians. But men in a city like theirs, used to hearing the most varied wisdom from pagan professors, were ready for advanced Christian instruction. They were not children, and they demanded the refined culture of men.
 
@@ -666,9 +636,7 @@ First Sunday in Lent
 [March]{.smallcaps} 13, 1859
 :::
 
-> "*Abide in Me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in Me*."—[John]{.smallcaps} xv. 4.
-
-*The passage:* Abide in me, and I in you. As the branch cannot bear fruit of itself unless it stays in the vine, neither can you unless you stay in me.
+> Abide in me, and I in you. As the branch cannot bear fruit of itself unless it stays in the vine, neither can you unless you stay in me. —[John]{.smallcaps} xv. 4.
 
 [When]{.smallcaps} each of us asks in Lent, "What have I most to confess? What has been my great misdoing?", no distinct answer comes. There is a vague sense of duties left undone and tempers indulged. There is a sense of devotion and fretfulness over little things while serious work went on that we should have cared about, or else of indifference to little acts of self-denial and little habits of evil, out of ambition to do something fine. As I said last Sunday, we may find ourselves guilty of various offences against the law of charity, which this season sets out as the law of our lives. But what we probably condemn ourselves for most is not any direct outrage against that law. It is a kind of uselessness, lifelessness, barrenness. We cannot stir ourselves to any course of action, scarcely to one deliberate act. We seem left with an endless routine, or with floating along a stream without knowing where it leads. In church and in private prayer, have you not often felt that you were only going through prescribed rules, not gaining strength to face the world but yielding to one of its fashions?
 
@@ -700,9 +668,7 @@ Second Sunday in Lent
 [March]{.smallcaps} 20, 1859
 :::
 
-> "*And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it*."—1 [Corinthians]{.smallcaps} xii. 26.
-
-*The passage:* If one member of the body suffers, all the members suffer with it; if one member is honoured, all the members rejoice with it.
+> If one member of the body suffers, all the members suffer with it; if one member is honoured, all the members rejoice with it. —1 [Corinthians]{.smallcaps} xii. 26.
 
 [Lent]{.smallcaps}, I have been trying for two Sundays to show you, is not a time for confessing that we have fallen short of some high, imaginary standard of excellence. It is a time for confessing that we have departed from the actual law under which we and all human beings are placed. It is a time for individual confession. Each of us remembers acts that he can charge to no one but himself. But these are acts against the peace and order of society, the kind of acts that make society untenable.
 
@@ -748,9 +714,7 @@ Third Sunday in Lent
 [March]{.smallcaps} 27, 1859
 :::
 
-> "*He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God*?"—[Micah]{.smallcaps} vi. 8.
-
-*The passage:* God has shown you, O man, what is good. What does the Lord ask of you but to act justly, to love mercy, and to walk humbly with your God?
+> God has shown you, O man, what is good. What does the Lord ask of you but to act justly, to love mercy, and to walk humbly with your God? —[Micah]{.smallcaps} vi. 8.
 
 [These]{.smallcaps} words are often quoted with respectful admiration by people who regard what they take to be the Bible's theology with indifference or contempt. "Here," they say, "is a true witness to the morality that lies hidden beneath the forms and doctrines of the different religions, and that must in the end replace them. It is essentially the same in all of them, but particular tribes have narrowed and localized it, and the cunning and self-interest of priests have kept it out of sight and often flatly contradicted it. The religious coverings of these universal and permanent truths have become as much a cause of strife, division and hatred as the truths themselves, if believed and acted on, would be a cause of union." The inference is plain. The philosopher and philanthropist should be invited to pull these maxims out from under the overlying mass and give them the prominence now given to dogmas that are intricate and lead to evil or to nothing. Nor should he stop at vindicating what was good in the old time. He should illustrate it from modern discoveries about the laws under which man and the universe exist, and from our experience of what our species needs for its well-being. This wisdom will take the dryness from the old sayings and connect them with our actual life and work.
 
@@ -786,9 +750,7 @@ Fourth Sunday in Lent
 [April]{.smallcaps} 5, 1859
 :::
 
-> "*Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life*."—[Romans]{.smallcaps} v. 18.
-
-*The passage:* Just as one offence brought condemnation on all men, so one act of righteousness brought the free gift on all men, a justification that gives life.
+> Just as one offence brought condemnation on all men, so one act of righteousness brought the free gift on all men, a justification that gives life. —[Romans]{.smallcaps} v. 18.
 
 [A few]{.smallcaps} years ago, political writers widely held that self-interest is the motive behind everything people do, and that government exists to make individuals' self-interest serve the general interest. The doctrine had much to recommend it, quite apart from the able men who pressed it and applied it to problems in morals, economics, and law. Plain facts showed private interests clashing with the public good. Much had been said about virtue and patriotism, with little result. Was this not a more practical doctrine than any that credited men with better feelings? Was it not safer to assume that each will get what he can at his neighbour's expense, and to run the social machine on that assumption?
 
@@ -830,9 +792,7 @@ Fifth Sunday in Lent
 [April]{.smallcaps} 10, 1859
 :::
 
-> "*Do not I hate them, O Lord, that hate Thee? And am not I grieved with those that rise up against Thee*?"—[Psalm]{.smallcaps} cxxxix. 21.
-
-*The passage:* The Psalmist asks God whether he does not hate those who hate God, and whether he is not grieved by those who rise up against God.
+> The Psalmist asks God whether he does not hate those who hate God, and whether he is not grieved by those who rise up against God. —[Psalm]{.smallcaps} cxxxix. 21.
 
 [The]{.smallcaps} Psalmist answers his own question: "*Yea, I hate them right sore, even as though they were mine enemies*." Most of us would answer very differently. We would say, "Hate them? We hate nothing. We try to obey Christ's command, *Love thy neighbour as thyself*."
 
@@ -866,9 +826,7 @@ Sunday before Easter
 [April]{.smallcaps} 17, 1859
 :::
 
-> "*Now the Lord of peace Himself give you peace always by all means*."—2 [Thessalonians]{.smallcaps} iii. 16.
-
-*The passage:* May the Lord of peace himself give you peace always, by all means.
+> May the Lord of peace himself give you peace always, by all means. —2 [Thessalonians]{.smallcaps} iii. 16.
 
 [There]{.smallcaps} is another reading of this passage, which modern editors have preferred, and I think rightly. For *by all means* they read *in every place*. Our version's wording may carry a good sense, but it sounds like a tame addition to what came before. The other reading adds a new thought and completes the prayer: may the Lord of Peace give you peace at all times and in all places. The Apostle is not content to wish that the peace be no less one year than another. He wants it to be the same whether his disciples are in Thessalonica, Athens or Rome, among friends or enemies, in a city or a desert, in a church or a prison.
 

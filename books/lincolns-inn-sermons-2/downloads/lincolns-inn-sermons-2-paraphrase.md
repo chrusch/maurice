@@ -128,9 +128,7 @@ Nor should I forget that Christ's warnings of sin and coming judgment were addre
 [May]{.smallcaps} 10, 1857
 :::
 
-> "*I prayed therefore unto the Lord, and said, O Lord God, destroy not Thy people and Thine inheritance, which Thou hast redeemed through Thy greatness, which Thou hast brought forth out of Egypt with a mighty hand. Remember Thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin: lest the land whence Thou broughtest us out say, Because the Lord was not able to bring them into the land which He promised them, and because He hated them, He hath brought them out to slay them in the wilderness. Yet they are Thy people, and Thine inheritance, which Thou broughtest out by Thy mighty power, and by Thy stretched out arm*."—[Deuteronomy]{.smallcaps} ix. 26-29.
-
-*The passage:* Moses prays that God not destroy Israel, His people and inheritance, whom He redeemed and brought out of Egypt with a mighty hand. He asks God to remember Abraham, Isaac, and Jacob, and not look at the people's stubbornness, wickedness, and sin — lest Egypt say that the Lord brought them out only to kill them in the wilderness, because He could not bring them into the promised land, or because He hated them. Yet, Moses says, they are still God's people and inheritance, whom He brought out by His mighty power and outstretched arm.
+> Moses prays that God not destroy Israel, His people and inheritance, whom He redeemed and brought out of Egypt with a mighty hand. He asks God to remember Abraham, Isaac, and Jacob, and not look at the people's stubbornness, wickedness, and sin — lest Egypt say that the Lord brought them out only to kill them in the wilderness, because He could not bring them into the promised land, or because He hated them. Yet, Moses says, they are still God's people and inheritance, whom He brought out by His mighty power and outstretched arm. —[Deuteronomy]{.smallcaps} ix. 26-29.
 
 [This]{.smallcaps} prayer brings out at its sharpest a contrast running through Deuteronomy and the whole Bible: the Israelites are God's people, His inheritance, redeemed by His hand — and they are stubborn, stiff-necked, wicked. We grow so used to passages containing both descriptions that we attach little meaning to either. When we study the history with real, practical interest, the sins denounced become plain enough, since they resemble our own. But while we dwell on those sins, how can we also think of this people as righteous, holy, chosen out of all the earth? The words come to feel technical in our minds. The holiness ascribed to the nation, we suppose, cannot be the same holiness ascribed to Moses, or Elijah, or Jeremiah — the word must carry a different force in each case. We are afraid to believe that Scripture's language is as strict and honest as the language of fallible men; by tampering with it a little we hope to avoid calling evil good and good evil.
 
@@ -172,9 +170,7 @@ This, then, is the ground of what I mean by national repentance — not a fantas
 [May]{.smallcaps} 17, 1857
 :::
 
-> "*Lord, who shall dwell in Thy tabernacle: or who shall rest upon Thy holy hill? Even he that leadeth an uncorrupt life: and doeth the thing which is right, and speaketh the truth from his heart. He that hath used no deceit in his tongue, nor done evil to his neighbour; and hath not slandered his neighbour. He that setteth not by himself, but is lowly in his own eyes: and maketh much of them that fear the Lord. He that sweareth unto his neighbour, and disappointeth him not: though it were to his own hindrance. He that hath not given his money upon usury: nor taken reward against the innocent. Whoso doeth these things shall never fall*,"—[Psalm]{.smallcaps} xv. (*Prayer-book Version*).
-
-*The passage:* Who may dwell in God's tabernacle, who may rest on his holy hill? The one who lives without corruption, does what is right, and speaks truth from the heart. Who does not deceive with his tongue, does no harm to his neighbor, and does not slander him. Who does not think highly of himself but is humble, and honors those who fear the Lord. Who keeps his word to his neighbor even to his own loss. Who does not lend money at interest, nor take a bribe against the innocent. Whoever does these things will never be shaken.
+> Who may dwell in God's tabernacle, who may rest on his holy hill? The one who lives without corruption, does what is right, and speaks truth from the heart. Who does not deceive with his tongue, does no harm to his neighbor, and does not slander him. Who does not think highly of himself but is humble, and honors those who fear the Lord. Who keeps his word to his neighbor even to his own loss. Who does not lend money at interest, nor take a bribe against the innocent. Whoever does these things will never be shaken. —[Psalm]{.smallcaps} xv. (*Prayer-book Version*).
 
 [The]{.smallcaps} Tabernacle that traveled with Israel through the wilderness witnessed that the Lord himself dwelt among them. When it was brought to Mount Zion with shouting and trumpet, it gained no new sacredness of its own — rather it gave sacredness to the place it rested on. God was felt to be there; the city stood because he was present in it.
 
@@ -214,9 +210,7 @@ But on the other hand, I maintain that a holy Catholic Church, in its truest and
 [May]{.smallcaps} 24, 1857
 :::
 
-> "*And what is the exceeding greatness of His power to us-ward who believe, according to the working of His mighty power, which He wrought in Christ, when He raised Him from the dead, and set Him at His own right hand in the heavenly places, far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come: and hath put all things under His feet, and gave Him to be the head over all things to the church, which is His body, the fulness of Him that filleth all in all*,"— [Ephesians]{.smallcaps} i. 19-23.
-
-*The passage:* Paul prays that the Ephesians may know the immense greatness of God's power toward believers — the same mighty power God exercised in raising Christ from the dead and seating him at his own right hand in the heavenly places, far above every ruler, authority, power, and dominion, and every name that can be named, not only in this age but in the age to come. God has put all things under Christ's feet and made him head over everything for the church, which is his body, the fullness of him who fills all in all.
+> Paul prays that the Ephesians may know the immense greatness of God's power toward believers — the same mighty power God exercised in raising Christ from the dead and seating him at his own right hand in the heavenly places, far above every ruler, authority, power, and dominion, and every name that can be named, not only in this age but in the age to come. God has put all things under Christ's feet and made him head over everything for the church, which is his body, the fullness of him who fills all in all. —[Ephesians]{.smallcaps} i. 19-23.
 
 [Romans]{.smallcaps} and Galatians can be called the Epistles of the Resurrection: they show that God, by raising Jesus from the dead, justified us from what the law's works could not justify us from. The Reformers turned to these letters for instruction and comfort in the sixteenth century, and found exactly the message they needed — a message to the burdened conscience, telling every sinner enslaved to sin where to find his Deliverer and true Master.
 
@@ -294,9 +288,7 @@ To proclaim the Spirit of Truth against these lying spirits — to declare that 
 [June]{.smallcaps} 7, 1857
 :::
 
-> "*And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect will of God*."—[Romans]{.smallcaps} xii. 2.
-
-*The passage:* Do not be conformed to this world, but be transformed by the renewing of your mind, so that you may discern what is the good, acceptable, and perfect will of God.
+> Do not be conformed to this world, but be transformed by the renewing of your mind, so that you may discern what is the good, acceptable, and perfect will of God. —[Romans]{.smallcaps} xii. 2.
 
 "[You]{.smallcaps} preachers tell us to give up our own wills and do the Will of God. But how are we to find out what that will is?" Many are asking this, and they get various answers. One tells him the Will of God is fully declared in Scripture, in language the most ignorant can understand. He replies that he has had the Scriptures since childhood, yet hears daily of new interpretations, held as indisputable by one school or Church and rejected as monstrous by another. Who will tell him which is right? Some are delighted at his perplexity: "Doesn't this show the need for an authority to pronounce on Scripture's meaning—that the Bible is useless without the Church?" Then comes the next question: "Where is that authority? Suppose I find it—how does it help me apply the right explanation to the tangle of my own life? How do David's experience or Paul's words to Ephesians or Corinthians tell me what to do here in London in 1857?" Others hear this difficulty with satisfaction: "It drives you to seek a guide for present emergencies, not mere generalities—an infallible voice for the whole Church, and for you a director of conscience to whom you owe simple obedience in every personal difficulty. With these, Bible and Church serve you well; without them the system stands apart from you, untouched by your individual feelings and actions."
 
@@ -322,9 +314,7 @@ V\. That was last Sunday's lesson—the Pentecostal gift. Today we go a step fur
 [June]{.smallcaps} 14, 1857
 :::
 
-> "*Lord, I am not high-minded; I have no proud looks. I do not exercise myself in great matters, which are too high for me. But I refrain my soul, and keep it low, like as a child that is weaned from its mother; yea, my soul is even as a weaned child. O Israel, trust in the Lord, from this time forth for evermore*."—[Psalm]{.smallcaps} cxxxi. (*Prayer-book Version*).
-
-*The passage:* Lord, I am not proud or haughty; I do not concern myself with great matters too high for me. Instead I have calmed and quieted my soul, like a weaned child with its mother; my soul is like a weaned child. Israel, trust in the Lord, now and forever.
+> Lord, I am not proud or haughty; I do not concern myself with great matters too high for me. Instead I have calmed and quieted my soul, like a weaned child with its mother; my soul is like a weaned child. Israel, trust in the Lord, now and forever. —[Psalm]{.smallcaps} cxxxi. (*Prayer-book Version*).
 
 [After]{.smallcaps} this Psalm, as after every other, we say "Glory be to the Father, and to the Son, and to the Holy Ghost." We praise and worship the Trinity in Unity.
 
@@ -370,9 +360,7 @@ So, because they are no longer high-minded or proud, because their souls have be
 [June]{.smallcaps} 21, 1857
 :::
 
-> "*Endeavouring to keep the unity of the Spirit in the bond of peace*." —[Ephesians]{.smallcaps} iv. 3.
-
-*The passage:* Paul urges believers to make every effort to preserve the unity the Spirit gives, through the bond of peace.
+> Paul urges believers to make every effort to preserve the unity the Spirit gives, through the bond of peace. —[Ephesians]{.smallcaps} iv. 3.
 
 [Some]{.smallcaps} recent editors, following certain early Fathers, punctuate this passage differently from our version, reading it so that "forbearing one another in love" goes with "endeavouring to keep the unity of the Spirit," and "in the bond of peace" is joined to "one body and one Spirit." This construction is awkward and needs strong justification. The only reason I can find is that "unity of the Spirit" and "bond of peace" are thought to repeat each other, or that it seems hard to see how the Unity of the Spirit could be *in* the bond of peace. Both objections may disappear on closer examination.
 
@@ -410,9 +398,7 @@ Therefore no one shall persuade us, for Unity's sake, to give up this Name, expl
 [June]{.smallcaps} 28, 1857
 :::
 
-> "*Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble*."—[1 Peter]{.smallcaps} v. 5.
-
-*The passage:* Peter tells the younger to submit to the elder, tells everyone to be subject to one another, to be clothed with humility, because God resists the proud and gives grace to the humble.
+> Peter tells the younger to submit to the elder, tells everyone to be subject to one another, to be clothed with humility, because God resists the proud and gives grace to the humble. —[1 Peter]{.smallcaps} v. 5.
 
 [There]{.smallcaps} is a common complaint today that reverence is dying out, that Isaiah's words are coming true: the young behaving proudly against the old, the base against the honourable. The feeling of respect is gone, and each person stands only on his own powers and his own rights.
 
@@ -492,9 +478,7 @@ So the plain words hold the most and the most personal meaning together — we h
 [July]{.smallcaps} 12, 1857
 :::
 
-> "*For if we would judge ourselves, we should not be judged. But when we are judged, we are chastened of the Lord, that we should not be condemned with the world*,"—1 [Corinthians]{.smallcaps} xi. 31, 32.
-
-*The passage:* If we judged ourselves, we would not be judged by God; but when we are judged by him, it is his discipline upon us, meant to keep us from being condemned along with the world.
+> If we judged ourselves, we would not be judged by God; but when we are judged by him, it is his discipline upon us, meant to keep us from being condemned along with the world. —1 [Corinthians]{.smallcaps} xi. 31, 32.
 
 [It]{.smallcaps} is, I fear, a common feeling among laymen and clergymen alike, that ordinary words lose their plain meaning and become mere technical terms once applied to theology. "Judge" and "judgment" have a meaning everyone recognizes in ordinary life, even if they cannot define it precisely: a judgment is an act of discrimination, an attempt to separate the right from the wrong, the tenable from the untenable. Judgment as a faculty means a power that draws lines, that distinguishes acts, thoughts, or words which would otherwise be confused. But when we speak of Divine judgments, we seem not to carry this meaning higher, but to lose it almost entirely. A "judgment," in that sense, seems to mean little more than a disaster we cannot otherwise explain, and so attribute to God. A fortune, a child, an escape from ruin, we call a mercy; a famine, a plague, an earthquake, we call a judgment. We explain the first kind of events by supposing God has gracious designs on us, and the second by supposing we have somehow offended him. In both cases we imagine some departure from his ordinary rule, some interference for us or against us, and we ask ourselves what act of ours it must be connected to.
 
@@ -542,9 +526,7 @@ There are national chastisements, brethren, more terrible in the eyes of God and
 [July]{.smallcaps} 19, 1857
 :::
 
-> "*For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection*."—[Romans]{.smallcaps} vi. 5.
-
-*The passage:* If we have been planted together in the likeness of Christ's death, we shall also be in the likeness of his resurrection.
+> If we have been planted together in the likeness of Christ's death, we shall also be in the likeness of his resurrection. —[Romans]{.smallcaps} vi. 5.
 
 [In]{.smallcaps} the Collects we are often taught to speak of Christ taking our nature and suffering our death. That language is copied straight from St. Paul, and filled with his spirit — no one who studies his Epistles can dispute it. But Paul also uses another kind of language, in harmony with this but not to be confused with it. He speaks not only of Christ being made like us, but of us being made in his likeness. And he does not limit this, as we might expect, to saying we may be made holy like Christ here, or glorious like Christ hereafter. He speaks of our death being cast in the mold of his Death, of Christ as the only standard by which we can measure our own: "we have been planted together in the likeness of His Death." We would badly reduce that phrase if we took it to mean only that death comes upon each of us as it came upon him — we already knew that death is a fact for every child of Adam; that needed no proof. What men needed to know was what this fact signified. It was as strange and monstrous as it was undeniable — the world's great commonplace, yet each case a new variety of it, individualizing even while universal. Generalizing from many instances only took you further from its reality; you were closer to it watching one actual deathbed than reasoning about a thousand, and yet even meeting it face to face left the experience feeling imperfect. Men have always wanted to know what Death is, as they want to know what Life is, and have felt that no definition — however fine or divine, even from God's own lips — could tell them.
 
@@ -564,9 +546,7 @@ II\. So the Eucharist joins, as Paul's words join, Death and Resurrection insepa
 [July]{.smallcaps} 26, 1857
 :::
 
-> "*For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord*."—[Romans]{.smallcaps} vi. 23.
-
-*The passage:* Sin pays wages, and its wage is death; but what God gives is eternal life through Jesus Christ our Lord.
+> Sin pays wages, and its wage is death; but what God gives is eternal life through Jesus Christ our Lord. —[Romans]{.smallcaps} vi. 23.
 
 [To]{.smallcaps} sharpen the contrast, St. Paul left out the verb in each clause. You might think our translators could as well have used the future tense as the present—"the wages of sin *will be* death," "the gift of God *will be* life." I think they were right not to. That change would have destroyed the force of the words, their connection with what precedes, and their connection with our own daily experience.
 
@@ -590,9 +570,7 @@ I am persuaded this is the Gospel St. Paul proclaimed everywhere—to Jews, Gent
 [October]{.smallcaps} 7, 1857
 :::
 
-> "*I will arise, and go to my father, and will say unto him, Father, I have sinned against Heaven, and before thee, and am no more worthy to be called thy son*."—[Luke]{.smallcaps} xv. 18.
-
-*The passage:* The prodigal son resolves to get up, go back to his father, and say: "Father, I have sinned against heaven and against you; I am no longer worthy to be called your son."
+> The prodigal son resolves to get up, go back to his father, and say: "Father, I have sinned against heaven and against you; I am no longer worthy to be called your son." —[Luke]{.smallcaps} xv. 18.
 
 [I think]{.smallcaps} you must have felt today that our old Common Prayers are actually more suited to this moment, more expressive of what is in our hearts, than the new ones into which the words "India" and "mutiny" were inserted. Using the old prayers, everything we have heard and read these two months still came to mind. The Liturgy prays for the widows and fatherless, for prisoners and captives, for those in necessities and tribulations we can only dimly imagine. The new prayers, which forced our thoughts directly to these topics, seemed to lack something. I think it was this: the new prayers are addressed to an Almighty God who is displeased with us and who may be merciful; the old ones are addressed to an Almighty and Most Merciful Father. That gives them their common character, letting us all join together as one Family, and also their special character: they meet every event that befalls any member of the Family, in any age or place, in times of tribulation and in times of wealth alike.
 
@@ -636,9 +614,7 @@ And oh, brethren, if these dire calamities should indeed establish us in this fa
 [October]{.smallcaps} 11, 1857
 :::
 
-> "*While the Pharisees were gathered together, Jesus asked them, saying, What think ye of Christ? Whose Son is He*?"—[Matt.]{.smallcaps} xxii. 41, 42.
-
-*The passage:* While the Pharisees were gathered together, Jesus asked them what they thought of the Christ — whose son he was.
+> While the Pharisees were gathered together, Jesus asked them what they thought of the Christ — whose son he was. —[Matt.]{.smallcaps} xxii. 41, 42.
 
 [Many]{.smallcaps} have thought and said that God is punishing us in India for not communicating our faith to its people. I ventured to ask on Wednesday whether he may not first be calling us to consider what the faith is that we have to communicate. What is truly alive in us will make itself felt; what we have we will somehow pass on. Perhaps our fault is not that we have failed to publish our belief, but that we have failed to believe. Perhaps the question before us is not "Why have you not taught Hindus and Muslims about Christ?" but "What think ye of Christ?"
 
@@ -722,9 +698,7 @@ But when we truly and warmly accept this faith, and keep it alive by doing the w
 [October]{.smallcaps} 25, 1857
 :::
 
-> "*Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat: because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it*." —[Matt.]{.smallcaps} vii. 13, 14.
-
-*The passage:* Enter by the narrow gate, for the wide gate and broad road lead to destruction, and many go that way; but the gate is narrow and the road is hard that leads to life, and few find it.
+> Enter by the narrow gate, for the wide gate and broad road lead to destruction, and many go that way; but the gate is narrow and the road is hard that leads to life, and few find it. —[Matt.]{.smallcaps} vii. 13, 14.
 
 [Do]{.smallcaps} not these words contradict the doctrine I have lately preached — that we should proclaim to Christians, Hindoos, Mussulmans, everyone alike, a Gospel that God is Father of all in Christ, head of every man, and that every gift men have is a gift and sign of the Holy Spirit's presence? Must not such a Gospel throw open the very wide gate that leads to destruction, and keep both preachers and hearers from seeking the strait gate and the narrow way to life? How can we call a blessing for all what Scripture says only a few find?
 
@@ -776,9 +750,7 @@ Or take the doctrine attributed to the more warlike faith — a sensual Paradise
 [November]{.smallcaps} 1, 1857
 :::
 
-> "*After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands; and cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb*."—[Revelation]{.smallcaps} vii. 9, 10.
-
-*The passage:* John sees a vision of a countless multitude, from every nation and tribe and people and language, standing before God's throne and before the Lamb, dressed in white robes and holding palm branches, crying out, "Salvation belongs to our God who sits on the throne, and to the Lamb."
+> John sees a vision of a countless multitude, from every nation and tribe and people and language, standing before God's throne and before the Lamb, dressed in white robes and holding palm branches, crying out, "Salvation belongs to our God who sits on the throne, and to the Lamb." —[Revelation]{.smallcaps} vii. 9, 10.
 
 [The]{.smallcaps} Gospel reading for All Saints' Day proper begins with this verse. But the Church was wise not to separate this vision from the one before it. The two stand in direct contrast, and that contrast illuminates the meaning of each, as well as the purpose of the whole book.
 
@@ -887,9 +859,7 @@ I will not anticipate what I hope to say next Sunday about the conflict between 
 [November]{.smallcaps} 15, 1857
 :::
 
-> "*It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement: but I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery*." —[Matthew]{.smallcaps} v. 31, 32.
-
-*The passage:* The old teaching said that a man who puts away his wife should give her a certificate of divorce. But Jesus says that whoever puts away his wife, except for sexual unfaithfulness, causes her to commit adultery; and whoever marries a divorced woman commits adultery.
+> The old teaching said that a man who puts away his wife should give her a certificate of divorce. But Jesus says that whoever puts away his wife, except for sexual unfaithfulness, causes her to commit adultery; and whoever marries a divorced woman commits adultery. —[Matthew]{.smallcaps} v. 31, 32.
 
 [Last]{.smallcaps} week I examined a statement, made on very high authority, that the Sermon on the Mount contains rhetorical passages not meant literally to regulate our lives. I disputed this. I argued that those supposed to err through excessive rigor in applying Christ's words had actually erred through too loose an explanation, missing hints He gave us for understanding them—and that this laxity weakened the application of His words to daily duty; they would carry far more force if not softened by their interpreters. Having discussed the words that hold the principle of the whole discourse, "Be ye perfect, as your Father in Heaven is perfect," I proposed to examine two special inferences drawn from Christ's teaching that have been thought impracticable: first, what ecclesiastics have inferred about divorce; second, what Quakers have inferred about forgiveness. I begin with the former.
 
@@ -933,9 +903,7 @@ Our experience with that measure should make us cautious about assuming that the
 [November]{.smallcaps} 22, 1857
 :::
 
-> "*Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth: but I say unto you, That ye resist not evil; but whosoever shall smite thee on thy right cheek, turn to him the other also. And if any man will sue thee at the law, and take away thy coat, let him have thy cloke also. And whosoever shall compel thee to go a mile, go with him twain. Give to him that asketh thee, and from him that would borrow of thee turn not thou away. Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy: but I say unto you, love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you; that ye may be the children of your Father which is in heaven: for He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust*."—[Matthew]{.smallcaps} v. 38-45.
-
-*The passage:* You have heard it said, "an eye for an eye, a tooth for a tooth" — but I tell you, do not resist evil. If someone strikes your right cheek, turn the other also. If someone sues you for your coat, give him your cloak as well. If someone forces you to go a mile, go two. Give to the one who asks, and do not turn away the borrower. You have heard it said, "love your neighbour and hate your enemy" — but I tell you, love your enemies, bless those who curse you, do good to those who hate you, pray for those who mistreat and persecute you, so that you may be children of your Father in heaven, who makes his sun rise on the evil and the good, and sends rain on the just and the unjust.
+> You have heard it said, "an eye for an eye, a tooth for a tooth" — but I tell you, do not resist evil. If someone strikes your right cheek, turn the other also. If someone sues you for your coat, give him your cloak as well. If someone forces you to go a mile, go two. Give to the one who asks, and do not turn away the borrower. You have heard it said, "love your neighbour and hate your enemy" — but I tell you, love your enemies, bless those who curse you, do good to those who hate you, pray for those who mistreat and persecute you, so that you may be children of your Father in heaven, who makes his sun rise on the evil and the good, and sends rain on the just and the unjust. —[Matthew]{.smallcaps} v. 38-45.
 
 [The]{.smallcaps} subject I spoke on last Sunday may now seem almost stale, since months have passed since the nation was preoccupied with it. But what these verses raise is present to all our minds. There is a cry for vengeance abroad. Some say it is natural and must be indulged; some say it is sinful and must be checked; some say strong punishment is demanded and must not be withheld; some say it might be right otherwise, but Christ has forbidden it. Which of these speaks truth? It is unsafe not to think about this, since we will act on whatever answer we give — even if that "answer" is simply an unexamined impulse of rage or of compassion. And if we act without principle in one case, shall we not do so in every case — in India as much as in England, in the hundred everyday questions that turn on the same point? The controversy is not over the special method of treating particular offenses; there we may gladly consult men of special experience. But there seems equal uncertainty about judicial and military punishments generally, about a Christian's use of the magistrate's sword and the soldier's, about remembering in all this that we are Christians at all. We must try to get rid of that uncertainty, or we will be lenient today and savage tomorrow, and posterity will wonder which did more harm.
 

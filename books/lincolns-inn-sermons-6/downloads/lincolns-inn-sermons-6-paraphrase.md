@@ -12,9 +12,7 @@ Easter Day
 [April]{.smallcaps} 24, 1859
 :::
 
-> "*The power of His resurrection*."—[Philippians]{.smallcaps} iii. 10.
-
-*The passage:* Paul speaks of knowing "the power of His resurrection."
+> Paul speaks of knowing "the power of His resurrection." —[Philippians]{.smallcaps} iii. 10.
 
 [I think]{.smallcaps} many of you have felt, as I often have, a kind of disappointment in today's Collect. It begins grandly, as an Easter prayer should: "Almighty God, Who through Thine only-begotten Son hast overcome death, and opened unto us the gate of everlasting life." But what in the petition answers to this opening? Does it speak of visions of glory, or of fellowship with the spirits of just men made perfect, as we might expect if the barrier of death were really removed? Not at all. It asks only that, as God by His special grace puts good desires into our minds, so by His continual help we may bring them to good effect. Is this not a sudden and painful fall? In moments of strong feeling, when we have seen Easter as the greatest gift to the universe and the deepest comfort for private sorrow, have we not been indignant at being made to say words that seem to forget both? And when our logic is at work, are we not scandalized, since we demand logic in prayers as in everything else and see incoherence as a want of reverence to the God of order and truth, by what looks like a conclusion unrelated to its premises?
 
@@ -52,9 +50,7 @@ Second Sunday after Easter
 [May]{.smallcaps} 8, 1859
 :::
 
-> "*To him that worketh not, but believeth on Him that justifieth the ungodly, his faith is counted for righteousness*."—[Romans]{.smallcaps} iv. 5.
-
-*The passage:* To the person who does not work, but believes in Him who justifies the ungodly, his faith is counted as righteousness.
+> To the person who does not work, but believes in Him who justifies the ungodly, his faith is counted as righteousness. —[Romans]{.smallcaps} iv. 5.
 
 [All]{.smallcaps} this week you have been praying: "Almighty Father, who hast given Thine only Son to die for our sins, and to rise again for our justification, grant us so to put away the leaven of malice and wickedness that we may alway serve Thee in pureness of living and truth." Anyone who speaks on my text to people who have prayed this must expect to be judged by a severe standard. You have confessed an Almighty Father as the sole Author of your righteousness. How will you tolerate me if I trace that righteousness to belief in some tenet or opinion? You have set justification against sin and tied it to Christ's resurrection. You will rightly condemn me if I turn it into a catchword, like party colours at an election. You have taken it for granted that Christ's justification and risen life have power to make you pure and true. If I say anything that weakens that sense of its power, or divorces it from your moral life, you will reject it as inconsistent with what your worship has taught you.
 
@@ -92,9 +88,7 @@ Third Sunday after Easter
 [May]{.smallcaps} 15, 1859
 :::
 
-> "*And it came to pass, as He sat at meat with them, He took bread, and blessed it, and brake, and gave to them. And their eyes were opened, and they knew Him; and He vanished out of their sight*."—[Luke]{.smallcaps} xxiv. 30, 31.
-
-*The passage:* As Jesus sat at table with the two disciples, He took bread, blessed it, broke it and gave it to them. Their eyes were opened and they knew Him, and He vanished from their sight.
+> As Jesus sat at table with the two disciples, He took bread, blessed it, broke it and gave it to them. Their eyes were opened and they knew Him, and He vanished from their sight. —[Luke]{.smallcaps} xxiv. 30, 31.
 
 [We]{.smallcaps} tend to suppose that people in the first century had spiritual advantages over people in the nineteenth, and that the inhabitants of Palestine had some access to the Eternal World that the inhabitants of England lack. The Apostles and Evangelists do not encourage this idea. They work to dispel it. Before His Passion, they say, Christ spoke with them about a Kingdom of God, and they had only the most confused glimpses of it. He told them they could not bear then what they would know after He had gone. They describe themselves as misunderstanding Him, as failing most when they thought themselves wisest, and as learning through terrible experience that they were no less cowardly or heartless than anyone around them.
 
@@ -144,9 +138,7 @@ Fourth Sunday after Easter
 [May]{.smallcaps} 22, 1859
 :::
 
-> "*For I verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed, in the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ, to deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus*."—1 [Corinthians]{.smallcaps} v. 3-5.
-
-*The passage:* Paul says that though he is absent in body he is present in spirit, and has already judged the man who did this deed as if he were present. When the Corinthians are gathered together, and his spirit with them in the power of the Lord Jesus, they are in the name of Jesus to hand such a man over to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord Jesus.
+> Paul says that though he is absent in body he is present in spirit, and has already judged the man who did this deed as if he were present. When the Corinthians are gathered together, and his spirit with them in the power of the Lord Jesus, they are in the name of Jesus to hand such a man over to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord Jesus. —1 [Corinthians]{.smallcaps} v. 3-5.
 
 [Here]{.smallcaps} is the awful formula that was supposed to justify all the excommunications of the Middle Ages, and that makes English Churchmen sometimes complain that the power of excommunication has left them. Protestants who love the name of St. Paul, and have looked to him as a witness against the evils they complain of, do not like to think he gave any warrant for what sometimes seems the greatest of those evils. They try to explain the words away, or to limit them to the Apostle's own times. Neither expedient has worked. Our conscience rebels against trifling with any words, most of all those we profess to receive as oracles. It asks whether St. Paul was not laying the foundation of a fellowship that was to last for ever, and whether its principles can change from one generation to the next.
 
@@ -184,9 +176,7 @@ Fifth Sunday after Easter
 [May]{.smallcaps} 29, 1859
 :::
 
-> "*But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above): or, Who shall descend into the deep? (that is, to bring up Christ again from the dead). But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach; that if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised Him from the dead, thou shalt be saved*."—[Romans]{.smallcaps} x. 6-9.
-
-*The passage:* The righteousness that comes from faith says: do not say in your heart, "Who will go up to heaven?" (to bring Christ down), or "Who will go down into the deep?" (to bring Christ back from the dead). It says instead that the word is near you, in your mouth and in your heart. This is the word of faith that we preach: if you confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.
+> The righteousness that comes from faith says: do not say in your heart, "Who will go up to heaven?" (to bring Christ down), or "Who will go down into the deep?" (to bring Christ back from the dead). It says instead that the word is near you, in your mouth and in your heart. This is the word of faith that we preach: if you confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved. —[Romans]{.smallcaps} x. 6-9.
 
 [St. Paul]{.smallcaps} is contrasting, as he does throughout this Epistle, the righteousness of the law, which consists in mere acts, with the righteousness of faith, which concerns a man's being and comes from trusting a righteous God. Some of his readers, Jews and Gentiles alike, would suppose he was setting aside Moses, or treating him as belonging to an earlier time and made obsolete by the Gospel. Nothing in the letter warrants that. Everywhere Paul has appealed to the Old Testament and its heroes as examples of a righteousness that was personal, not legal. If David and the Psalmists did not contradict the old Lawgiver, neither does Paul. Here he cites the Lawgiver himself. First he quotes Leviticus, which plainly describes legal righteousness: "the man which doeth these things shall live by them." Then he quotes Deuteronomy, which he says describes just as plainly the righteousness of faith. So he is not setting one period's wisdom against another's. He is asserting principles that never change and belong to the constitution of man. A law of letters, graven in stone, could never at any time be the ground of a human being's righteousness, though at all times it could be valuable in defining what must not be done. Trust in a living person could never be swallowed up in obedience to formal rules; trust must always be the root of obedience. Moses proclaimed this in his day as Paul would in his. If it is true, all the intervening history of the world should have shed light on it. And if Paul's Gospel is no delusion, it will not set aside the lessons of the old world but unfold them.
 
@@ -220,9 +210,7 @@ Sunday after Ascension
 [June]{.smallcaps} 5, 1859
 :::
 
-> "*Of Whom the whole family in heaven and earth is named*."—[Ephesians]{.smallcaps} iii. 15.
-
-*The passage:* The whole family in heaven and on earth takes its name from Him.
+> The whole family in heaven and on earth takes its name from Him. —[Ephesians]{.smallcaps} iii. 15.
 
 [Many]{.smallcaps} people who take comfort in Christ's death and resurrection give little thought to His Ascension. They say: "Those facts touch what we suffer and what we see our friends suffer. They answer the anguish of individual conscience; the open grave and the mourners in our streets bring them to mind; they belong to ordinary experience. The Ascension may suit dreamers and visionaries. We sometimes long for a few hours of cloister life, when our spirits might mount up like eagles toward the sun. But we live amid bustle, distraction, humbling work and daily duties, and must dwell among them. Shouldn't we accept our lot and keep our souls low, not busying ourselves with matters too high for us? Isn't that part of the humility we are told to keep, which is hard enough to keep even with all our caution?"
 
@@ -256,9 +244,7 @@ Whit- Sunday
 [June]{.smallcaps} 12, 1859
 :::
 
-> "*For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind*."—2 [Timothy]{.smallcaps} i. 7.
-
-*The passage:* God has not given us a spirit of fear, but of power, of love, and of a sound mind.
+> God has not given us a spirit of fear, but of power, of love, and of a sound mind. —2 [Timothy]{.smallcaps} i. 7.
 
 [Many]{.smallcaps} readers of this passage, I doubt not, put the emphasis on the word *us*. They take St. Paul to be saying: "An ordinary man in your position would fear and tremble. You oversee a society made of contradictory elements, troubled by strange doctrines, and exposed to a commercial and corrupt city. Such a man would be assailed by cowardly thoughts of what others will say of him, crushed by responsibility, and anxious about future calamities. But it is not so with you or with me. Young as you are, God has put you beyond such temptations by a peculiar gift. You are as free from fightings and terrors as I, your spiritual father, am."
 
@@ -308,9 +294,7 @@ Trinity Sunday
 [June]{.smallcaps} 19, 1859
 :::
 
-> "*One Lord, one faith, one baptism, one God and Father of all, Who is above all, and through all, and in you all*."—[Ephesians]{.smallcaps} iv. 5, 6.
-
-*The passage:* There is one Lord, one faith, one baptism, one God and Father of all, who is above all, and through all, and in you all.
+> There is one Lord, one faith, one baptism, one God and Father of all, who is above all, and through all, and in you all. —[Ephesians]{.smallcaps} iv. 5, 6.
 
 [There]{.smallcaps} was a time when Trinity Sunday sermons were expected to be controversial. On other days the preacher might speak to the concerns all his hearers shared: their conscience of evil, their desire for good, the toils and temptations of the week. On this day he had the privilege, or the duty, of refuting objectors and establishing his conclusions. He might show strategic skill in choosing his ground. He might defend, and defy the deniers of our Creeds to prove anything against a mystery beyond all human thought. Or he might argue that a long tradition outweighs a small minority of dissenters. Or he might gather texts from various parts of the Bible and argue that together they make the doctrine more probable than the opposing texts make it improbable. Or he might rest everything on one text, claiming that if it stays in the Canon, the question is settled for all who grant Scripture divine authority.
 
@@ -371,9 +355,7 @@ First Sunday after Trinity
 [June]{.smallcaps} 26, 1859
 :::
 
-> "*Verily I say unto you, Among them that are born of women there hath not risen a greater than John the Baptist: notwithstanding he that is least in the kingdom of heaven is greater than he*."—[Matthew]{.smallcaps} xi. 11.
-
-*The passage:* Jesus says that among those born of women no one has risen who is greater than John the Baptist, yet the least in the kingdom of heaven is greater than he.
+> Jesus says that among those born of women no one has risen who is greater than John the Baptist, yet the least in the kingdom of heaven is greater than he. —[Matthew]{.smallcaps} xi. 11.
 
 [The]{.smallcaps} Festival of John the Baptist has fallen this year in the week that began with Trinity Sunday. That is why I chose this passage, and it may help us understand it.
 
@@ -419,9 +401,7 @@ Second Sunday after Trinity
 [July]{.smallcaps} 3, 1859
 :::
 
-> "*Thou shalt not be affrighted at them: for the Lord thy God is among you, a mighty God and terrible*."—[Deuteronomy]{.smallcaps} vii. 21.
-
-*The passage:* You are not to be afraid of them, for the Lord your God is among you, a mighty and terrible God.
+> You are not to be afraid of them, for the Lord your God is among you, a mighty and terrible God. —[Deuteronomy]{.smallcaps} vii. 21.
 
 [It]{.smallcaps} has often been complained, and lately with much force, that the qualities Christians are urged to cultivate are not manliness and courage. Where the Christian ideal is steadily set before a nation or a man, the mind, it is said, becomes submissive rather than energetic. There is apparent evidence for this. The old Saxon strength in England decayed after a time under priestly culture. When unsparing enemies revived it, much of the old Paganism came back into the people's habits and literature. "How," it has been asked, "has that strength been kept in our sons? The upper classes are nourished on heathen books; Homer has at least as much share in their training as the Sermon on the Mount. Rough and even brutal sports were cherished among the lower people until very lately. Are we sure that if more directly Christian influences changed either of these, we should not feel it, if we were asked to resist an invader as other nations are?"
 
@@ -465,9 +445,7 @@ Third Sunday after Trinity
 [July]{.smallcaps} 10, 1859
 :::
 
-> "*It shall be, if He call thee, that thou shalt say, Speak, Lord; for Thy servant heareth*."—1 [Samuel]{.smallcaps} iii. 9.
-
-*The passage:* If the Lord calls you, you are to say, "Speak, Lord, for your servant is listening."
+> If the Lord calls you, you are to say, "Speak, Lord, for your servant is listening." —1 [Samuel]{.smallcaps} iii. 9.
 
 [A reader]{.smallcaps} of Scripture who meets a story like today's first Lesson often reasons this way: "I, or the preacher, may apply this to my own circumstances. I may feel that God is in some sense speaking to me as He spoke to the child Samuel. But I must remember it is not in the same sense, and I must beware of fanatical impressions. Yet I must not discard the plain letter. Samuel, we are told, heard an actual voice, and to doubt that is to doubt inspiration and remake the record to suit our notions." The purpose is honest: a wish to learn from Scripture and a fear of treating it or our own times unfairly. Yet those who take this course fall into sad confusions.
 
@@ -509,9 +487,7 @@ Fourth Sunday after Trinity
 [July]{.smallcaps} 17, 1859
 :::
 
-> "*Waiting for the adoption, to wit, the redemption of our body*."—[Romans]{.smallcaps} viii. 23.
-
-*The passage:* We are waiting for our adoption, which is the redemption of our body.
+> We are waiting for our adoption, which is the redemption of our body. —[Romans]{.smallcaps} viii. 23.
 
 [Few]{.smallcaps} would deny that the passage chosen for today's Epistle is magnificent. Our likely complaint is that it is *too* magnificent. It lifts us out of ordinary life into an atmosphere that only a Saint or Apostle could be expected to breathe. We would prefer a divinity more level with our wants and sins. We think we need help against the petty temptations of each day, not grand anticipations of a future for mankind and the earth.
 
@@ -557,9 +533,7 @@ Fourth Sunday after Trinity
 [July]{.smallcaps} 17, 1859
 :::
 
-> "*Oh that Thou wouldest rend the heavens, that Thou wouldest come down, that the mountains might flow down at Thy presence, as when the melting fire burneth, the fire causeth the waters to boil, to make Thy name known to Thine adversaries, that the nations may tremble at Thy presence*!"—[Isaiah]{.smallcaps} lxiv. 1, 2.
-
-*The passage:* Isaiah cries out that God would tear open the heavens and come down, so that the mountains would melt at His presence as when fire burns and makes water boil. He asks this so that God's name would be made known to His adversaries and the nations would tremble before Him.
+> Isaiah cries out that God would tear open the heavens and come down, so that the mountains would melt at His presence as when fire burns and makes water boil. He asks this so that God's name would be made known to His adversaries and the nations would tremble before Him. —[Isaiah]{.smallcaps} lxiv. 1, 2.
 
 [This]{.smallcaps} is nothing less than a prayer that God would show Himself as a Judge, and as a Destroyer. It is unlike the prayers we are naturally inclined to offer, and unlike the prayers many grave and religious counsellors would have us offer: "O God, remain far from us, hidden from us; teach us to escape Thy judgments! Let Saints, Angels, the Virgin-Mother, Thy Son, stand between us and Thy burning wrath!" These cries rise from the natural heart of man, and they seem justified by religion as well as reason. Is the preacher not sent to tell us how terrible God's wrath is, and how fearful it is to fall into the hands of the living God? Is he not sent to tell us, in the words of this same prophet, of a Man "Who shall be a hiding-place from the wind and a covert from the tempest"?
 
@@ -591,9 +565,7 @@ Fifth Sunday after Trinity
 [July]{.smallcaps} 24, 1859
 :::
 
-> "*For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me*."—1 [Corinthians]{.smallcaps} ix. 17.
-
-*The passage:* Paul says that if he does this work willingly he has a reward, but that if he does it against his will, a stewardship of the gospel has still been entrusted to him.
+> Paul says that if he does this work willingly he has a reward, but that if he does it against his will, a stewardship of the gospel has still been entrusted to him. —1 [Corinthians]{.smallcaps} ix. 17.
 
 "[That]{.smallcaps} man is a mere official," people say. "He does his work today as he has done it for thirty or forty years: punctual and accurate, without interest or enthusiasm, successful as a machine is, with nothing of a man's feeling or life." We have all heard such remarks, and most of us have found them just in some cases, and terrible when just. Some add that this is a peculiarly English failing. Nowhere, they say, do men so readily become officials, or does the dry sense of duty so swallow up the passion for glory, personal affection, delight in what is good for its own sake, and even the hope of any tangible reward. Pleasure in the past and hope for the future shrink into a bare admission that certain services must be performed, which the performer would gladly do in his sleep if he could.
 
@@ -627,9 +599,7 @@ Eighteenth Sunday after Trinity
 [October]{.smallcaps} 23, 1859
 :::
 
-> "*I have hated them that hold of superstitious vanities: and my trust hath been in the Lord*."—[Psalm]{.smallcaps} xxxi. 7 (*Prayer-book version*).
-
-*The passage:* "I have hated those who hold to superstitious vanities, and my trust has been in the Lord." (Psalm xxxi. 7, Prayer-book version)
+> "I have hated those who hold to superstitious vanities, and my trust has been in the Lord." (Psalm xxxi. 7, Prayer-book version) —[Psalm]{.smallcaps} xxxi. 7 (*Prayer-book version*).
 
 [The]{.smallcaps} doctrine of this text is very unlike one often heard today from many quarters. We are told, and are apt to think, that superstition is excessive faith, and that it shrinks as intelligence grows because faith shrinks. We are told that anyone who wants to rouse ignorant, common people to faith in God must appeal more or less directly to their superstition. Most of us can remember accepting this as an axiom and drawing practical conclusions from it. When we were keenly alive to the horrors of superstition, we were willing to risk losing faith in order to be rid of them. When the reaction came, and we felt the world could not go on safely without faith, we were ready to tolerate a good deal of superstition, lest faith perish along with it.
 
@@ -667,9 +637,7 @@ Nineteenth Sunday after Trinity
 [October]{.smallcaps} 30, 1859
 :::
 
-> "*Let Thy priests be clothed with righteousness; and let Thy saints sing with joyfulness*."—[Psalm]{.smallcaps} cxxxii. 9 (*Prayer-book Version*).
-
-*The passage:* The psalmist prays that God's priests be clothed with righteousness and that His saints sing for joy.
+> The psalmist prays that God's priests be clothed with righteousness and that His saints sing for joy. —[Psalm]{.smallcaps} cxxxii. 9 (*Prayer-book Version*).
 
 [What]{.smallcaps} did "Priests" and "Saints" mean to a Jew? Why does the Psalmist see such a close connection between the righteousness of the one and the joy of the other? Are the names obsolete? Have their meanings changed? Do those who bear them still affect one another as they did in the old times? These are the questions I propose to consider this afternoon.
 
@@ -717,9 +685,7 @@ Twentieth Sunday after Trinity
 [November]{.smallcaps} 6, 1859
 :::
 
-> "*Nevertheless we, according to His promise, look for new heavens and a new earth, wherein dwelleth righteousness*."—2 [Peter]{.smallcaps} iii. 13.
-
-*The passage:* In keeping with God's promise, we look for new heavens and a new earth in which righteousness lives.
+> In keeping with God's promise, we look for new heavens and a new earth in which righteousness lives. —2 [Peter]{.smallcaps} iii. 13.
 
 [The]{.smallcaps} language of the Bible, if it is the book we believe it to be, must be simple language, suited to people of every condition. But what we assume to be the simplest and most natural reading of it may not actually be so. Our reading may come from very artificial habits of ours, or we may have adopted it without looking at the context and at similar passages. When these are examined, we may find a meaning just as near to us and just as open to ordinary illustration, but far richer, fuller, and more helpful in the work of our lives.
 
@@ -775,9 +741,7 @@ Twenty-first Sunday after Trinity
 [November]{.smallcaps} 13, 1859
 :::
 
-> "*Peace I leave with you, My peace I give unto you: not as the world giveth, give I unto you*."—[John]{.smallcaps} xiv. 27.
-
-*The passage:* Jesus says to his disciples: "I leave peace with you; I give you my peace. I do not give it as the world gives."
+> Jesus says to his disciples: "I leave peace with you; I give you my peace. I do not give it as the world gives." —[John]{.smallcaps} xiv. 27.
 
 [These]{.smallcaps} words were spoken to the Apostles on the night of our Lord's betrayal. A few hours after receiving this gift of peace, their souls were more disturbed than ever before. They saw the One in whom they trusted to redeem Israel handed over to the heathen. Their own rulers condemned Him, no hosts of Angels came to rescue Him, and soon they themselves forsook Him and fled. That last act must have added the sharpest stings of conscience to all their other sorrows. They had lost not only Him but themselves. The Cross and the grave did not separate Him from them so much as the memory that they had been false to Him.
 
@@ -809,9 +773,7 @@ Sunday before Advent
 [November]{.smallcaps} 20, 1859
 :::
 
-> "*For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places*."—[Ephesians]{.smallcaps} vi. 12.
-
-*The passage:* We do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+> We do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. —[Ephesians]{.smallcaps} vi. 12.
 
 [Many]{.smallcaps} of you think England may not always be as safe from invasion as she has supposed. You hold that security is dangerous and that preparing for every possibility is a duty. You do not claim to be seers, and you may often change your minds about omens of calamity, since clouds that looked black yesterday may be gone today. But you say a nation should not have to speculate about contingencies. It should always be ready for the worst, so that it can pursue its ordinary work calmly. When it is most conscious of its own strength, it will be least suspicious and restless about its neighbours.
 

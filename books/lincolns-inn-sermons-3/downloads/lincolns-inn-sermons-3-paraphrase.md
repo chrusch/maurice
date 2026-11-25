@@ -58,9 +58,7 @@ Second Sunday in Advent
 [December]{.smallcaps} 6, 1857
 :::
 
-> "*That we through patience and comfort of the Scriptures might have hope*."—[Romans]{.smallcaps} XV. 4.
-
-*The passage:* Whatever was written before was written for our instruction, so that through patience and the encouragement the Scriptures give we might have hope.
+> Whatever was written before was written for our instruction, so that through patience and the encouragement the Scriptures give we might have hope. —[Romans]{.smallcaps} XV. 4.
 
 [Many]{.smallcaps} people ask how we can recommend the Bible to Hindoos and Mussulmans—what authority it has that the Vedas or the Koran, said to be dictated directly to the Prophet, lack; what apologies will convince the learned; how the ignorant can be brought to feel that so strange a book deserves their attention.
 
@@ -114,7 +112,7 @@ Third Sunday in Advent
 [December]{.smallcaps} 13, 1857
 :::
 
-*The passage:* John, hearing in prison of the works of Christ, sent two of his disciples to ask Him, "Are you the one who is to come, or should we look for another?"
+John, hearing in prison of the works of Christ, sent two of his disciples to ask Him, "Are you the one who is to come, or should we look for another?"
 
 The Gospel for today was chosen, I have no doubt, mainly for Christ's words about John — that the ministers of the New Covenant are Prophets of the Advent of a King, Messengers to prepare His way, and that their work, however small they may seem, is greater than that of the greatest who came before the Incarnation.
 
@@ -204,9 +202,7 @@ St. John's Day
 [December]{.smallcaps} 27, 1857
 :::
 
-> "*And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven. But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth*." —[Matthew]{.smallcaps} viii. 11, 12.
-
-*The passage:* Many will come from east and west and sit down with Abraham, Isaac, and Jacob in the kingdom of heaven; but the children of the kingdom will be cast into outer darkness, where there will be weeping and gnashing of teeth.
+> Many will come from east and west and sit down with Abraham, Isaac, and Jacob in the kingdom of heaven; but the children of the kingdom will be cast into outer darkness, where there will be weeping and gnashing of teeth. —[Matthew]{.smallcaps} viii. 11, 12.
 
 [This]{.smallcaps} is St. John's Day. The two Apocalypse chapters we have read commemorate it beautifully. The first shows how the Apostle wished his contemporaries to think of him — one who bore witness to the Word of God and the testimony of Jesus Christ, their brother and companion in tribulation, and in the Kingdom and patience of Jesus Christ. The second shows what that Kingdom was, in which he lived and for which he waited.
 
@@ -250,9 +246,7 @@ Sunday after Christmas
 (*Preached at Christ Church, Marylebone, for District Relief and Provident Societies*)
 :::
 
-> "*For ye know the grace of our Lord Jesus Christ, that, though He was rich, yet for your sakes He became poor, that ye through His poverty might be rich*."—2 [Corinthians]{.smallcaps} viii. 9.
-
-*The passage:* Paul says that Christ, though rich, became poor for our sake, so that through his poverty we might become rich.
+> Paul says that Christ, though rich, became poor for our sake, so that through his poverty we might become rich. —2 [Corinthians]{.smallcaps} viii. 9.
 
 [When]{.smallcaps} a beggar asks alms of me for Christ's sake, can I safely refuse? When wise and experienced people assure me that answering his prayer does actual harm to society, dare I give him anything? These questions trouble many of us, and not only regarding street beggars — they apply widely. Some tell us that almost every gift we make indulges a fancy and violates a law. Others say the most indiscriminate kindness is most like God's own, who gives liberally to all and sends his rain on the just and the unjust. These opposing views do not merely distract us; they often drive us to conclude that no principle at all can guide us — or, more dangerously still, that there are two principles: one for earth, proved true by experience and followed as the rule, the other for heaven, enjoined by the Bible and followed only occasionally.
 
@@ -296,9 +290,7 @@ First Sunday of the Year
 [January]{.smallcaps} 3, 1858
 :::
 
-> "*Or despisest thou the riches of His goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance*?"—[Romans]{.smallcaps} ii. 4.
-
-*The passage:* Do you despise the riches of God's goodness, forbearance, and longsuffering, not realizing that God's goodness is meant to lead you to repentance?
+> Do you despise the riches of God's goodness, forbearance, and longsuffering, not realizing that God's goodness is meant to lead you to repentance? —[Romans]{.smallcaps} ii. 4.
 
 [The]{.smallcaps} year we have passed through has been, for Englishmen at least, one of terrible excitement—not public excitement only, but shared at every hearth. Even had it been a quiet year, each of our own private circumstances would still have carried reminders of change, and warnings of more change to come.
 
@@ -350,9 +342,7 @@ Sunday after the Epiphany
 [January]{.smallcaps} 10, 1858
 :::
 
-> "*A light to lighten the Gentiles, and the glory of Thy people Israel*." —[Luke]{.smallcaps} ii. 32.
-
-*The passage:* Simeon, holding the infant Christ, calls him a light to lighten the Gentiles, and the glory of God's people Israel.
+> Simeon, holding the infant Christ, calls him a light to lighten the Gentiles, and the glory of God's people Israel. —[Luke]{.smallcaps} ii. 32.
 
 [Two]{.smallcaps} apparently unconnected subjects came before us on Epiphany day. The Gospel told of the Magi led by a star to Christ's cradle; the Epistle told of St. Paul preaching to the Ephesians. What connects these — what has a star in the heavens to do with the sermons of a tent-maker?
 
@@ -390,9 +380,7 @@ Second Sunday after the Epiphany
 [January]{.smallcaps} 17, 1858
 :::
 
-> "*My soul is athirst for God, yea, even for the living God: when shall I come to appear before the presence of God*?"—[Psalm]{.smallcaps} xlii, 2 (*Prayer-book Version*).
-
-*The passage:* The Psalmist says his soul thirsts for God, the living God, and asks when he will come to appear before God's presence.
+> The Psalmist says his soul thirsts for God, the living God, and asks when he will come to appear before God's presence. —[Psalm]{.smallcaps} xlii, 2 (*Prayer-book Version*).
 
 [It]{.smallcaps} is often said that the Psalms are out of place in our common service. All are invited to that service, and many come, at least on Sundays, whose minds are not especially devout. Yet we give them language that expressed the most fervent longings of the most devout men — language that even the private suppliant often finds far above his own thoughts. How can we offer such words month after month to an ordinary congregation, as though they could speak what it was actually feeling?
 
@@ -442,9 +430,7 @@ Third Sunday after the Epiphany
 [January]{.smallcaps} 24, 1858
 :::
 
-> "*For He brought them out of darkness, and out of the shadow of death: and brake their bonds in sunder*."—[Psalm]{.smallcaps} cvii. 14 (*Prayer-book Version*).
-
-*The passage:* God brought his people out of darkness and the shadow of death, and broke their chains apart.
+> God brought his people out of darkness and the shadow of death, and broke their chains apart. —[Psalm]{.smallcaps} cvii. 14 (*Prayer-book Version*).
 
 [I believe]{.smallcaps} it is a common notion, backed by divines and eagerly seized by infidels, that the Bible discourages men's natural desire for Freedom as something secular and profane. Our evil nature, we're told, cries out for Liberty; Subjection and Obedience are Christianity's watchwords. There may be a regulated liberty compatible with religion, it is said — but one that religion imposes rather than one it awakens.
 
@@ -477,9 +463,7 @@ Septuagesima Sunday
 [January]{.smallcaps} 31, 1858
 :::
 
-> "*But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light. Wherefore he saith, Awake, thou that sleepest, and arise from the dead, and Christ shall give thee light*."—[Ephesians]{.smallcaps} V. 13, 14.
-
-*The passage:* Everything that is exposed is made visible by light, for whatever makes things visible is itself light. That is why it is said: Wake up, sleeper, rise from the dead, and Christ will shine on you.
+> Everything that is exposed is made visible by light, for whatever makes things visible is itself light. That is why it is said: Wake up, sleeper, rise from the dead, and Christ will shine on you. —[Ephesians]{.smallcaps} V. 13, 14.
 
 [In]{.smallcaps} the Gospels appointed for the Sundays between Epiphany and this Septuagesima, the Church sets before us various acts by which our Lord manifested His glory to the minds of His own countrymen.
 
@@ -515,9 +499,7 @@ Sexagesima Sunday
 [February]{.smallcaps} 7, 1858
 :::
 
-> "*And He spake a parable unto them to this end, that men ought always to pray, and not to faint; saying, There was in a city a judge, which feared not God, neither regarded man: and there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary. And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man; yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me. And the Lord said, Hear what the unjust judge saith. And shall not God avenge His own elect, which cry day and night unto Him, though He bear long with them? I tell you that He will avenge them speedily*."—[Luke]{.smallcaps} xviii. 1-8.
-
-*The passage:* Jesus told a parable to teach that people ought always to pray and never lose heart. In a certain city there was a judge who feared neither God nor man. A widow there kept coming to him, saying, "Give me justice against my adversary." For a long time he refused, but at last he said to himself, "Though I fear no God and respect no man, because this widow keeps bothering me I will give her justice, or she will wear me out by her endless coming." And the Lord said: Listen to what the unjust judge says. Will not God give justice to his chosen, who cry to him day and night, even though he is slow to act? He will avenge them speedily.
+> Jesus told a parable to teach that people ought always to pray and never lose heart. In a certain city there was a judge who feared neither God nor man. A widow there kept coming to him, saying, "Give me justice against my adversary." For a long time he refused, but at last he said to himself, "Though I fear no God and respect no man, because this widow keeps bothering me I will give her justice, or she will wear me out by her endless coming." And the Lord said: Listen to what the unjust judge says. Will not God give justice to his chosen, who cry to him day and night, even though he is slow to act? He will avenge them speedily. —[Luke]{.smallcaps} xviii. 1-8.
 
 "[Yes]{.smallcaps}!" people have said, or at least thought, on reading this—"If God were an unjust judge, we might need to wear him down with petitions. But since he is wholly just and merciful, what need is there for such persistence? Does he not give generously to all, sending rain on the righteous and unrighteous alike? What proof is there that his generosity depends at all on our asking? What evidence, beyond some records of fanatical experience, that prayers are actually answered in the ordinary sense of that word? And if not, what in this parable, or any other, should encourage us to pray and not faint, or suggest we would not do just as well without praying at all?"
 
@@ -547,9 +529,7 @@ Quinquagesima Sunday
 [February]{.smallcaps} 14, 1858
 :::
 
-> "*Prove all things; hold fast that which is good. Abstain from all appearance of evil*."—1 [Thessalonians]{.smallcaps} v. 21, 22.
-
-*The passage:* Test everything; hold on to what is good; keep away from every form of evil.
+> Test everything; hold on to what is good; keep away from every form of evil. —1 [Thessalonians]{.smallcaps} v. 21, 22.
 
 [This]{.smallcaps} verse's last clause is commonly taken to mean, "Abstain from everything that looks like evil, that a bystander might suspect to be evil." You will hear clergy as well as laymen alter the sentence to "Abstain from the very appearance of evil" or "even from the appearance of evil," and many readers vaguely suppose such wording exists somewhere in the Bible. I do not think our translators meant to give St. Paul's words that sense. "Every evil appearance," or "appearance of evil," may simply mean every shape or form evil takes — a fair rendering of the Greek word εἶδος, perhaps preferable to "form" or "kind," the more natural translation. But since, like "species" in the Vulgate, the word "appearance" is ambiguous, one might wish it had never been used.
 
@@ -581,9 +561,7 @@ First Sunday in Lent
 [February]{.smallcaps} 21, 1858
 :::
 
-> "*Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates*?"—2 [Corinthians]{.smallcaps} xiii. 5.
-
-*The passage:* Paul tells the Corinthians to examine themselves, to see whether they are in the faith, and to prove themselves; and asks whether they know that Jesus Christ is in them — unless they fail the test.
+> Paul tells the Corinthians to examine themselves, to see whether they are in the faith, and to prove themselves; and asks whether they know that Jesus Christ is in them — unless they fail the test. —2 [Corinthians]{.smallcaps} xiii. 5.
 
 [We]{.smallcaps} don't usually think about where the word "reprobate" comes from. But ordinary speech keeps its true sense better than theology does. When we call a man an utter reprobate in common talk, we mean that various attempts have been made to reform him, and all have failed — he has been tried and found worthless. Some theologians give the word almost the opposite meaning: a reprobate, for them, is one God has condemned without trial at all, born into the world with a mark of condemnation already known to his Maker, gradually discovered by the man himself, and finally declared to the whole world.
 
@@ -629,9 +607,7 @@ Second Sunday in Lent
 [February]{.smallcaps} 28, 1858
 :::
 
-> "*For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead: and that He died for all, that they which live should not henceforth live unto themselves, but unto Him which died for them, and rose again*."—2 [Corinthians]{.smallcaps} v. 14, 15.
-
-*The passage:* The love of Christ compels us, since we have concluded that if one died for all, then all died — and that he died for all so that those who live should no longer live for themselves, but for him who died for them and rose again.
+> The love of Christ compels us, since we have concluded that if one died for all, then all died — and that he died for all so that those who live should no longer live for themselves, but for him who died for them and rose again. —2 [Corinthians]{.smallcaps} v. 14, 15.
 
 [Either]{.smallcaps} there is a contradiction here, or Paul's idea of love differs from the one most common among us. "The love of Christ constrains us; because we judge" seems to mix a process of reasoning with a compulsion of feeling. If Paul had to argue himself into the conclusion that Christ died for all because all were dead, how can he also say that mere devotion to his Master drove him to act and suffer? If he were under such a passion, what need or room would there be for thinking, deliberating, concluding?
 
@@ -757,9 +733,7 @@ Fifth Sunday in Lent
 [March]{.smallcaps} 21, 1858
 :::
 
-> "*Whose fan is in His hand, and He will throughly purge His floor, and gather His wheat into the garner; but He will burn up the chaff with unquenchable fire*."—[Matthew]{.smallcaps} iii. 12.
-
-*The passage:* John says of Christ, "His fan is in His hand, and He will thoroughly purge His floor, and gather His wheat into the barn; but He will burn up the chaff with unquenchable fire."
+> John says of Christ, "His fan is in His hand, and He will thoroughly purge His floor, and gather His wheat into the barn; but He will burn up the chaff with unquenchable fire." —[Matthew]{.smallcaps} iii. 12.
 
 [When]{.smallcaps} we compare John the Baptist with the Lord whose way he prepared, we commonly stress the severity of the one and the graciousness of the other — the servant standing apart from the world, the Master entering freely into it; John a righteous Reprover condemning sin, Jesus a merciful Saviour bringing forgiveness.
 
@@ -805,9 +779,7 @@ Sunday before Easter
 [March]{.smallcaps} 28, 1858
 :::
 
-> "*For even Christ our passover is sacrificed for us: therefore let us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth*."—I [Corinthians]{.smallcaps} v. 7, 8.
-
-*The passage:* Christ our passover is sacrificed for us; therefore let us keep the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.
+> Christ our passover is sacrificed for us; therefore let us keep the feast, not with old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth. —I [Corinthians]{.smallcaps} v. 7, 8.
 
 [This]{.smallcaps} is one of the texts for Easter Day, and may seem an odd choice to open Passion Week with. But Passion Week is the preparation for Easter. To say these words rightly on Resurrection Day we must have pondered them during the week that tells of His Agony and Cross. The plainer we take the words the better; the wonder in them lies not in our interpreting, nor even in the words themselves, but in the fact and the Person they speak of.
 

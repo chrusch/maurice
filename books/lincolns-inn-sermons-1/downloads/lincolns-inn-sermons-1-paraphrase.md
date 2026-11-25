@@ -8,9 +8,7 @@
 [November]{.smallcaps} 30, 1856
 :::
 
-> "*Be ye therefore ready also: for the Son of Man cometh at an hour when ye think not*." —[Luke]{.smallcaps} xii. 40.
-
-*The passage:* Be ready, because the Son of Man comes at an hour you do not expect.
+> Be ready, because the Son of Man comes at an hour you do not expect. —[Luke]{.smallcaps} xii. 40.
 
 [I do]{.smallcaps} not think I can use the Sundays in Advent better than by speaking to you of the Lord's Supper, since you are invited to keep it every week. There are strong reasons for fixing your thoughts on it now, because your thoughts are turned to it often without being fixed on it profitably. You read of debates, trials, legal judgments about it in the newspapers, mixed with all the frivolous talk of the day, until you may be tempted to think it the least serious subject the papers discuss — vague and interminable where other questions lead to results, yet stirring up all the pettiest passions and party stratagems, as if Christians had chosen this topic on purpose to show the world how little love they have for one another.
 
@@ -56,9 +54,7 @@ And if we come to the Eucharist with these desires, it may be a blessing rather 
 [December]{.smallcaps} 7, 1856
 :::
 
-> "*Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.*" —1 [Corinthians]{.smallcaps} x. 11.
-
-*The passage:* All these things happened to the Israelites as examples, and were written down to warn us, upon whom the end of the ages has come.
+> All these things happened to the Israelites as examples, and were written down to warn us, upon whom the end of the ages has come. —1 [Corinthians]{.smallcaps} x. 11.
 
 [The]{.smallcaps} passage this text is drawn from resembles the Epistle we read this morning. In both, St. Paul claims the Jewish Scriptures for Gentile as well as Jewish use, and declares that narratives which seemed to belong only to the chosen people had a wide human application — that their force was no less for his own day than for those Moses or Joshua led, and that the passing of ages would make their warnings and consolations more intelligible and more necessary, not less. "All these things," he writes to the Corinthians, "happened unto them for ensamples: all these things were written for our admonition, upon whom the ends of the world are come." This is the same moral the Church draws today in her Collect, taken from Romans xv.
 
@@ -102,9 +98,7 @@ There are still other difficulties about the Eucharist concerning sacrifice, whi
 [December]{.smallcaps} 14, 1856
 :::
 
-> "*And all things are of God, who hath reconciled us to Himself by Jesus Christ, and hath given to us the ministry of reconciliation*." —2 [Corinthians]{.smallcaps} v. 18.
-
-*The passage:* Everything comes from God, who has reconciled us to himself through Jesus Christ, and has given us the ministry of reconciliation.
+> Everything comes from God, who has reconciled us to himself through Jesus Christ, and has given us the ministry of reconciliation. —2 [Corinthians]{.smallcaps} v. 18.
 
 [Last]{.smallcaps} Sunday I spoke of the Scriptures as explaining Sacraments, and of our Sacraments as throwing light back on the Scriptures' method and hope. But since my aim was to find the character and virtue of the Eucharist itself, I could not stay with general considerations. The Red Sea, the Manna, the Rock were sacraments of God, as Paul taught; the principle they showed might be universal, and every event in the history might be a sign of the same unseen Presence to the Prophets. But Scripture also tells of the special institution of Sacrifices. These had become associated with a Eucharistic service supposed to carry a sacrificial meaning, and I could not avoid asking whether it did. Treating Scripture as the continuous history of a gradual discovery of God's nature and purposes, we are driven to conclude that a time came when the sacrifices of the Law had done their work, and one complete sacrifice was offered once for all. The Eucharist, then, must be a thanksgiving for that complete sacrifice, not the completion of something left unfinished. But Paul tells us every sacrifice implies communion with the Being to whom it is offered; and if the very purpose of the Incarnation and Death was to establish complete communion between men and their Father in Heaven, then the feast celebrating the sacrifice's accomplishment asserts only the beginning of a communion — real now, but not to reach its full fruit until all evil resisting God's righteousness and love is entirely conquered.
 
@@ -144,9 +138,7 @@ In modern times, people weary of the oppressions of a body calling itself the Un
 [December]{.smallcaps} 21, 1856
 :::
 
-> "*Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, looking unto Jesus the Author and Finisher of our faith; Who for the joy that was set before Him endured the cross, despising the shame, and is set down at the right hand of the throne of God*."—[Hebrews]{.smallcaps} xii. 1, 2.
-
-*The passage:* Since we are surrounded by so great a cloud of witnesses, let us lay aside every weight and the sin that so easily entangles us, and run with patience the race set before us, looking to Jesus, the Author and Finisher of our faith, who for the joy set before Him endured the cross, despising the shame, and is now seated at the right hand of the throne of God.
+> Since we are surrounded by so great a cloud of witnesses, let us lay aside every weight and the sin that so easily entangles us, and run with patience the race set before us, looking to Jesus, the Author and Finisher of our faith, who for the joy set before Him endured the cross, despising the shame, and is now seated at the right hand of the throne of God. —[Hebrews]{.smallcaps} xii. 1, 2.
 
 [The]{.smallcaps} Collects for the other Sundays in Advent seem shaped by the Epistles that follow them. This day's Collect seems to express the opposite temper from the Epistle: the Epistle speaks of "sore lets and hindrances" in running our race, while elsewhere we are told, "Rejoice evermore." How can such melancholy fit with St. Paul's command to rejoice?
 
@@ -192,9 +184,7 @@ And now we may begin to grasp the force of the words, "Take, eat, this is My bod
 [December]{.smallcaps} 28, 1856
 :::
 
-> "*And Jesus called a little child unto Him, and set him in the midst of them, and said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven*."—[Matthew]{.smallcaps} xviii. 2, 3.
-
-*The passage:* Jesus called a little child to Him, stood the child among the disciples, and said that unless they were converted and became like little children, they could not enter the kingdom of heaven.
+> Jesus called a little child to Him, stood the child among the disciples, and said that unless they were converted and became like little children, they could not enter the kingdom of heaven. —[Matthew]{.smallcaps} xviii. 2, 3.
 
 [I had]{.smallcaps} planned to keep my sermons on the Eucharist within the four weeks of Advent. But Innocents' Day suggests some thoughts I want to connect to that subject, and I don't regret giving this Sunday after Christmas, the last of the year, to it.
 
@@ -240,9 +230,7 @@ I offer this as a thought for the close of the year — may it ripen and bear fr
 [January]{.smallcaps} 4, 1857
 :::
 
-> "*This is the will of God, even your sanctification*." —1 [Thess]{.smallcaps}. iv. 3.
-
-*The passage:* This is the will of God, even your sanctification. —1 Thessalonians iv. 3.
+> This is the will of God, even your sanctification. —1 Thessalonians iv. 3. —1 [Thess]{.smallcaps}. iv. 3.
 
 [As]{.smallcaps} long as we treat the main word in this text as a technical term, I doubt we will understand what St. Paul meant by it. He was not writing a system of theology but a letter to men working and suffering in the world, who needed strength for it. When he spoke of sanctification he spoke of something bound up with their everyday business, something every busy man might feel he needed. A learned man trying to get a definition from a book would always miss it; a simple person actually fighting the battle of life would grasp something of it at once, and see further into it the harder he was pressed. For what does such a man discover, in the first century or the nineteenth? This: it is hard to do what I ought; harder still, with many arguments before me, to know what I ought to do. Advice from others helps, though often it misses my real difficulty — it does not clear the mist from my eyes or heal the lameness in my walk. Still, when the question is about acts, I can take a friend's advice, or balance opposing counsels. But how different when the question is not what to do but how to *be* right! I may go a long time without asking whether my words and deeds express what is really in me, or whether I merely adopted them as expected, changing them as I move from one society to another like currency crossing a border. I would gladly dismiss the question, but it returns. I cannot claim to be honest without facing it — and facing it, what insincerity comes to light! In secret hours I am put on a rack far more searching than any the world could apply. And words I once heard lightly now repeat this examination and sharpen the torture: people complimenting themselves and each other on their sincerity, as if that at least were secure to them. What would I not give to buy their secret, to reach so easily the blessing they seem to hold so securely!
 
@@ -278,9 +266,7 @@ There is another lesson in this Circumcision Festival that should stay with us t
 [January]{.smallcaps} 11, 1857
 :::
 
-> "*But if our Gospel be hid, it is hid to them that are lost: in whom the God of this world hath blinded the minds of them which believe not, lest the light of the glorious Gospel of Christ, Who is the Image of God, should shine unto them.*" —2 [Corinthians]{.smallcaps} iv. 3, 4.
-
-*The passage:* If our gospel is hidden, it is hidden to those who are lost — in whom the god of this world has blinded the minds of unbelievers, so that the light of the glorious gospel of Christ, who is the image of God, does not shine on them.
+> If our gospel is hidden, it is hidden to those who are lost — in whom the god of this world has blinded the minds of unbelievers, so that the light of the glorious gospel of Christ, who is the image of God, does not shine on them. —2 [Corinthians]{.smallcaps} iv. 3, 4.
 
 [I noted]{.smallcaps} a few Sundays ago that this Second Epistle to the Corinthians shows more fully than any other of St. Paul's writings his own struggles as a minister to the Gentiles, and what those struggles taught him about the ministry in every age. I return to it for both reasons. The Epiphany season asks how Christ was made known to the Gentiles; it also asks, if we take our own work seriously, how He is made known to men by the Gospel we preach. St. Paul's words in the text answer both questions directly.
 
@@ -314,9 +300,7 @@ To this plausible argument, the answer seems clear. If we believe what the New T
 [January]{.smallcaps} 18, 1857
 :::
 
-> "*For to make in Himself of twain one new man, so making peace*." —[Ephesians]{.smallcaps} ii. 15.
-
-*The passage:* Christ made one new man out of two, Jew and Gentile, and so made peace.
+> Christ made one new man out of two, Jew and Gentile, and so made peace. —[Ephesians]{.smallcaps} ii. 15.
 
 [Last]{.smallcaps} Sunday I considered why Jews and Gentiles both rejected the Gospel, and why St. Paul traced this dislike in both to their worship of the god of this world. Today I want to examine how Jews and Gentiles were brought into one Church or body by the Gospel. I think this too belongs to Epiphany, and may help us see why the Church prays on this Second Sunday after Epiphany, and with what confidence, that God will grant us also His peace all our days.
 
@@ -356,9 +340,7 @@ THIRD SUNDAY AFTER EPIPHANY
 [January]{.smallcaps} 25, 1857
 :::
 
-> "*Whereupon, O King Agrippa, I was not disobedient unto the heavenly vision; but shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judea, and then to the Gentiles, that they should repent and turn to God, and do works meet for repentance*."—[Acts]{.smallcaps} xxvi. 19, 20.
-
-*The passage:* Paul tells King Agrippa that he was not disobedient to the heavenly vision, but preached first to the people of Damascus and Jerusalem and all Judea, and then to the Gentiles, that they should repent and turn to God, and do works fitting repentance.
+> Paul tells King Agrippa that he was not disobedient to the heavenly vision, but preached first to the people of Damascus and Jerusalem and all Judea, and then to the Gentiles, that they should repent and turn to God, and do works fitting repentance. —[Acts]{.smallcaps} xxvi. 19, 20.
 
 [Was]{.smallcaps} this the only effect of the vision Paul saw on the road to Damascus? If he had simply said that afterward he began to defend the faith of Jesus Christ in Damascus, Jerusalem, Judea, and among the Gentiles, we could understand that a great change had happened in him. But was it a change that he now called his countrymen to repent? Was it a change that he thought Gentiles needed repentance even more? These questions connect with what I have been considering since Epiphany, and are raised directly by today's Festival. They concern the force of the word *Conversion*, and everything associated with it from Paul's day to ours.
 
@@ -544,9 +526,7 @@ This is our teaching for the Sunday before Lent. What then should be the subject
 (MORNING)
 :::
 
-> "*For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: who shall change our vile body, that it may be fashioned like unto His glorious body, according to the working whereby He is able even to subdue all things unto Himself.*"—1 [Philippians]{.smallcaps} iii. 20, 21.
-
-*The passage:* Our citizenship is in heaven, from which we also look for the Savior, the Lord Jesus Christ, who will change our lowly body to be like his glorious body, by the power by which he is able to subdue all things to himself.
+> Our citizenship is in heaven, from which we also look for the Savior, the Lord Jesus Christ, who will change our lowly body to be like his glorious body, by the power by which he is able to subdue all things to himself. —1 [Philippians]{.smallcaps} iii. 20, 21.
 
 [St. Paul]{.smallcaps} had just spoken of church members whose god was their belly, who minded earthly things. It's a plausible view that here he meant to contrast his own mind, and that of those who imitated him as he imitated Christ, with theirs. Our translators probably thought so too, or they would hardly have rendered *politeuma* as "conversation" — a word that in the seventeenth century covered one's whole course and habit of life, not just speech. But it could never carry what a word built from City and Citizen naturally carries: a condition and privilege belonging to certain people whether they used it or forgot it.
 
@@ -578,9 +558,7 @@ It was natural for Paul, having rebuked the earthly-minded by telling them of th
 (AFTERNOON)
 :::
 
-> "*Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you*."—[St. Matthew]{.smallcaps} vii. 6.
-
-*The passage:* Do not give what is holy to dogs, and do not throw your pearls before pigs, or they will trample them and turn and tear you.
+> Do not give what is holy to dogs, and do not throw your pearls before pigs, or they will trample them and turn and tear you. —[St. Matthew]{.smallcaps} vii. 6.
 
 [Churchmen]{.smallcaps} in old times and our own have liked this text. From it come maxims and practices: "holy things for the holy" — hide the Altar from public view, keep a careful reserve about sacred mysteries.
 
@@ -624,9 +602,7 @@ Holding this faith, we shall avoid casting the holy thing before dogs and Christ
 [March]{.smallcaps} 8, 1857
 :::
 
-> "*I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh, for the flesh lusteth against the Spirit, and the Spirit against the flesh: so that ye cannot do the things that ye would*."—[Galatians]{.smallcaps} v. 16, 17.
-
-*The passage:* Walk in the Spirit, Paul says, and you will not carry out what the flesh craves; for the flesh desires against the Spirit, and the Spirit against the flesh, so that you cannot do the things you want to do.
+> Walk in the Spirit, Paul says, and you will not carry out what the flesh craves; for the flesh desires against the Spirit, and the Spirit against the flesh, so that you cannot do the things you want to do. —[Galatians]{.smallcaps} v. 16, 17.
 
 [When]{.smallcaps} I spoke last week on "Give not that which is holy unto the dogs," my aim was not merely to correct dangerous inferences drawn from it, or to reconcile it with "Judge not." I wanted still more to fix in your minds that there is in each of us a holy thing and a bestial nature, and that we are most likely to hand the holy thing over to the bestial nature—in ourselves and in our brother—precisely when we see only the worse in him and refuse to credit him with the better. Those lessons are a fitting introduction to the passage I have just read, which I know of nothing more instructive, or more suited to this season.
 
@@ -670,9 +646,7 @@ And so, when I call this lesson about the flesh and the spirit especially a Lent
 [March]{.smallcaps} 15, 1857
 :::
 
-> "*Who gave Himself for our sins, that He might deliver us from this present evil world, according to the will of God and our Father*."—[Galatians]{.smallcaps} i. 4.
-
-*The passage:* Christ gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father.
+> Christ gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father. —[Galatians]{.smallcaps} i. 4.
 
 [Lent]{.smallcaps} reminds us of the three enemies our Godfathers and Godmothers renounced for us in Baptism. Last week St. Paul told us in what sense he called the *flesh* our enemy. Today let us consider what he means by "this present *evil* world."
 
@@ -722,9 +696,7 @@ If we hold that conviction, we may overcome the great danger of our age — that
 [March]{.smallcaps} 22, 1857
 :::
 
-> "*Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: whom resist steadfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world*."—1 [Peter]{.smallcaps} v. 8, 9.
-
-*The passage:* Be sober and alert, because your adversary the devil prowls like a roaring lion, looking for someone to devour. Resist him, standing firm in the faith, knowing that your brothers throughout the world are undergoing the same sufferings.
+> Be sober and alert, because your adversary the devil prowls like a roaring lion, looking for someone to devour. Resist him, standing firm in the faith, knowing that your brothers throughout the world are undergoing the same sufferings. —1 [Peter]{.smallcaps} v. 8, 9.
 
 [I have]{.smallcaps} heard preachers say it is hard to convince men of a devil's existence — that people scarcely know if they believe it themselves. I think this is wrong. People already believe in a devil, whatever else they lack faith in. I wish I were as sure that we always believed in God.
 
@@ -758,9 +730,7 @@ But I care much more that we not shrink, from shame of an old and vulgar opinion
 [March]{.smallcaps} 29, 1857
 :::
 
-> "*Blessed be the Lord my strength, which teacheth my hands to war, and my fingers to fight.*"—[Psalm]{.smallcaps} cxliv. 1.
-
-*The passage:* Blessed be the Lord my strength, who trains my hands for war and my fingers for battle.
+> Blessed be the Lord my strength, who trains my hands for war and my fingers for battle. —[Psalm]{.smallcaps} cxliv. 1.
 
 [On]{.smallcaps} the last Sundays I have gone over the lessons we teach children, trying to show they suit grown men too. I spoke of the adversaries we face if we live on this earth, and can face if we are, as the old formulary says, members of Christ, children of God, heirs of the Kingdom of Heaven. I reversed the Catechism's order: the lusts of the flesh first, the pomps and vanity of the world next, the devil last—but kept its careful ancient language. The flesh itself is not an enemy; we believe in the resurrection of the flesh. But the lusts of the flesh, its wish to be supreme, involve sin, the degradation of both body and spirit. The world itself is not our enemy; it is loved and redeemed by God—nature precious, humanity more precious still. But the pomps and vanity of the world—the outward show that dazzles us and hides nature's real worth, the fashions that trap people in narrow circles and cut them off from what unites them to each other and to God—these mark a *wicked* world, one that shuts out the sun and chooses its own darkness. Because neither flesh nor world is evil in itself, only derivatively so, we had to speak of an evil spirit or will—the Accuser, Tempter, Destroyer, whose works fill the world's disease and death and the heart's suspicion and insincerity; who has no creative power, no rightful claim on anyone; whom it is our part to renounce utterly, proclaiming ourselves the property of Him who is wholly good and true.
 
@@ -790,9 +760,7 @@ But we are not sentenced to this death. "Out of the eater came forth meat, and o
 [April]{.smallcaps} 5, 1857
 :::
 
-> "*Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind*."—1 [Peter]{.smallcaps} iv. 1.
-
-*The passage:* Because Christ suffered for us in the flesh, arm yourselves with that same mind.
+> Because Christ suffered for us in the flesh, arm yourselves with that same mind. —1 [Peter]{.smallcaps} iv. 1.
 
 [I believe]{.smallcaps} many religious people approach this coming week with pain and dread. Not awe—they complain of having almost none of that. Their pain comes from memories of past years when they tried to grasp the greatness of Christ's sufferings and be moved by them, and failed, leaving their hearts drier than before. Their dread is the expectation that this week will bring the same failure. They call it a still, holy week—words suggesting rest—but they expect struggle and disappointment instead, and if honest, would admit they'd rather forget it altogether. But old associations, the Church's language, and their own consciences won't let them; the week comes freighted with more than they feel able to carry.
 

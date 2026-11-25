@@ -130,20 +130,34 @@ button { font: inherit; color: inherit; }
 .site-nav a:hover, .nav-icon:hover { color: var(--ink); background: var(--paper-2); }
 .site-nav a[aria-current] { color: var(--accent); }
 .nav-icon .i { width: 1.15rem; height: 1.15rem; }
-@media (max-width: 40rem) {
-  .nav-icon-label { display: none; }
+/* The header has room for every item only on a wide screen. As it narrows,
+   the items the footer also links go one by one, in this order (each width
+   measured where the next item would push the theme button off the edge):
+   Glossary, In Brief, the word "Search", About, Library. His Life and
+   Articles stay to the narrowest phone; below 22rem Articles goes too. */
+@media (max-width: 63.5rem) { .nav-glossary { display: none; } }
+@media (max-width: 56.5rem) { .nav-brief { display: none; } }
+@media (max-width: 50rem) { .nav-icon-label { display: none; } }
+@media (max-width: 45rem) {
   .site-header .bar { gap: .4rem; }
   .site-nav { gap: 0; }
   .site-nav a, .nav-icon { padding: .4rem .4rem; font-size: 1.1rem; }
   .wordmark { font-size: 1.35rem; }
 }
-@media (max-width: 26rem) {
+@media (max-width: 35rem) {
   .site-nav a[href$="about.html"] { display: none; }
 }
-@media (max-width: 24rem) {
+@media (max-width: 31rem) {
   /* the wordmark already leads to the library */
   .site-nav a[href$="#library"] { display: none; }
 }
+@media (max-width: 26rem) {
+  .site-header .wrap { padding: 0 .9rem; }
+  .site-header .bar { gap: .3rem; }
+  .site-nav a, .nav-icon { padding: .4rem .3rem; font-size: 1rem; }
+  .wordmark { font-size: 1.15rem; }
+}
+@media (max-width: 22rem) { .nav-articles { display: none; } }
 
 .site-footer { border-top: 1px solid var(--rule); margin-top: 5rem; padding: 2.5rem 0 3rem; text-align: center; color: var(--ink-3); font-size: 1rem; }
 .site-footer p { margin: .35rem 0; }
@@ -529,7 +543,6 @@ button { font: inherit; color: inherit; }
 
 /* ---------------------------------------------------------------- Maurice in Brief */
 
-@media (max-width: 50rem) { .nav-brief { display: none; } }
 .brief-intro { font-size: 1.15rem; color: var(--ink-2); line-height: 1.6; }
 .brief-toc { text-align: center; font-variant-caps: all-small-caps; letter-spacing: .1em; font-size: 1.05rem; color: var(--ink-3); margin: 1.5rem 0 0; line-height: 1.8; }
 .brief-toc a { color: var(--ink-2); text-decoration: none; white-space: nowrap; }
@@ -887,7 +900,6 @@ details.listen ol a:hover { color: var(--accent); }
 
 /* ---------------------------------------------------------------- Glossary */
 
-@media (max-width: 56rem) { .nav-glossary { display: none; } }
 .gl-intro { font-size: 1.1rem; color: var(--ink-2); }
 .gl-index, .gl-entries { margin-top: 2.5rem; }
 .gl-index h2, .gl-entries h2 { font-size: 1.6rem; font-weight: 500; text-align: center; margin: 0 0 1rem; }

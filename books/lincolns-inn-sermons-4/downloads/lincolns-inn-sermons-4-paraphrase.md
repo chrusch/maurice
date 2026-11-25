@@ -12,9 +12,7 @@ For the Sunday after Ascension
 [May]{.smallcaps} 16, 1858
 :::
 
-> "*But He answered and said, Every plant, which My Heavenly Father hath not planted, shall be rooted up*."—[Matthew]{.smallcaps} xv. 13.
-
-*The passage:* Jesus answered that every plant which his heavenly Father has not planted will be rooted up.
+> Jesus answered that every plant which his heavenly Father has not planted will be rooted up. —[Matthew]{.smallcaps} xv. 13.
 
 [Our]{.smallcaps} Lord had been stating the principle that what goes into the mouth does not defile a man, but what comes out of it does. This clearly applied very widely, and it undermined a whole scheme of religion. The Jewish teachers felt how much it involved. The disciples asked their Master whether he knew the Pharisees were offended by it. He answered that every plant his Heavenly Father had not planted would be rooted up, that they should let the Pharisees alone, that they were blind leaders of the blind, and that if the blind lead the blind both fall into the ditch.
 
@@ -58,9 +56,7 @@ Whit-Sunday
 [May]{.smallcaps} 23, 1858
 :::
 
-> "*For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call*,"—[Acts]{.smallcaps} ii. 39.
-
-*The passage:* The promise is for you, for your children, and for all who are far off, for as many as the Lord our God shall call.
+> The promise is for you, for your children, and for all who are far off, for as many as the Lord our God shall call. —[Acts]{.smallcaps} ii. 39.
 
 [These]{.smallcaps} words have perplexed Christians in almost every age since they were spoken. Was the promise fulfilled on the day of Pentecost to the Apostles also fulfilled to those who heard them and to their children, and is it being fulfilled in Britain, North America, and Australia? No one questions that in all these countries men may ask for spiritual guidance and receive it, or seek sanctification and find it. Perhaps that blessing even goes beyond the one given at Pentecost. But are the two the same? Is there any necessary connection between them? That inward privilege might have been given without the rushing mighty wind and without the Apostles speaking with tongues. Did the holy men of the Old Testament not have it already? What would "holy men" mean if they did not? Why then are we taught to treat Whitsuntide not only as the memory of a past event but as the assurance of a present power? If that power is meant for the Church now, why has it been suspended? May we look for its restoration, or is it ours even now, if only a palsy over our hearts did not stop us using it? One answer to the first of these questions has always carried weight. The Apostles were told to wait in Jerusalem for a *power* that would qualify them for a certain *work*. They needed a pure heart for that work, but they would have needed a pure heart even if they had spent their lives as fishermen on the Lake of Galilee. What made them the Missionaries of the world, it is said, was a singular gift, expressly a gift of utterance that made them intelligible to people of different races and tongues. So the question takes a new form. May this Pentecostal endowment belong specially to the Christian Missionary? Can he work effectively without it? If Christian zeal for converting the heathen had not slackened, might the promise have been fulfilled to the latest ages as much as to the earliest?
 
@@ -108,9 +104,7 @@ Trinity Sunday
 [May]{.smallcaps} 30, 1858
 :::
 
-> "*Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen*."—[Matthew]{.smallcaps} xxviii. 19, 20.
-
-*The passage:* Jesus tells his disciples to go and teach all nations, baptizing them in the name of the Father, the Son and the Holy Ghost, and teaching them to observe everything he has commanded. He promises to be with them always, to the end of the world.
+> Jesus tells his disciples to go and teach all nations, baptizing them in the name of the Father, the Son and the Holy Ghost, and teaching them to observe everything he has commanded. He promises to be with them always, to the end of the world. —[Matthew]{.smallcaps} xxviii. 19, 20.
 
 "[Why]{.smallcaps}," it has often been asked by able, benevolent and reverent men, "did the Early Church dwell so much on mysteries concerning the Name and Nature of God? Why, above all, did it make these mysteries the bonds of communion between its members? Was it not a strange departure from the natural order of Christian education to begin with problems that only a few of the most initiated ever really master? Was it not uncharitable to make shibboleths for the Church in all nations out of expressions that hardly anyone can pronounce without some inaccuracy or stammering? Would not the Sermon on the Mount and the life of Jesus Christ have been an easier yoke for disciples young or old, and the links of a far more comprehensive fellowship?"
 
@@ -148,9 +142,7 @@ First Sunday after Trinity
 [June]{.smallcaps} 6, 1858
 :::
 
-> "*For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature*." —[Galatians]{.smallcaps} vi. 15.
-
-*The passage:* In Christ Jesus neither circumcision counts for anything, nor uncircumcision, but a new creature.
+> In Christ Jesus neither circumcision counts for anything, nor uncircumcision, but a new creature. —[Galatians]{.smallcaps} vi. 15.
 
 [On]{.smallcaps} first reading, this sentence may seem awkwardly built. Why does St. Paul say "in Christ Jesus"? Why not "in the Christian religion," "in the Christian community," or "among us, the true disciples of Jesus Christ"? Would not any of these have given his sense more simply?
 
@@ -196,9 +188,7 @@ Second Sunday after Trinity
 [June]{.smallcaps} 13, 1858
 :::
 
-> "*That ye may be sincere and without offence till the day of Christ*."—[Philippians]{.smallcaps} i. 10.
-
-*The passage:* Paul prays that the Philippians may be sincere and without offence until the day of Christ.
+> Paul prays that the Philippians may be sincere and without offence until the day of Christ. —[Philippians]{.smallcaps} i. 10.
 
 [These]{.smallcaps} words express the deepest wishes Paul could utter before God for his converts at Philippi, and equally his deepest longings for himself. He could not separate what was good for them from what was good for him. We might think that the veteran of Christ, with so many battles behind him and so many scars, had a right to blessings the raw recruit could not ask. He did not think so. He rejoices in fellowship with them in the Gospel, in their sorrows, conflicts and supports, and he supposes no greater reward than that they and he should enter fully into it. He knows the same enemies are working to rob them of this reward and keep them apart. If they, many of whom had only just renounced their idols and been baptized, did not keep this goal in sight, they were forgetting their calling and not believing in God their Father. And if he, who had received so many revelations and endured so many sufferings, thought there was a higher end, or that he was more secure of this one, less exposed to the principalities and powers with which they and he were wrestling, he would have fallen from Christ while glorifying himself as Christ's Apostle.
 
@@ -242,9 +232,7 @@ Third Sunday after Trinity
 [June]{.smallcaps} 20, 1858
 :::
 
-> "*He is the minister of God to thee for good*."—[Romans]{.smallcaps} xiii. 4.
-
-*The passage:* The ruler is God's minister to you, for your good.
+> The ruler is God's minister to you, for your good. —[Romans]{.smallcaps} xiii. 4.
 
 [We]{.smallcaps} the clergy call ourselves Ministers. You grant us this title even when you refuse others we claim. It sounds humble, as if we gave up any right to be masters. Yet it has often produced, and still sometimes produces, the opposite effect in clergy and laity alike. Any exclusive claim, even to the meanest office, can puff up the one who makes it. Others find the claim more monstrous the greater its contrast with the thing claimed. I suppose the arrogance seems greater, not less, when we fill in the missing words and say with St. Paul, "We are ministers *of God*." Yet it is dangerous to leave open whether we mean this or something quite different. Every holder of our office must in some sense be a minister. He must serve his own tastes, notions and imaginary interests, or those of the people among whom he works. Or he must boldly say, "I am the minister of God; my commission is from Him." That risks exalting him in his own eyes, winning superstitious reverence, or exposing him to ridicule when he fails to live up to it. But even when we say it and believe it, we have gained little. The name is awful, but it is familiar. To most people it suggests a round of duties expected of a certain set of persons. A few, taught by history, may take offence. They may hint that the *Servus Servorum* set his foot on the neck of kings, and that others in the same livery set theirs on the necks of peoples. But for one with such fears there will be nine who think the phrase an innocent fiction. Hardly an hour of the day passes without tempting each of us to think so too.
 
@@ -282,9 +270,7 @@ Fourth Sunday after Trinity
 [June]{.smallcaps} 27, 1858
 :::
 
-> "*And when He was come into the temple, the chief priests and the elders of the people came unto Him as He was teaching, and said, By what authority doest Thou these things? and who gave Thee this authority? And Jesus answered and said unto them, I also will ask you one thing, which if ye tell Me, I in like wise will tell you by what authority I do these things. The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; He will say unto us, Why did ye not then believe him? But if we shall say, Of men; we fear the people; for all hold John as a prophet. And they answered Jesus, and said, We cannot tell. And He said unto them, Neither tell I you by what authority I do these things*."—[Matthew]{.smallcaps} xxi. 23-27.
-
-*The passage:* When Jesus came into the temple and was teaching, the chief priests and elders asked Him by what authority He did these things and who gave Him that authority. He answered that He would ask them one thing, and if they told Him, He would tell them by what authority He acted: was John's baptism from heaven or from men? They reasoned among themselves. If they said "from heaven," He would ask why they had not believed John. If they said "of men," they feared the people, who all held John to be a prophet. So they answered, "We cannot tell," and He said He would not tell them by what authority He did these things.
+> When Jesus came into the temple and was teaching, the chief priests and elders asked Him by what authority He did these things and who gave Him that authority. He answered that He would ask them one thing, and if they told Him, He would tell them by what authority He acted: was John's baptism from heaven or from men? They reasoned among themselves. If they said "from heaven," He would ask why they had not believed John. If they said "of men," they feared the people, who all held John to be a prophet. So they answered, "We cannot tell," and He said He would not tell them by what authority He did these things. —[Matthew]{.smallcaps} xxi. 23-27.
 
 [One]{.smallcaps} could be sure that the chief priests and elders would "reason with themselves" just as the Evangelist says. The simple question, "What is the fact, or what do we believe it to be?", was not the one that would occur to them. Part of their religion was to avoid impolitic words or acts that might have mischievous consequences. They will have learnt to think straightforwardness and truthfulness not only inconvenient but, in a certain sense, wrong. Their first duty, as they saw it, was to keep up the credit of the Law and of those who interpreted and administered it. Endangering the people's faith in themselves was their highest notion of sin, for who could tell what might follow if their disciples saw them commit a false step? I know of no more fearful sign of decay in a nation's heart than this. It appears when teachers not only dare not speak the truth but make a principle of not speaking it, and have persuaded themselves that evasion is a merit and that there is a better way of serving the God of Truth than by being true. Then we may be sure that society has become radically corrupt and that some great change is at hand.
 
@@ -318,9 +304,7 @@ Fifth Sunday after Trinity
 [July]{.smallcaps} 4, 1858
 :::
 
-> "*For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till He come*."——1 [Corinthians]{.smallcaps} xi. 26.
-
-*The passage:* Every time you eat this bread and drink this cup, you show the Lord's death until he comes.
+> Every time you eat this bread and drink this cup, you show the Lord's death until he comes. —1 [Corinthians]{.smallcaps} xi. 26.
 
 [I have]{.smallcaps} spoken to you often about the Eucharist, and I must speak of it again. I wish we could connect it with everything said from the pulpit on Sundays and with all our weekday acts. Then I believe the disputes about it, which each year and month renews in every corner of the Church, would distress us more than ever, yet make us despair less. We would find the root of them in ourselves. We would understand why they have been so serious and so frivolous, and why no clever men, arrangements, or decrees can settle them. We would learn how, and by Whom, they must and will be ended.
 
@@ -360,9 +344,7 @@ Sixth Sunday after Trinity
 [July]{.smallcaps} 11, 1858
 :::
 
-> "*Then said Jesus unto His disciples, If any man will come after Me, let him deny himself, and take up his cross, and follow Me. For whosoever will save his life shall lose it: and whosoever will lose his life for My sake shall find it. For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul? For the Son of man shall come in the glory of His Father with His angels; and then He shall reward every man according to his works. Verily I say unto you, there be some standing here, which shall not taste of death, till they see the Son of man coming in His kingdom*."—[Matthew]{.smallcaps} xvi. 24-28.
-
-*The passage:* Jesus told his disciples that anyone who wants to follow him must deny himself, take up his cross, and follow. Whoever tries to save his life will lose it, and whoever loses his life for Jesus' sake will find it. What good is it to gain the whole world and lose one's own soul, or what could a man give in exchange for it? The Son of Man will come in his Father's glory with his angels and reward everyone according to his works. Some standing there would not die before they saw the Son of Man coming in his kingdom.
+> Jesus told his disciples that anyone who wants to follow him must deny himself, take up his cross, and follow. Whoever tries to save his life will lose it, and whoever loses his life for Jesus' sake will find it. What good is it to gain the whole world and lose one's own soul, or what could a man give in exchange for it? The Son of Man will come in his Father's glory with his angels and reward everyone according to his works. Some standing there would not die before they saw the Son of Man coming in his kingdom. —[Matthew]{.smallcaps} xvi. 24-28.
 
 [Last]{.smallcaps} Sunday I tried to show that we reach a true idea of the purpose and effects of the Lord's Supper if we begin by seeing that it shows or declares the Lord's death until he comes. I foresaw a very practical objection, one many would feel without being able to state it. "Do we not come to Christ's Table for the sake of our own souls? Does it not say, *Except ye eat the flesh of the Son of man, and drink His blood, ye have no life in you*? Does not the minister, as he gives the elements, speak to each man of *his* body and soul, and of Christ having died for *him*? Even if it is a duty to declare Christ to men, does this language not point to a different duty, to our own personal salvation? Does it not suggest that Christ's death, though in some sense for all, is in its highest and only important sense for the person who can appropriate it, who can say, 'I have signs within me which most people lack that I belong to Christ'?"
 
@@ -416,9 +398,7 @@ Seventh Sunday after Trinity
 [July]{.smallcaps} 18, 1858
 :::
 
-> "*The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all*."—2 [Corinthians]{.smallcaps} xiii. 14.
-
-*The passage:* May the grace of the Lord Jesus Christ, the love of God, and the communion of the Holy Spirit be with you all.
+> May the grace of the Lord Jesus Christ, the love of God, and the communion of the Holy Spirit be with you all. —2 [Corinthians]{.smallcaps} xiii. 14.
 
 [We]{.smallcaps} end our daily morning and evening prayer with these words. The compilers of our Service surely thought they expressed the deepest ground of prayer, its inmost meaning and most perfect result. I have chosen them today because I hope they resolve a difficulty about how prayer relates to the Lord's Supper, one that troubles some very earnest minds who do not concern themselves with trifles. The question is: "Can we say that the presence of our Lord promised in the Eucharist is of a different kind from the presence a faithful Christian may expect in ordinary prayer?" Some who have no wish to disparage the Sacrament answer a firm no. They fear turning it into a charm, and think they would lower its dignity by claiming too much for it. Their proposition may seem to them almost beyond dispute. But it meets a strong opposition, deserving the highest respect, which asserts a truth that cannot safely be set aside. The subject may be less embarrassing if we ask, not what the honour of the Eucharist demands, but what prayer needs in order to be Christian and effectual.
 
@@ -464,9 +444,7 @@ Eighth Sunday after Trinity
 [July]{.smallcaps} 25, 1858
 :::
 
-> "*To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it*."—[Revelation]{.smallcaps} ii. 17.
-
-*The passage:* To the one who overcomes, Christ says he will give some of the hidden manna to eat, and a white stone with a new name written on it, which no one knows except the one who receives it.
+> To the one who overcomes, Christ says he will give some of the hidden manna to eat, and a white stone with a new name written on it, which no one knows except the one who receives it. —[Revelation]{.smallcaps} ii. 17.
 
 [There]{.smallcaps} is one topic closely tied to what I have been speaking about for three Sundays that must not be passed over now. We hear much about Confession: whether a clergyman is bound to establish the formal practice, where its limits lie, and whether the laity demand it. We also hear fierce denunciations of anything resembling a Confessional, appeals to the experience of other nations against it, and a cry that the State should stop it if opinion cannot. There is plenty of frivolous talk on both sides, which must be borne as a penance. But there are also earnest thoughts and feelings on both sides. By God's grace these may be separated from the vanity around them, become clear, and work in harmony rather than opposition.
 
@@ -526,9 +504,7 @@ Ninth Sunday after Trinity
 [August]{.smallcaps} 1, 1858
 :::
 
-> "*Behold, I stand at the door, and knock: if any man hear My voice, and open the door, I will come in to him, and will sup with him, and he with Me*."—[Revelation]{.smallcaps} iii. 20.
-
-*The passage:* Christ says he stands at the door and knocks. If anyone hears his voice and opens the door, he will come in and eat with that person, and that person with him.
+> Christ says he stands at the door and knocks. If anyone hears his voice and opens the door, he will come in and eat with that person, and that person with him. —[Revelation]{.smallcaps} iii. 20.
 
 [I took]{.smallcaps} the text of my last sermon from one of those messages to the Churches with which the Apocalypse opens. This sentence comes from another of them.
 
@@ -588,9 +564,7 @@ Twenty-first Sunday after Trinity
 [October]{.smallcaps} 24, 1858
 :::
 
-> "*Then spake Jesus again unto them, saying, I am the light of the world: he that followeth Me shall not walk in darkness*." —[John]{.smallcaps} viii. 12.
-
-*The passage:* Jesus spoke to them again and said, "I am the light of the world. Whoever follows me will not walk in darkness."
+> Jesus spoke to them again and said, "I am the light of the world. Whoever follows me will not walk in darkness." —[John]{.smallcaps} viii. 12.
 
 [We]{.smallcaps} begin this afternoon to read the Book of Proverbs. Part of it is aphorisms about the well-being of individuals and nations, which in modern terms we would call morals and politics. The ground of these lies in the earlier chapters: before we are taught how Wisdom and Folly show themselves in daily dealings, we are told what they are. Shrewd observations from a man with experience of the world and of himself are always worth studying. But if they are not collected merely to display the writer's sagacity, we may ask him to show how we can use his discoveries in our own emergencies. Solomon accepts the challenge. His claim to wisdom rests on his sympathy with his fellow-men, not on isolation from them. He is wiser than others because he enters more fully into what is human and universal. He is freer from affectation and oddity, he looks more earnestly and bravely into the heart of commonplaces, and he tells his readers what is true of themselves as much as of him. He lets his silly, headstrong son know that there is a light near him in which he may walk, and a darkness in which he may also walk. Rehoboam was no different from Solomon in this. The same law governed both, and the same unseen Wisdom revealed itself to the search and love of both. The same harlot sense tempted both away from Wisdom, to follow their own courses, choose their own delusions, and destroy themselves. Each had in him what made this tempter powerful. Each was addressed by the Divine Teacher, the true Lawgiver and King of Man, and each could heed a voice that was soft and gentle yet had a might to command that no other voice has. Wisdom, Solomon affirms, is no hard, dreary abstraction, no result of experience, no product of our understanding. It is living, actual, personal. We find it; we do not make it. If we search for it, it will disclose itself. The more we confess it, the more conscious we become of its presence, and the more our understandings do it homage rather than trust themselves, the more free, vigorous and manly they are.
 
@@ -630,9 +604,7 @@ Twenty-second Sunday after Trinity
 [October]{.smallcaps} 31, 1858
 :::
 
-> "*By mercy and truth iniquity is purged: and by the fear of the Lord men depart from evil*."—[Proverbs]{.smallcaps} xvi. 6.
-
-*The passage:* By mercy and truth wrongdoing is purged away, and by the fear of the Lord people turn from evil.
+> By mercy and truth wrongdoing is purged away, and by the fear of the Lord people turn from evil. —[Proverbs]{.smallcaps} xvi. 6.
 
 [These]{.smallcaps} few words suggest many opposing theories in law, education, and theology. One doctrine we all know well today: if you want to reform criminals, use mercy, since every other method has been tried and failed. Those who think this an all-sufficient rule for convicted wrongdoers usually extend it to disciplining children, believing that severity aggravates the evil it tries to cure. The same habit of mind arrives, without any effort of logic, at a third conclusion: that God's character should be presented to men as pure, unmixed mercy. Only so, they say, can a sinner's hard heart be melted and his iniquity purged.
 
@@ -668,9 +640,7 @@ Twenty-third Sunday after Trinity
 [November]{.smallcaps} 7, 1858
 :::
 
-> "*This I say, that he which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully*."—2 [Corinthians]{.smallcaps} ix. 6.
-
-*The passage:* Whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully.
+> Whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully. —2 [Corinthians]{.smallcaps} ix. 6.
 
 [This]{.smallcaps} text is often cited with great triumph by those who say men can be stirred to good deeds only by the prospect of a tangible reward in a future state. "The writer," they say, "is St. Paul, whom Protestants suppose to have laid the axe to every notion of human merit. His meaning is plain. He is urging the Corinthians to collect money for their poorer brethren, and he says that if they give liberally they will receive liberally from God. Could language be more natural or reasonable? Your preachers fall into it almost inevitably. You are shocked at the idea that alms are an offering for sins. You denounce at length those who suggest that some offences may be overlooked, or that rewards in Heaven may be won by giving up part of our earthly treasure. Yet is there one of your charity sermons that does not leave hearers inferring that their condition will be better if they help the cause and worse if they are deaf to the preacher? Draw what fine distinctions you like; you suggest that opinion whenever your words are effective. And why are they so often ineffective, except that men cannot tell whether you mean what you say? Sometimes we are to take St. Paul literally and reckon the harvest by the seed sown. Sometimes you speak as if the one had nothing to do with the other. The result is what you would expect: the benevolent and religious efforts of your flocks are uncertain and desultory, begun under some sudden impulse and soon abandoned for want of motive to persevere. In ordinary affairs we act on the Apostle's maxim and expect results from our diligence. In the affairs you call most important, we seem to assume, or half assume, the opposite."
 
@@ -706,9 +676,7 @@ Twenty-fourth Sunday after Trinity
 [November]{.smallcaps} 14, 1858
 :::
 
-> "*While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal*."—2 [Corinthians]{.smallcaps} iv. 18.
-
-*The passage:* We look not at the things that are seen but at the things that are unseen, for the things seen are temporary and the things unseen are eternal.
+> We look not at the things that are seen but at the things that are unseen, for the things seen are temporary and the things unseen are eternal. —2 [Corinthians]{.smallcaps} iv. 18.
 
 [We]{.smallcaps} sometimes speak of Time as a river and of Eternity as the ocean it flows into. Some minds may find truth in the comparison, but it is likely to mislead. It gives us a vague impression, not exactly a thought, that we float down the stream of Time in this world and that Death first brings us into contact with Eternity. Many phrases that have passed from popular preaching into the ordinary vocabulary of theology carry this notion. St. Paul's words suggest a very different one. He says that things seen are temporal (πρόσκαιρα) and things unseen are eternal. He does not call one present and the other future, or say that here he is among passing things and hereafter will be among permanent ones. He feels himself in the midst of both, here on earth. The visible world is around him, and he has senses to take it in and a heart able to enjoy it. An invisible world is around him too. His senses do not take it in, and his heart trembles at it and sometimes would flee from it. Yet he is sure he has faculties for conversing with that world and that his heart will be content with no other. He is truly a man only so far as these faculties are awake, have their proper objects, and are occupied with what satisfies the spirit. His senses may be alive, but he is not alive unless he has something they cannot testify to. Strictly, even the senses are not alive without that. Their reports are confused and inconsistent, and they are overpowered by the world unless he is up and at work to direct and govern them.
 
@@ -750,9 +718,7 @@ Twenty-fifth Sunday after Trinity
 [November]{.smallcaps} 21, 1858
 :::
 
-> "*My soul cleaveth unto the dust: quicken Thou me according to Thy word*,"—[Psalm]{.smallcaps} cxix. 25.
-
-*The passage:* My soul clings to the dust; give me life, according to your word.
+> My soul clings to the dust; give me life, according to your word. —[Psalm]{.smallcaps} cxix. 25.
 
 [We]{.smallcaps} call the Psalms the Psalms of David, not because we know how many he wrote, but because they are the cries and prayers of a king. He is learning to obey and to rule, to suffer and to subdue. He is fighting a battle, for others as well as himself, and he is certain he will be crushed unless he finds a help that is not in himself and that no mortal ally can give. The Psalms are not a collection of fine sentences or lofty aspirations. The writer does not care whether we credit him for what he says and thinks. He tells God things most likely to destroy his reputation among men. His prayers have become a heritage for generations because his conflicts were those of a human being against the enemies of human beings. We count them ours because we are sure these prayers were drawn out of a man by One who was teaching him what kingship and manhood are, and who would teach us the same. We cannot let the Psalms pass into the world of books and letters. They must stay tied to personal effort and anguish.
 
