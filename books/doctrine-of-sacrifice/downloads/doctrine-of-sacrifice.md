@@ -1,5 +1,34 @@
 # The Doctrine of Sacrifice Deduced from Scriptures: A Series of Sermons
 
+::: {.center}
+THE
+:::
+
+::: {.center}
+DOCTRINE OF SACRIFICE
+:::
+
+::: {.center}
+DEDUCED FROM THE SCRIPTURES
+:::
+
+::: {.center}
+A Series of Sermons\
+BY
+:::
+
+::: {.center}
+FREDERICK DENISON MAURICE, M.A.\
+CHAPLAIN OF LINCOLN'S INN
+:::
+
+::: {.center}
+London\
+MACMILLAN AND CO.\
+AND NEW YORK\
+1893
+:::
+
 ## Dedicatory Letter
 
 TO THE MEMBERS OF THE YOUNG MEN'S CHRISTIAN ASSOCIATION

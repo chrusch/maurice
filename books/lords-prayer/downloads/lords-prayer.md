@@ -1,5 +1,52 @@
 # The Lord's Prayer: Nine Sermons
 
+::: {.center}
+THE LORD'S PRAYER.
+:::
+
+::: {.center}
+NINE SERMONS
+:::
+
+::: {.center}
+PREACHED
+:::
+
+::: {.center}
+IN THE CHAPEL OF LINCOLN'S INN
+:::
+
+::: {.center}
+IN
+:::
+
+::: {.center}
+THE MONTHS OF FEBRUARY, MARCH,\
+AND APRIL, 1848.
+:::
+
+::: {.center}
+BY
+:::
+
+::: {.center}
+FREDERICK DENISON MAURICE, M.A.,\
+*CHAPLAIN OF LINCOLN'S INN.*
+:::
+
+::: {.center}
+THE SECOND EDITION, REVISED.
+:::
+
+::: {.center}
+LONDON:\
+JOHN W. PARKER, WEST STRAND.
+:::
+
+::: {.center}
+M.DCCC.XLIX.
+:::
+
 ## Advertisement
 
 [I wished]{.smallcaps} in these Sermons to connect the Lord's Prayer with the thoughts which are most likely to be occupying us at this time. If they lead any to ask themselves how their study of passing occurrences may be made more serious, and their worship more real, my purpose in publishing them will be answered.

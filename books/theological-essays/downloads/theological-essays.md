@@ -1,6 +1,34 @@
 # Theological Essays
 
+::: {.center}
+THEOLOGICAL ESSAYS
+:::
+
+::: {.center}
+BY
+:::
+
+::: {.center}
+FREDERICK DENISON MAURICE, M.A.,\
+PROFESSOR OF CASUISTRY AND MORAL PHILOSOPHY\
+IN THE UNIVERSITY OF CAMBRIDGE.
+:::
+
 > Il s'en faut peut-être que le christianisme, à cette heure qui nous paraît si avancée, ait produit dans la conscience et dans la vie de l'humanitè toutes ses applications, ait exprimé toute sa pensée, ait dit son dernier mot. Dans un sens, il a tout dit dès l'abord; dans un autre sens, il a beaucoup à dire encore, et le monde ne finira que quand le christianisme aura tout dit.—[Vinet]{.smallcaps}.
+
+::: {.center}
+FOURTH EDITION
+:::
+
+::: {.center}
+London\
+MACMILLAN AND CO.\
+1881
+:::
+
+::: {.center}
+*All rights reserved.*
+:::
 
 ## Dedication
 
@@ -1083,7 +1111,7 @@ Starting from these premises, let us consider why it is that the New Testament h
 
 How then can we affix that meaning to Eternal, when we are speaking of man's bliss or misery? Is that without beginning as well as without end? "Oh no! you must leave out the beginning. That of course has nothing to do with this case." Who told you so? How dare you play thus fast and loose with God's word? How dare you fix the standard by which the signification of a word is to be judged, and reject that very standard a moment after?
 
-But are there no better reasons why we should not affix this meaning, "without beginning and end," to the word aiwvis when it is applied in the New Testament to God? I quite agree that such a meaning might have seemed very natural to an ordinary Greek. The word might have been used in that sense by a classical author, or in colloquial language, without the least impropriety. But just the lesson which God had been teaching men by the revelation of Himself was, that mere negatives are utterly unfit to express His being, His substance. From the very first, He had taught His chosen people to look upon Him as the righteous Being, to believe that all their righteousness was grounded on His. He had promised them a more complete knowledge of His righteousness. Every true Israelite had looked to this knowledge as His reward, as the deliverance from his enemies, as the satisfaction of his inmost longings, as the great blessing to his nation and to mankind, as well as to himself. His Righteousness, His Truth, His Love, the Jew came more and more to perceive, were the substantial and eternal things, by seeking which he was delivered from the worship of Gods of Time and Sense, as well as from the more miserable philosophical abstraction of a God who is merely a negative of time; without beginning and without end. Therefore, when the Son was revealed, this is the language in which the beloved disciple speaks, "The life was manifested, and we have seen it, and we declare unto you that eternal life which was with the Father, and which has been manifested unto us." This is but a specimen of his uniform language. Yes, and I will be bold to say that his language interprets all the language of the New Testament. The eternal life is the righteousness and truth and love of God which are manifested in Christ Jesus; manifested to men that they may be partakers of them, that they may have fellowship with the Father and with the Son. This is held out as the eternal blessedness of those who seek God and love Him. This it is of which our Lord must have spoken in His last prayer, if he who reports that prayer did not misinterpret His meaning.
+But are there no better reasons why we should not affix this meaning, "without beginning and end," to the word αἰώνιος when it is applied in the New Testament to God? I quite agree that such a meaning might have seemed very natural to an ordinary Greek. The word might have been used in that sense by a classical author, or in colloquial language, without the least impropriety. But just the lesson which God had been teaching men by the revelation of Himself was, that mere negatives are utterly unfit to express His being, His substance. From the very first, He had taught His chosen people to look upon Him as the righteous Being, to believe that all their righteousness was grounded on His. He had promised them a more complete knowledge of His righteousness. Every true Israelite had looked to this knowledge as His reward, as the deliverance from his enemies, as the satisfaction of his inmost longings, as the great blessing to his nation and to mankind, as well as to himself. His Righteousness, His Truth, His Love, the Jew came more and more to perceive, were the substantial and eternal things, by seeking which he was delivered from the worship of Gods of Time and Sense, as well as from the more miserable philosophical abstraction of a God who is merely a negative of time; without beginning and without end. Therefore, when the Son was revealed, this is the language in which the beloved disciple speaks, "The life was manifested, and we have seen it, and we declare unto you that eternal life which was with the Father, and which has been manifested unto us." This is but a specimen of his uniform language. Yes, and I will be bold to say that his language interprets all the language of the New Testament. The eternal life is the righteousness and truth and love of God which are manifested in Christ Jesus; manifested to men that they may be partakers of them, that they may have fellowship with the Father and with the Son. This is held out as the eternal blessedness of those who seek God and love Him. This it is of which our Lord must have spoken in His last prayer, if he who reports that prayer did not misinterpret His meaning.
 
 Is it inconsistent, then, with the general object and character of the New Testament, as the manifestation of His love, that Eternity in all its aspects should come before us there as it does nowhere else, that there we should be taught what it means? Is it inconsistent with its scope and object that there, too, we should be taught what the horror and awfulness is of being without this love, of setting ourselves in opposition to it? Those who would not own Christ in His brethren, who did not visit Him when they were sick and in prison, go away, He said, into eternal or everlasting punishment. Are we affixing a new meaning to these words, or the very meaning which the context demands, the only meaning which is consistent with the force that is given to the adjective by our Lord and His apostles elsewhere, if we say that the eternal punishment is the punishment of being without the knowledge of God, who is love, and of Jesus Christ, who has manifested it; even as eternal life is declared to be the having the knowledge of God and of Jesus Christ? If it is right, if it is a duty, to say that Eternity in relation to God has nothing to do with time or duration, are we not bound to say that also in reference to life or to punishment it has nothing to do with time or duration?
 

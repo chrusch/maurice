@@ -1,5 +1,36 @@
 # The Gospel of the Kingdom of Heaven: A Course of Lectures on the Gospel of St. Luke
 
+::: {.center}
+THE GOSPEL\
+OF THE\
+KINGDOM OF HEAVEN
+:::
+
+::: {.center}
+A Course of Lectures on the Gospel of St. Luke
+:::
+
+::: {.center}
+BY
+:::
+
+::: {.center}
+FREDERICK DENISON MAURICE
+:::
+
+> 'Come forth out of Thy royall chambers, O Prince of all the kings of the earth! Put on the robes of Thy imperiall majesty! take up that unlimited sceptre which Thy Almighty Father hath bequeath'd Thee! for now the voice of Thy Bride calls Thee, and all creatures sigh to bee renew'd.'—[Milton.]{.smallcaps}
+
+::: {.center}
+London\
+MACMILLAN AND CO.\
+AND NEW YORK\
+1888
+:::
+
+::: {.center}
+*The Right of Translation and Reproduction is reserved*
+:::
+
 ## PREFACE
 
 [I have]{.smallcaps} called these discourses 'Lectures,' not sermons. — They are strictly readings on the Gospel of St. Luke. But they were addressed to a congregation. The ordinary rules of preaching were observed in the delivery of them; a text was placed at the head of each. It was chosen because much of the sense of the surrounding passages seemed to be woven into it. That, I presume, is the meaning of a text;' the justification for its use in the pulpit. It should always suggest, and in some sort compel, the study of the book from which it is taken; it should never be forgotten in the disquisition which is appended to it. When I revised the lectures, and prepared them for the press, I might, along with other alterations, have dropped these headings. But I was unwilling to give the book the form of a commentary, or to lose any of the links which connected the Gospel that is written with the Gospel that is preached. Why I felt this reluctance will be evident if I explain the object of the course, and the circumstances which suggested it.

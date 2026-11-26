@@ -2,6 +2,54 @@
 
 > "As our understanding can contemplate itself, and our affections be exercised upon themselves by reflection, so may each be employed in the same manner upon any other mind: and since the Supreme Mind, the Author and Cause of all things, is the highest possible object to Himself, He may be an adequate supply to all the faculties of our souls, a subject to our understandings, and an object to our affections."—*Butler*, 14*th Sermon*, *On the Love of God.*
 
+::: {.center}
+WHAT IS REVELATION?
+:::
+
+::: {.center}
+A SERIES OF
+:::
+
+::: {.center}
+Sermons on the Epiphany;
+:::
+
+::: {.center}
+TO WHICH ARE ADDED
+:::
+
+::: {.center}
+LETTERS TO A STUDENT OF THEOLOGY
+:::
+
+::: {.center}
+ON THE
+:::
+
+::: {.center}
+BAMPTON LECTURES OF MR. MANSEL.
+:::
+
+::: {.center}
+BY THE REV.
+:::
+
+::: {.center}
+FREDERICK DENISON MAURICE, M.A.,\
+CHAPLAIN OF LINCOLN'S INN.
+:::
+
+::: {.center}
+Cambridge:\
+MACMILLAN & CO.,\
+AND 23, HENRIETTA STREET, COVENT GARDEN, LONDON.\
+1859.
+:::
+
+::: {.center}
+[*The right of Translation is reserved.*]
+:::
+
 ## Preface
 
 [In]{.smallcaps} the Preface to the third edition of Mr. Mansel's Lectures, p. 14, he says:—

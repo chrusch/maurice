@@ -1,6 +1,53 @@
 # The Religions of the World and Their Relations to Christianity
 
+::: {.center}
+THE
+:::
+
+::: {.center}
+RELIGIONS OF THE WORLD
+:::
+
+::: {.center}
+AND THEIR
+:::
+
+::: {.center}
+RELATIONS TO CHRISTIANITY,
+:::
+
+::: {.center}
+CONSIDERED IN
+:::
+
+::: {.center}
+EIGHT LECTURES
+:::
+
+::: {.center}
+FOUNDED BY THE RIGHT HON. ROBERT BOYLE.
+:::
+
+::: {.center}
+BY
+:::
+
+::: {.center}
+FREDERICK DENISON MAURICE, M.A.,\
+*CHAPLAIN OF LINCOLN'S INN, AND*\
+*PROFESSOR OF DIVINITY IN KING'S COLLEGE, LONDON.*
+:::
+
 > Τὸ γνωστὸν τοῦ Θεοῦ φανερόν ἐστιν ἐν αὐτοῖς· ὁ γὰρ Θεὸς αὐτοῖς ἐφανέρωσε.—Romans i. 19.
+
+::: {.center}
+LONDON:\
+JOHN W. PARKER, WEST STRAND.
+:::
+
+::: {.center}
+M.DCCC.XLVII.
+:::
 
 ## Dedication
 
